@@ -1,0 +1,406 @@
+{
+  "document": "Asset_Register.xlsx",
+  "document_type": "Asset Register",
+  "entities": [
+    {
+      "Asset_ID": "KS-01",
+      "Category": "Pump",
+      "Manufacturer": "KSB",
+      "Model_Number": "Omega-125",
+      "Location": "Zone Alpha",
+      "Installation_Date": "2024-03-26"
+    },
+    {
+      "Asset_ID": "AB-02",
+      "Category": "Motor",
+      "Manufacturer": "ABB",
+      "Model_Number": "M3BP-160",
+      "Location": "Zone Alpha",
+      "Installation_Date": "2024-02-27"
+    },
+    {
+      "Asset_ID": "SI-03",
+      "Category": "Motor",
+      "Manufacturer": "Siemens",
+      "Model_Number": "1LE1001-2A",
+      "Location": "Zone Alpha",
+      "Installation_Date": "2022-01-27"
+    },
+    {
+      "Asset_ID": "GR-04",
+      "Category": "Pump",
+      "Manufacturer": "Grundfos",
+      "Model_Number": "CR-10",
+      "Location": "Zone Beta",
+      "Installation_Date": "2021-08-19"
+    },
+    {
+      "Asset_ID": "KS-05",
+      "Category": "Pump",
+      "Manufacturer": "KSB",
+      "Model_Number": "Omega-125",
+      "Location": "Zone Utility",
+      "Installation_Date": "2023-02-19"
+    },
+    {
+      "Asset_ID": "AB-06",
+      "Category": "Motor",
+      "Manufacturer": "ABB",
+      "Model_Number": "M3BP-225",
+      "Location": "Zone Utility",
+      "Installation_Date": "2022-12-27"
+    },
+    {
+      "Asset_ID": "SI-07",
+      "Category": "Motor",
+      "Manufacturer": "Siemens",
+      "Model_Number": "1LE1001-1A",
+      "Location": "Zone Gamma",
+      "Installation_Date": "2022-10-05"
+    },
+    {
+      "Asset_ID": "GR-08",
+      "Category": "Pump",
+      "Manufacturer": "Grundfos",
+      "Model_Number": "CR-15",
+      "Location": "Zone Beta",
+      "Installation_Date": "2023-05-21"
+    },
+    {
+      "Asset_ID": "KS-09",
+      "Category": "Pump",
+      "Manufacturer": "KSB",
+      "Model_Number": "Omega-100",
+      "Location": "Zone Beta",
+      "Installation_Date": "2023-06-11"
+    },
+    {
+      "Asset_ID": "AB-10",
+      "Category": "Motor",
+      "Manufacturer": "ABB",
+      "Model_Number": "M3BP-200",
+      "Location": "Zone Alpha",
+      "Installation_Date": "2021-04-06"
+    },
+    {
+      "Asset_ID": "SI-11",
+      "Category": "Motor",
+      "Manufacturer": "Siemens",
+      "Model_Number": "1LE1001-1A",
+      "Location": "Zone Gamma",
+      "Installation_Date": "2022-06-25"
+    },
+    {
+      "Asset_ID": "GR-12",
+      "Category": "Pump",
+      "Manufacturer": "Grundfos",
+      "Model_Number": "CR-32",
+      "Location": "Zone Utility",
+      "Installation_Date": "2022-08-01"
+    },
+    {
+      "Asset_ID": "KS-13",
+      "Category": "Pump",
+      "Manufacturer": "KSB",
+      "Model_Number": "Omega-80",
+      "Location": "Zone Beta",
+      "Installation_Date": "2023-03-07"
+    },
+    {
+      "Asset_ID": "AB-14",
+      "Category": "Motor",
+      "Manufacturer": "ABB",
+      "Model_Number": "M3BP-225",
+      "Location": "Zone Beta",
+      "Installation_Date": "2021-07-09"
+    },
+    {
+      "Asset_ID": "SI-15",
+      "Category": "Motor",
+      "Manufacturer": "Siemens",
+      "Model_Number": "1LE1001-1A",
+      "Location": "Zone Alpha",
+      "Installation_Date": "2022-09-20"
+    },
+    {
+      "Asset_ID": "GR-16",
+      "Category": "Pump",
+      "Manufacturer": "Grundfos",
+      "Model_Number": "CR-32",
+      "Location": "Zone Utility",
+      "Installation_Date": "2022-10-11"
+    },
+    {
+      "Asset_ID": "KS-17",
+      "Category": "Pump",
+      "Manufacturer": "KSB",
+      "Model_Number": "Omega-50",
+      "Location": "Zone Utility",
+      "Installation_Date": "2022-10-26"
+    },
+    {
+      "Asset_ID": "AB-18",
+      "Category": "Motor",
+      "Manufacturer": "ABB",
+      "Model_Number": "M3BP-180",
+      "Location": "Zone Alpha",
+      "Installation_Date": "2022-03-18"
+    },
+    {
+      "Asset_ID": "SI-19",
+      "Category": "Motor",
+      "Manufacturer": "Siemens",
+      "Model_Number": "1LE1001-1B",
+      "Location": "Zone Alpha",
+      "Installation_Date": "2023-08-10"
+    },
+    {
+      "Asset_ID": "GR-20",
+      "Category": "Pump",
+      "Manufacturer": "Grundfos",
+      "Model_Number": "CR-10",
+      "Location": "Zone Utility",
+      "Installation_Date": "2023-05-05"
+    },
+    {
+      "Asset_ID": "KS-21",
+      "Category": "Pump",
+      "Manufacturer": "KSB",
+      "Model_Number": "Omega-50",
+      "Location": "Zone Beta",
+      "Installation_Date": "2024-02-28"
+    },
+    {
+      "Asset_ID": "AB-22",
+      "Category": "Motor",
+      "Manufacturer": "ABB",
+      "Model_Number": "M3BP-180",
+      "Location": "Zone Gamma",
+      "Installation_Date": "2021-05-03"
+    },
+    {
+      "Asset_ID": "SI-23",
+      "Category": "Motor",
+      "Manufacturer": "Siemens",
+      "Model_Number": "1LE1001-1B",
+      "Location": "Zone Beta",
+      "Installation_Date": "2021-07-17"
+    },
+    {
+      "Asset_ID": "GR-24",
+      "Category": "Pump",
+      "Manufacturer": "Grundfos",
+      "Model_Number": "CR-10",
+      "Location": "Zone Beta",
+      "Installation_Date": "2022-04-09"
+    },
+    {
+      "Asset_ID": "KS-25",
+      "Category": "Pump",
+      "Manufacturer": "KSB",
+      "Model_Number": "Omega-125",
+      "Location": "Zone Utility",
+      "Installation_Date": "2022-02-07"
+    },
+    {
+      "Asset_ID": "AB-26",
+      "Category": "Motor",
+      "Manufacturer": "ABB",
+      "Model_Number": "M3BP-200",
+      "Location": "Zone Utility",
+      "Installation_Date": "2022-05-04"
+    },
+    {
+      "Asset_ID": "SI-27",
+      "Category": "Motor",
+      "Manufacturer": "Siemens",
+      "Model_Number": "1LE1001-2A",
+      "Location": "Zone Alpha",
+      "Installation_Date": "2022-04-18"
+    },
+    {
+      "Asset_ID": "GR-28",
+      "Category": "Pump",
+      "Manufacturer": "Grundfos",
+      "Model_Number": "CR-15",
+      "Location": "Zone Utility",
+      "Installation_Date": "2021-05-24"
+    },
+    {
+      "Asset_ID": "KS-29",
+      "Category": "Pump",
+      "Manufacturer": "KSB",
+      "Model_Number": "Omega-50",
+      "Location": "Zone Beta",
+      "Installation_Date": "2023-06-16"
+    },
+    {
+      "Asset_ID": "AB-30",
+      "Category": "Motor",
+      "Manufacturer": "ABB",
+      "Model_Number": "M3BP-225",
+      "Location": "Zone Utility",
+      "Installation_Date": "2023-10-12"
+    },
+    {
+      "Asset_ID": "SI-31",
+      "Category": "Motor",
+      "Manufacturer": "Siemens",
+      "Model_Number": "1LE1001-1C",
+      "Location": "Zone Utility",
+      "Installation_Date": "2024-02-29"
+    },
+    {
+      "Asset_ID": "GR-32",
+      "Category": "Pump",
+      "Manufacturer": "Grundfos",
+      "Model_Number": "CR-10",
+      "Location": "Zone Alpha",
+      "Installation_Date": "2021-04-14"
+    },
+    {
+      "Asset_ID": "KS-33",
+      "Category": "Pump",
+      "Manufacturer": "KSB",
+      "Model_Number": "Omega-100",
+      "Location": "Zone Alpha",
+      "Installation_Date": "2021-04-09"
+    },
+    {
+      "Asset_ID": "AB-34",
+      "Category": "Motor",
+      "Manufacturer": "ABB",
+      "Model_Number": "M3BP-180",
+      "Location": "Zone Beta",
+      "Installation_Date": "2024-04-01"
+    },
+    {
+      "Asset_ID": "SI-35",
+      "Category": "Motor",
+      "Manufacturer": "Siemens",
+      "Model_Number": "1LE1001-1A",
+      "Location": "Zone Utility",
+      "Installation_Date": "2023-03-12"
+    },
+    {
+      "Asset_ID": "GR-36",
+      "Category": "Pump",
+      "Manufacturer": "Grundfos",
+      "Model_Number": "CR-45",
+      "Location": "Zone Gamma",
+      "Installation_Date": "2022-02-05"
+    },
+    {
+      "Asset_ID": "KS-37",
+      "Category": "Pump",
+      "Manufacturer": "KSB",
+      "Model_Number": "Omega-125",
+      "Location": "Zone Gamma",
+      "Installation_Date": "2022-04-15"
+    },
+    {
+      "Asset_ID": "AB-38",
+      "Category": "Motor",
+      "Manufacturer": "ABB",
+      "Model_Number": "M3BP-180",
+      "Location": "Zone Beta",
+      "Installation_Date": "2021-01-27"
+    },
+    {
+      "Asset_ID": "SI-39",
+      "Category": "Motor",
+      "Manufacturer": "Siemens",
+      "Model_Number": "1LE1001-1B",
+      "Location": "Zone Gamma",
+      "Installation_Date": "2023-08-18"
+    },
+    {
+      "Asset_ID": "GR-40",
+      "Category": "Pump",
+      "Manufacturer": "Grundfos",
+      "Model_Number": "CR-45",
+      "Location": "Zone Utility",
+      "Installation_Date": "2022-07-01"
+    },
+    {
+      "Asset_ID": "KS-41",
+      "Category": "Pump",
+      "Manufacturer": "KSB",
+      "Model_Number": "Omega-125",
+      "Location": "Zone Alpha",
+      "Installation_Date": "2023-12-06"
+    },
+    {
+      "Asset_ID": "AB-42",
+      "Category": "Motor",
+      "Manufacturer": "ABB",
+      "Model_Number": "M3BP-200",
+      "Location": "Zone Alpha",
+      "Installation_Date": "2021-10-07"
+    },
+    {
+      "Asset_ID": "SI-43",
+      "Category": "Motor",
+      "Manufacturer": "Siemens",
+      "Model_Number": "1LE1001-1B",
+      "Location": "Zone Gamma",
+      "Installation_Date": "2022-12-01"
+    },
+    {
+      "Asset_ID": "GR-44",
+      "Category": "Pump",
+      "Manufacturer": "Grundfos",
+      "Model_Number": "CR-64",
+      "Location": "Zone Alpha",
+      "Installation_Date": "2021-05-08"
+    },
+    {
+      "Asset_ID": "KS-45",
+      "Category": "Pump",
+      "Manufacturer": "KSB",
+      "Model_Number": "Omega-80",
+      "Location": "Zone Beta",
+      "Installation_Date": "2022-11-17"
+    },
+    {
+      "Asset_ID": "AB-46",
+      "Category": "Motor",
+      "Manufacturer": "ABB",
+      "Model_Number": "M3BP-225",
+      "Location": "Zone Gamma",
+      "Installation_Date": "2022-05-05"
+    },
+    {
+      "Asset_ID": "SI-47",
+      "Category": "Motor",
+      "Manufacturer": "Siemens",
+      "Model_Number": "1LE1001-1A",
+      "Location": "Zone Gamma",
+      "Installation_Date": "2021-09-03"
+    },
+    {
+      "Asset_ID": "GR-48",
+      "Category": "Pump",
+      "Manufacturer": "Grundfos",
+      "Model_Number": "CR-64",
+      "Location": "Zone Beta",
+      "Installation_Date": "2023-07-10"
+    },
+    {
+      "Asset_ID": "KS-49",
+      "Category": "Pump",
+      "Manufacturer": "KSB",
+      "Model_Number": "Omega-125",
+      "Location": "Zone Alpha",
+      "Installation_Date": "2021-02-05"
+    },
+    {
+      "Asset_ID": "AB-50",
+      "Category": "Motor",
+      "Manufacturer": "ABB",
+      "Model_Number": "M3BP-160",
+      "Location": "Zone Gamma",
+      "Installation_Date": "2024-03-12"
+    }
+  ]
+}

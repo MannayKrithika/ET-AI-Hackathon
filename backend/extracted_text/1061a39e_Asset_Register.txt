@@ -1,0 +1,649 @@
+========== Data Record ==========
+
+Asset_ID: PMP-KS-01
+Manufacturer: KSB
+Model_Number: Omega-125
+Category: Pump
+Specification: 45 m³/h, 40m
+Location: Zone Alpha
+Installation_Date: 2024-03-26
+Criticality: Medium
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: MTR-AB-02
+Manufacturer: ABB
+Model_Number: M3BP-160
+Category: Motor
+Specification: 11 kW, 1450 RPM
+Location: Zone Alpha
+Installation_Date: 2024-02-27
+Criticality: Critical
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: MTR-SI-03
+Manufacturer: Siemens
+Model_Number: 1LE1001-2A
+Category: Motor
+Specification: 22 kW, 1450 RPM
+Location: Zone Alpha
+Installation_Date: 2022-01-27
+Criticality: Medium
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: PMP-GR-04
+Manufacturer: Grundfos
+Model_Number: CR-10
+Category: Pump
+Specification: 30 m³/h, 40m
+Location: Zone Beta
+Installation_Date: 2021-08-19
+Criticality: High
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: PMP-KS-05
+Manufacturer: KSB
+Model_Number: Omega-125
+Category: Pump
+Specification: 30 m³/h, 40m
+Location: Zone Utility
+Installation_Date: 2023-02-19
+Criticality: High
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: MTR-AB-06
+Manufacturer: ABB
+Model_Number: M3BP-225
+Category: Motor
+Specification: 55 kW, 1450 RPM
+Location: Zone Utility
+Installation_Date: 2022-12-27
+Criticality: Medium
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: MTR-SI-07
+Manufacturer: Siemens
+Model_Number: 1LE1001-1A
+Category: Motor
+Specification: 22 kW, 1450 RPM
+Location: Zone Gamma
+Installation_Date: 2022-10-05
+Criticality: Medium
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: PMP-GR-08
+Manufacturer: Grundfos
+Model_Number: CR-15
+Category: Pump
+Specification: 30 m³/h, 80m
+Location: Zone Beta
+Installation_Date: 2023-05-21
+Criticality: Critical
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: PMP-KS-09
+Manufacturer: KSB
+Model_Number: Omega-100
+Category: Pump
+Specification: 30 m³/h, 60m
+Location: Zone Beta
+Installation_Date: 2023-06-11
+Criticality: Critical
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: MTR-AB-10
+Manufacturer: ABB
+Model_Number: M3BP-200
+Category: Motor
+Specification: 11 kW, 2950 RPM
+Location: Zone Alpha
+Installation_Date: 2021-04-06
+Criticality: High
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: MTR-SI-11
+Manufacturer: Siemens
+Model_Number: 1LE1001-1A
+Category: Motor
+Specification: 55 kW, 1450 RPM
+Location: Zone Gamma
+Installation_Date: 2022-06-25
+Criticality: High
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: PMP-GR-12
+Manufacturer: Grundfos
+Model_Number: CR-32
+Category: Pump
+Specification: 30 m³/h, 60m
+Location: Zone Utility
+Installation_Date: 2022-08-01
+Criticality: High
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: PMP-KS-13
+Manufacturer: KSB
+Model_Number: Omega-80
+Category: Pump
+Specification: 15 m³/h, 40m
+Location: Zone Beta
+Installation_Date: 2023-03-07
+Criticality: Medium
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: MTR-AB-14
+Manufacturer: ABB
+Model_Number: M3BP-225
+Category: Motor
+Specification: 37 kW, 2950 RPM
+Location: Zone Beta
+Installation_Date: 2021-07-09
+Criticality: Critical
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: MTR-SI-15
+Manufacturer: Siemens
+Model_Number: 1LE1001-1A
+Category: Motor
+Specification: 22 kW, 2950 RPM
+Location: Zone Alpha
+Installation_Date: 2022-09-20
+Criticality: High
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: PMP-GR-16
+Manufacturer: Grundfos
+Model_Number: CR-32
+Category: Pump
+Specification: 30 m³/h, 60m
+Location: Zone Utility
+Installation_Date: 2022-10-11
+Criticality: High
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: PMP-KS-17
+Manufacturer: KSB
+Model_Number: Omega-50
+Category: Pump
+Specification: 30 m³/h, 60m
+Location: Zone Utility
+Installation_Date: 2022-10-26
+Criticality: Medium
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: MTR-AB-18
+Manufacturer: ABB
+Model_Number: M3BP-180
+Category: Motor
+Specification: 11 kW, 2950 RPM
+Location: Zone Alpha
+Installation_Date: 2022-03-18
+Criticality: Medium
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: MTR-SI-19
+Manufacturer: Siemens
+Model_Number: 1LE1001-1B
+Category: Motor
+Specification: 15 kW, 1450 RPM
+Location: Zone Alpha
+Installation_Date: 2023-08-10
+Criticality: Critical
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: PMP-GR-20
+Manufacturer: Grundfos
+Model_Number: CR-10
+Category: Pump
+Specification: 22 m³/h, 60m
+Location: Zone Utility
+Installation_Date: 2023-05-05
+Criticality: High
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: PMP-KS-21
+Manufacturer: KSB
+Model_Number: Omega-50
+Category: Pump
+Specification: 15 m³/h, 80m
+Location: Zone Beta
+Installation_Date: 2024-02-28
+Criticality: High
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: MTR-AB-22
+Manufacturer: ABB
+Model_Number: M3BP-180
+Category: Motor
+Specification: 37 kW, 1450 RPM
+Location: Zone Gamma
+Installation_Date: 2021-05-03
+Criticality: High
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: MTR-SI-23
+Manufacturer: Siemens
+Model_Number: 1LE1001-1B
+Category: Motor
+Specification: 55 kW, 2950 RPM
+Location: Zone Beta
+Installation_Date: 2021-07-17
+Criticality: High
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: PMP-GR-24
+Manufacturer: Grundfos
+Model_Number: CR-10
+Category: Pump
+Specification: 15 m³/h, 80m
+Location: Zone Beta
+Installation_Date: 2022-04-09
+Criticality: Critical
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: PMP-KS-25
+Manufacturer: KSB
+Model_Number: Omega-125
+Category: Pump
+Specification: 45 m³/h, 80m
+Location: Zone Utility
+Installation_Date: 2022-02-07
+Criticality: Medium
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: MTR-AB-26
+Manufacturer: ABB
+Model_Number: M3BP-200
+Category: Motor
+Specification: 22 kW, 2950 RPM
+Location: Zone Utility
+Installation_Date: 2022-05-04
+Criticality: High
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: MTR-SI-27
+Manufacturer: Siemens
+Model_Number: 1LE1001-2A
+Category: Motor
+Specification: 15 kW, 2950 RPM
+Location: Zone Alpha
+Installation_Date: 2022-04-18
+Criticality: High
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: PMP-GR-28
+Manufacturer: Grundfos
+Model_Number: CR-15
+Category: Pump
+Specification: 30 m³/h, 80m
+Location: Zone Utility
+Installation_Date: 2021-05-24
+Criticality: Medium
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: PMP-KS-29
+Manufacturer: KSB
+Model_Number: Omega-50
+Category: Pump
+Specification: 45 m³/h, 40m
+Location: Zone Beta
+Installation_Date: 2023-06-16
+Criticality: Critical
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: MTR-AB-30
+Manufacturer: ABB
+Model_Number: M3BP-225
+Category: Motor
+Specification: 55 kW, 1450 RPM
+Location: Zone Utility
+Installation_Date: 2023-10-12
+Criticality: High
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: MTR-SI-31
+Manufacturer: Siemens
+Model_Number: 1LE1001-1C
+Category: Motor
+Specification: 22 kW, 2950 RPM
+Location: Zone Utility
+Installation_Date: 2024-02-29
+Criticality: Medium
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: PMP-GR-32
+Manufacturer: Grundfos
+Model_Number: CR-10
+Category: Pump
+Specification: 45 m³/h, 80m
+Location: Zone Alpha
+Installation_Date: 2021-04-14
+Criticality: High
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: PMP-KS-33
+Manufacturer: KSB
+Model_Number: Omega-100
+Category: Pump
+Specification: 45 m³/h, 60m
+Location: Zone Alpha
+Installation_Date: 2021-04-09
+Criticality: Medium
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: MTR-AB-34
+Manufacturer: ABB
+Model_Number: M3BP-180
+Category: Motor
+Specification: 15 kW, 2950 RPM
+Location: Zone Beta
+Installation_Date: 2024-04-01
+Criticality: High
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: MTR-SI-35
+Manufacturer: Siemens
+Model_Number: 1LE1001-1A
+Category: Motor
+Specification: 37 kW, 1450 RPM
+Location: Zone Utility
+Installation_Date: 2023-03-12
+Criticality: High
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: PMP-GR-36
+Manufacturer: Grundfos
+Model_Number: CR-45
+Category: Pump
+Specification: 45 m³/h, 80m
+Location: Zone Gamma
+Installation_Date: 2022-02-05
+Criticality: High
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: PMP-KS-37
+Manufacturer: KSB
+Model_Number: Omega-125
+Category: Pump
+Specification: 45 m³/h, 80m
+Location: Zone Gamma
+Installation_Date: 2022-04-15
+Criticality: High
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: MTR-AB-38
+Manufacturer: ABB
+Model_Number: M3BP-180
+Category: Motor
+Specification: 55 kW, 1450 RPM
+Location: Zone Beta
+Installation_Date: 2021-01-27
+Criticality: Medium
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: MTR-SI-39
+Manufacturer: Siemens
+Model_Number: 1LE1001-1B
+Category: Motor
+Specification: 11 kW, 2950 RPM
+Location: Zone Gamma
+Installation_Date: 2023-08-18
+Criticality: Medium
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: PMP-GR-40
+Manufacturer: Grundfos
+Model_Number: CR-45
+Category: Pump
+Specification: 15 m³/h, 80m
+Location: Zone Utility
+Installation_Date: 2022-07-01
+Criticality: Medium
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: PMP-KS-41
+Manufacturer: KSB
+Model_Number: Omega-125
+Category: Pump
+Specification: 15 m³/h, 60m
+Location: Zone Alpha
+Installation_Date: 2023-12-06
+Criticality: Medium
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: MTR-AB-42
+Manufacturer: ABB
+Model_Number: M3BP-200
+Category: Motor
+Specification: 37 kW, 1450 RPM
+Location: Zone Alpha
+Installation_Date: 2021-10-07
+Criticality: High
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: MTR-SI-43
+Manufacturer: Siemens
+Model_Number: 1LE1001-1B
+Category: Motor
+Specification: 55 kW, 1450 RPM
+Location: Zone Gamma
+Installation_Date: 2022-12-01
+Criticality: Medium
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: PMP-GR-44
+Manufacturer: Grundfos
+Model_Number: CR-64
+Category: Pump
+Specification: 15 m³/h, 80m
+Location: Zone Alpha
+Installation_Date: 2021-05-08
+Criticality: High
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: PMP-KS-45
+Manufacturer: KSB
+Model_Number: Omega-80
+Category: Pump
+Specification: 30 m³/h, 60m
+Location: Zone Beta
+Installation_Date: 2022-11-17
+Criticality: Critical
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: MTR-AB-46
+Manufacturer: ABB
+Model_Number: M3BP-225
+Category: Motor
+Specification: 15 kW, 1450 RPM
+Location: Zone Gamma
+Installation_Date: 2022-05-05
+Criticality: Medium
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: MTR-SI-47
+Manufacturer: Siemens
+Model_Number: 1LE1001-1A
+Category: Motor
+Specification: 11 kW, 1450 RPM
+Location: Zone Gamma
+Installation_Date: 2021-09-03
+Criticality: High
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: PMP-GR-48
+Manufacturer: Grundfos
+Model_Number: CR-64
+Category: Pump
+Specification: 22 m³/h, 80m
+Location: Zone Beta
+Installation_Date: 2023-07-10
+Criticality: High
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: PMP-KS-49
+Manufacturer: KSB
+Model_Number: Omega-125
+Category: Pump
+Specification: 22 m³/h, 80m
+Location: Zone Alpha
+Installation_Date: 2021-02-05
+Criticality: Medium
+
+======================================
+
+========== Data Record ==========
+
+Asset_ID: MTR-AB-50
+Manufacturer: ABB
+Model_Number: M3BP-160
+Category: Motor
+Specification: 37 kW, 1450 RPM
+Location: Zone Gamma
+Installation_Date: 2024-03-12
+Criticality: High
+
+======================================

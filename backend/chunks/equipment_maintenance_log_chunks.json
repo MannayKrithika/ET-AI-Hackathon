@@ -1,0 +1,802 @@
+[
+  {
+    "chunk_id": "MTR-AB-02_001",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 1,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1000\nAsset_ID: MTR-AB-02\nEquipment_Name: ABB M3BP-160\nCategory: Motor\nMaintenance_Date: 2025-08-25\nType: Preventive\nAction_Taken: Tested insulation resistance (Megger)\nTechnician: L. Rossi\nDowntime_Hours: 0\nParts_Cost: 78\nStatus: Completed\n\nSummary:\nABB M3BP-160 (MTR-AB-02) had a reported failure, resulting in 0 hours of downtime. Tested insulation resistance (Megger). Ticket completed.",
+    "metadata": {
+      "equipment": "ABB M3BP-160",
+      "asset_id": "MTR-AB-02",
+      "status": "Completed",
+      "downtime_hours": 0
+    },
+    "word_count": 47
+  },
+  {
+    "chunk_id": "PMP-GR-32_002",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 2,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1001\nAsset_ID: PMP-GR-32\nEquipment_Name: Grundfos CR-10\nCategory: Pump\nMaintenance_Date: 2025-09-04\nType: Preventive\nAction_Taken: Greased bearings and checked alignment\nTechnician: A. Vance\nDowntime_Hours: 0\nParts_Cost: 95\nStatus: Completed\n\nSummary:\nGrundfos CR-10 (PMP-GR-32) had a reported failure, resulting in 0 hours of downtime. Greased bearings and checked alignment. Ticket completed.",
+    "metadata": {
+      "equipment": "Grundfos CR-10",
+      "asset_id": "PMP-GR-32",
+      "status": "Completed",
+      "downtime_hours": 0
+    },
+    "word_count": 49
+  },
+  {
+    "chunk_id": "MTR-SI-23_003",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 3,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1002\nAsset_ID: MTR-SI-23\nEquipment_Name: Siemens 1LE1001-1B\nCategory: Motor\nMaintenance_Date: 2025-08-08\nType: Preventive\nAction_Taken: Rewound stator windings\nTechnician: T. Nguyen\nDowntime_Hours: 0\nParts_Cost: 94\nStatus: Completed\n\nSummary:\nSiemens 1LE1001-1B (MTR-SI-23) had a reported failure, resulting in 0 hours of downtime. Rewound stator windings. Ticket completed.",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-1B",
+      "asset_id": "MTR-SI-23",
+      "status": "Completed",
+      "downtime_hours": 0
+    },
+    "word_count": 45
+  },
+  {
+    "chunk_id": "MTR-AB-22_004",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 4,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1003\nAsset_ID: MTR-AB-22\nEquipment_Name: ABB M3BP-180\nCategory: Motor\nMaintenance_Date: 2025-10-16\nType: Preventive\nAction_Taken: Rewound stator windings\nTechnician: M. Kumar\nDowntime_Hours: 0\nParts_Cost: 19\nStatus: In Progress\n\nSummary:\nABB M3BP-180 (MTR-AB-22) had a reported failure, resulting in 0 hours of downtime. Rewound stator windings. Ticket in progress.",
+    "metadata": {
+      "equipment": "ABB M3BP-180",
+      "asset_id": "MTR-AB-22",
+      "status": "In Progress",
+      "downtime_hours": 0
+    },
+    "word_count": 47
+  },
+  {
+    "chunk_id": "PMP-KS-25_005",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 5,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1004\nAsset_ID: PMP-KS-25\nEquipment_Name: KSB Omega-125\nCategory: Pump\nMaintenance_Date: 2025-04-10\nType: Preventive\nAction_Taken: Inspected impeller and cleared debris\nTechnician: M. Kumar\nDowntime_Hours: 0\nParts_Cost: 105\nStatus: In Progress\n\nSummary:\nKSB Omega-125 (PMP-KS-25) had a reported failure, resulting in 0 hours of downtime. Inspected impeller and cleared debris. Ticket in progress.",
+    "metadata": {
+      "equipment": "KSB Omega-125",
+      "asset_id": "PMP-KS-25",
+      "status": "In Progress",
+      "downtime_hours": 0
+    },
+    "word_count": 51
+  },
+  {
+    "chunk_id": "MTR-AB-22_006",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 6,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1005\nAsset_ID: MTR-AB-22\nEquipment_Name: ABB M3BP-180\nCategory: Motor\nMaintenance_Date: 2025-11-21\nType: Corrective\nAction_Taken: Tested insulation resistance (Megger)\nTechnician: M. Kumar\nDowntime_Hours: 0.6\nParts_Cost: 945\nStatus: Completed\n\nSummary:\nABB M3BP-180 (MTR-AB-22) had a reported failure, resulting in 0.6 hours of downtime. Tested insulation resistance (Megger). Ticket completed.",
+    "metadata": {
+      "equipment": "ABB M3BP-180",
+      "asset_id": "MTR-AB-22",
+      "status": "Completed",
+      "downtime_hours": 0.6
+    },
+    "word_count": 47
+  },
+  {
+    "chunk_id": "MTR-AB-22_007",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 7,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1006\nAsset_ID: MTR-AB-22\nEquipment_Name: ABB M3BP-180\nCategory: Motor\nMaintenance_Date: 2025-12-06\nType: Corrective\nAction_Taken: Replaced drive-end bearing\nTechnician: A. Vance\nDowntime_Hours: 2.6\nParts_Cost: 1006\nStatus: Completed\n\nSummary:\nABB M3BP-180 (MTR-AB-22) had a reported failure, resulting in 2.6 hours of downtime. Replaced drive-end bearing. Ticket completed.",
+    "metadata": {
+      "equipment": "ABB M3BP-180",
+      "asset_id": "MTR-AB-22",
+      "status": "Completed",
+      "downtime_hours": 2.6
+    },
+    "word_count": 45
+  },
+  {
+    "chunk_id": "PMP-KS-49_008",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 8,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1007\nAsset_ID: PMP-KS-49\nEquipment_Name: KSB Omega-125\nCategory: Pump\nMaintenance_Date: 2025-04-11\nType: Corrective\nAction_Taken: Replaced mechanical shaft seal\nTechnician: J. Smith\nDowntime_Hours: 2.6\nParts_Cost: 1116\nStatus: Completed\n\nSummary:\nKSB Omega-125 (PMP-KS-49) had a reported failure, resulting in 2.6 hours of downtime. Replaced mechanical shaft seal. Ticket completed.",
+    "metadata": {
+      "equipment": "KSB Omega-125",
+      "asset_id": "PMP-KS-49",
+      "status": "Completed",
+      "downtime_hours": 2.6
+    },
+    "word_count": 47
+  },
+  {
+    "chunk_id": "MTR-AB-42_009",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 9,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1008\nAsset_ID: MTR-AB-42\nEquipment_Name: ABB M3BP-200\nCategory: Motor\nMaintenance_Date: 2026-02-01\nType: Preventive\nAction_Taken: Replaced drive-end bearing\nTechnician: M. Kumar\nDowntime_Hours: 0\nParts_Cost: 44\nStatus: Completed\n\nSummary:\nABB M3BP-200 (MTR-AB-42) had a reported failure, resulting in 0 hours of downtime. Replaced drive-end bearing. Ticket completed.",
+    "metadata": {
+      "equipment": "ABB M3BP-200",
+      "asset_id": "MTR-AB-42",
+      "status": "Completed",
+      "downtime_hours": 0
+    },
+    "word_count": 45
+  },
+  {
+    "chunk_id": "MTR-AB-06_010",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 10,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1009\nAsset_ID: MTR-AB-06\nEquipment_Name: ABB M3BP-225\nCategory: Motor\nMaintenance_Date: 2025-03-31\nType: Preventive\nAction_Taken: Replaced drive-end bearing\nTechnician: M. Kumar\nDowntime_Hours: 0\nParts_Cost: 99\nStatus: Completed\n\nSummary:\nABB M3BP-225 (MTR-AB-06) had a reported failure, resulting in 0 hours of downtime. Replaced drive-end bearing. Ticket completed.",
+    "metadata": {
+      "equipment": "ABB M3BP-225",
+      "asset_id": "MTR-AB-06",
+      "status": "Completed",
+      "downtime_hours": 0
+    },
+    "word_count": 45
+  },
+  {
+    "chunk_id": "MTR-SI-15_011",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 11,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1010\nAsset_ID: MTR-SI-15\nEquipment_Name: Siemens 1LE1001-1A\nCategory: Motor\nMaintenance_Date: 2025-04-25\nType: Preventive\nAction_Taken: Tested insulation resistance (Megger)\nTechnician: M. Kumar\nDowntime_Hours: 0\nParts_Cost: 123\nStatus: Completed\n\nSummary:\nSiemens 1LE1001-1A (MTR-SI-15) had a reported failure, resulting in 0 hours of downtime. Tested insulation resistance (Megger). Ticket completed.",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-1A",
+      "asset_id": "MTR-SI-15",
+      "status": "Completed",
+      "downtime_hours": 0
+    },
+    "word_count": 47
+  },
+  {
+    "chunk_id": "MTR-SI-43_012",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 12,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1011\nAsset_ID: MTR-SI-43\nEquipment_Name: Siemens 1LE1001-1B\nCategory: Motor\nMaintenance_Date: 2026-01-11\nType: Calibration\nAction_Taken: Rewound stator windings\nTechnician: L. Rossi\nDowntime_Hours: 0\nParts_Cost: 147\nStatus: Completed\n\nSummary:\nSiemens 1LE1001-1B (MTR-SI-43) had a reported failure, resulting in 0 hours of downtime. Rewound stator windings. Ticket completed.",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-1B",
+      "asset_id": "MTR-SI-43",
+      "status": "Completed",
+      "downtime_hours": 0
+    },
+    "word_count": 45
+  },
+  {
+    "chunk_id": "PMP-KS-37_013",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 13,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1012\nAsset_ID: PMP-KS-37\nEquipment_Name: KSB Omega-125\nCategory: Pump\nMaintenance_Date: 2025-07-11\nType: Corrective\nAction_Taken: Inspected impeller and cleared debris\nTechnician: T. Nguyen\nDowntime_Hours: 1.4\nParts_Cost: 145\nStatus: Completed\n\nSummary:\nKSB Omega-125 (PMP-KS-37) had a reported failure, resulting in 1.4 hours of downtime. Inspected impeller and cleared debris. Ticket completed.",
+    "metadata": {
+      "equipment": "KSB Omega-125",
+      "asset_id": "PMP-KS-37",
+      "status": "Completed",
+      "downtime_hours": 1.4
+    },
+    "word_count": 49
+  },
+  {
+    "chunk_id": "PMP-KS-33_014",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 14,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1013\nAsset_ID: PMP-KS-33\nEquipment_Name: KSB Omega-100\nCategory: Pump\nMaintenance_Date: 2025-07-09\nType: Corrective\nAction_Taken: Replaced casing gasket\nTechnician: J. Smith\nDowntime_Hours: 2.8\nParts_Cost: 328\nStatus: Completed\n\nSummary:\nKSB Omega-100 (PMP-KS-33) had a reported failure, resulting in 2.8 hours of downtime. Replaced casing gasket. Ticket completed.",
+    "metadata": {
+      "equipment": "KSB Omega-100",
+      "asset_id": "PMP-KS-33",
+      "status": "Completed",
+      "downtime_hours": 2.8
+    },
+    "word_count": 45
+  },
+  {
+    "chunk_id": "PMP-GR-08_015",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 15,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1014\nAsset_ID: PMP-GR-08\nEquipment_Name: Grundfos CR-15\nCategory: Pump\nMaintenance_Date: 2025-12-27\nType: Preventive\nAction_Taken: Replaced mechanical shaft seal\nTechnician: T. Nguyen\nDowntime_Hours: 0\nParts_Cost: 121\nStatus: Completed\n\nSummary:\nGrundfos CR-15 (PMP-GR-08) had a reported failure, resulting in 0 hours of downtime. Replaced mechanical shaft seal. Ticket completed.",
+    "metadata": {
+      "equipment": "Grundfos CR-15",
+      "asset_id": "PMP-GR-08",
+      "status": "Completed",
+      "downtime_hours": 0
+    },
+    "word_count": 47
+  },
+  {
+    "chunk_id": "PMP-GR-44_016",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 16,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1015\nAsset_ID: PMP-GR-44\nEquipment_Name: Grundfos CR-64\nCategory: Pump\nMaintenance_Date: 2026-02-01\nType: Breakdown Repair\nAction_Taken: Replaced mechanical shaft seal\nTechnician: T. Nguyen\nDowntime_Hours: 0.5\nParts_Cost: 125\nStatus: Completed\n\nSummary:\nGrundfos CR-64 (PMP-GR-44) had a reported failure, resulting in 0.5 hours of downtime. Replaced mechanical shaft seal. Ticket completed.",
+    "metadata": {
+      "equipment": "Grundfos CR-64",
+      "asset_id": "PMP-GR-44",
+      "status": "Completed",
+      "downtime_hours": 0.5
+    },
+    "word_count": 48
+  },
+  {
+    "chunk_id": "PMP-GR-44_017",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 17,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1016\nAsset_ID: PMP-GR-44\nEquipment_Name: Grundfos CR-64\nCategory: Pump\nMaintenance_Date: 2025-10-11\nType: Breakdown Repair\nAction_Taken: Replaced casing gasket\nTechnician: T. Nguyen\nDowntime_Hours: 2.2\nParts_Cost: 193\nStatus: Completed\n\nSummary:\nGrundfos CR-64 (PMP-GR-44) had a reported failure, resulting in 2.2 hours of downtime. Replaced casing gasket. Ticket completed.",
+    "metadata": {
+      "equipment": "Grundfos CR-64",
+      "asset_id": "PMP-GR-44",
+      "status": "Completed",
+      "downtime_hours": 2.2
+    },
+    "word_count": 46
+  },
+  {
+    "chunk_id": "PMP-KS-05_018",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 18,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1017\nAsset_ID: PMP-KS-05\nEquipment_Name: KSB Omega-125\nCategory: Pump\nMaintenance_Date: 2025-04-09\nType: Corrective\nAction_Taken: Replaced casing gasket\nTechnician: A. Vance\nDowntime_Hours: 1\nParts_Cost: 618\nStatus: Completed\n\nSummary:\nKSB Omega-125 (PMP-KS-05) had a reported failure, resulting in 1 hours of downtime. Replaced casing gasket. Ticket completed.",
+    "metadata": {
+      "equipment": "KSB Omega-125",
+      "asset_id": "PMP-KS-05",
+      "status": "Completed",
+      "downtime_hours": 1
+    },
+    "word_count": 45
+  },
+  {
+    "chunk_id": "MTR-SI-39_019",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 19,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1018\nAsset_ID: MTR-SI-39\nEquipment_Name: Siemens 1LE1001-1B\nCategory: Motor\nMaintenance_Date: 2025-06-30\nType: Preventive\nAction_Taken: Cleaned ventilation shroud\nTechnician: M. Kumar\nDowntime_Hours: 0\nParts_Cost: 142\nStatus: Completed\n\nSummary:\nSiemens 1LE1001-1B (MTR-SI-39) had a reported failure, resulting in 0 hours of downtime. Cleaned ventilation shroud. Ticket completed.",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-1B",
+      "asset_id": "MTR-SI-39",
+      "status": "Completed",
+      "downtime_hours": 0
+    },
+    "word_count": 45
+  },
+  {
+    "chunk_id": "PMP-GR-04_020",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 20,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1019\nAsset_ID: PMP-GR-04\nEquipment_Name: Grundfos CR-10\nCategory: Pump\nMaintenance_Date: 2025-08-09\nType: Preventive\nAction_Taken: Greased bearings and checked alignment\nTechnician: T. Nguyen\nDowntime_Hours: 0\nParts_Cost: 18\nStatus: Completed\n\nSummary:\nGrundfos CR-10 (PMP-GR-04) had a reported failure, resulting in 0 hours of downtime. Greased bearings and checked alignment. Ticket completed.",
+    "metadata": {
+      "equipment": "Grundfos CR-10",
+      "asset_id": "PMP-GR-04",
+      "status": "Completed",
+      "downtime_hours": 0
+    },
+    "word_count": 49
+  },
+  {
+    "chunk_id": "MTR-AB-06_021",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 21,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1020\nAsset_ID: MTR-AB-06\nEquipment_Name: ABB M3BP-225\nCategory: Motor\nMaintenance_Date: 2025-09-10\nType: Breakdown Repair\nAction_Taken: Replaced drive-end bearing\nTechnician: L. Rossi\nDowntime_Hours: 1\nParts_Cost: 995\nStatus: In Progress\n\nSummary:\nABB M3BP-225 (MTR-AB-06) had a reported failure, resulting in 1 hours of downtime. Replaced drive-end bearing. Ticket in progress.",
+    "metadata": {
+      "equipment": "ABB M3BP-225",
+      "asset_id": "MTR-AB-06",
+      "status": "In Progress",
+      "downtime_hours": 1
+    },
+    "word_count": 48
+  },
+  {
+    "chunk_id": "PMP-KS-45_022",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 22,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1021\nAsset_ID: PMP-KS-45\nEquipment_Name: KSB Omega-80\nCategory: Pump\nMaintenance_Date: 2025-07-13\nType: Preventive\nAction_Taken: Replaced mechanical shaft seal\nTechnician: A. Vance\nDowntime_Hours: 0\nParts_Cost: 145\nStatus: Completed\n\nSummary:\nKSB Omega-80 (PMP-KS-45) had a reported failure, resulting in 0 hours of downtime. Replaced mechanical shaft seal. Ticket completed.",
+    "metadata": {
+      "equipment": "KSB Omega-80",
+      "asset_id": "PMP-KS-45",
+      "status": "Completed",
+      "downtime_hours": 0
+    },
+    "word_count": 47
+  },
+  {
+    "chunk_id": "PMP-GR-32_023",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 23,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1022\nAsset_ID: PMP-GR-32\nEquipment_Name: Grundfos CR-10\nCategory: Pump\nMaintenance_Date: 2025-11-17\nType: Breakdown Repair\nAction_Taken: Replaced mechanical shaft seal\nTechnician: J. Smith\nDowntime_Hours: 2.3\nParts_Cost: 1143\nStatus: Completed\n\nSummary:\nGrundfos CR-10 (PMP-GR-32) had a reported failure, resulting in 2.3 hours of downtime. Replaced mechanical shaft seal. Ticket completed.",
+    "metadata": {
+      "equipment": "Grundfos CR-10",
+      "asset_id": "PMP-GR-32",
+      "status": "Completed",
+      "downtime_hours": 2.3
+    },
+    "word_count": 48
+  },
+  {
+    "chunk_id": "MTR-AB-30_024",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 24,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1023\nAsset_ID: MTR-AB-30\nEquipment_Name: ABB M3BP-225\nCategory: Motor\nMaintenance_Date: 2025-10-02\nType: Calibration\nAction_Taken: Replaced drive-end bearing\nTechnician: A. Vance\nDowntime_Hours: 0\nParts_Cost: 99\nStatus: Completed\n\nSummary:\nABB M3BP-225 (MTR-AB-30) had a reported failure, resulting in 0 hours of downtime. Replaced drive-end bearing. Ticket completed.",
+    "metadata": {
+      "equipment": "ABB M3BP-225",
+      "asset_id": "MTR-AB-30",
+      "status": "Completed",
+      "downtime_hours": 0
+    },
+    "word_count": 45
+  },
+  {
+    "chunk_id": "MTR-SI-47_025",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 25,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1024\nAsset_ID: MTR-SI-47\nEquipment_Name: Siemens 1LE1001-1A\nCategory: Motor\nMaintenance_Date: 2025-05-06\nType: Preventive\nAction_Taken: Rewound stator windings\nTechnician: M. Kumar\nDowntime_Hours: 0\nParts_Cost: 135\nStatus: Completed\n\nSummary:\nSiemens 1LE1001-1A (MTR-SI-47) had a reported failure, resulting in 0 hours of downtime. Rewound stator windings. Ticket completed.",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-1A",
+      "asset_id": "MTR-SI-47",
+      "status": "Completed",
+      "downtime_hours": 0
+    },
+    "word_count": 45
+  },
+  {
+    "chunk_id": "MTR-SI-35_026",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 26,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1025\nAsset_ID: MTR-SI-35\nEquipment_Name: Siemens 1LE1001-1A\nCategory: Motor\nMaintenance_Date: 2025-11-13\nType: Breakdown Repair\nAction_Taken: Cleaned ventilation shroud\nTechnician: J. Smith\nDowntime_Hours: 2.8\nParts_Cost: 397\nStatus: Pending\n\nSummary:\nSiemens 1LE1001-1A (MTR-SI-35) had a reported failure, resulting in 2.8 hours of downtime. Cleaned ventilation shroud. Ticket pending.",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-1A",
+      "asset_id": "MTR-SI-35",
+      "status": "Pending",
+      "downtime_hours": 2.8
+    },
+    "word_count": 46
+  },
+  {
+    "chunk_id": "PMP-GR-40_027",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 27,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1026\nAsset_ID: PMP-GR-40\nEquipment_Name: Grundfos CR-45\nCategory: Pump\nMaintenance_Date: 2025-07-10\nType: Preventive\nAction_Taken: Replaced mechanical shaft seal\nTechnician: J. Smith\nDowntime_Hours: 0\nParts_Cost: 126\nStatus: Pending\n\nSummary:\nGrundfos CR-45 (PMP-GR-40) had a reported failure, resulting in 0 hours of downtime. Replaced mechanical shaft seal. Ticket pending.",
+    "metadata": {
+      "equipment": "Grundfos CR-45",
+      "asset_id": "PMP-GR-40",
+      "status": "Pending",
+      "downtime_hours": 0
+    },
+    "word_count": 47
+  },
+  {
+    "chunk_id": "PMP-GR-16_028",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 28,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1027\nAsset_ID: PMP-GR-16\nEquipment_Name: Grundfos CR-32\nCategory: Pump\nMaintenance_Date: 2025-02-13\nType: Breakdown Repair\nAction_Taken: Replaced mechanical shaft seal\nTechnician: L. Rossi\nDowntime_Hours: 1.3\nParts_Cost: 129\nStatus: Completed\n\nSummary:\nGrundfos CR-32 (PMP-GR-16) had a reported failure, resulting in 1.3 hours of downtime. Replaced mechanical shaft seal. Ticket completed.",
+    "metadata": {
+      "equipment": "Grundfos CR-32",
+      "asset_id": "PMP-GR-16",
+      "status": "Completed",
+      "downtime_hours": 1.3
+    },
+    "word_count": 48
+  },
+  {
+    "chunk_id": "PMP-KS-13_029",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 29,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1028\nAsset_ID: PMP-KS-13\nEquipment_Name: KSB Omega-80\nCategory: Pump\nMaintenance_Date: 2025-07-22\nType: Breakdown Repair\nAction_Taken: Replaced casing gasket\nTechnician: A. Vance\nDowntime_Hours: 2.9\nParts_Cost: 96\nStatus: Completed\n\nSummary:\nKSB Omega-80 (PMP-KS-13) had a reported failure, resulting in 2.9 hours of downtime. Replaced casing gasket. Ticket completed.",
+    "metadata": {
+      "equipment": "KSB Omega-80",
+      "asset_id": "PMP-KS-13",
+      "status": "Completed",
+      "downtime_hours": 2.9
+    },
+    "word_count": 46
+  },
+  {
+    "chunk_id": "MTR-AB-50_030",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 30,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1029\nAsset_ID: MTR-AB-50\nEquipment_Name: ABB M3BP-160\nCategory: Motor\nMaintenance_Date: 2025-01-14\nType: Preventive\nAction_Taken: Rewound stator windings\nTechnician: L. Rossi\nDowntime_Hours: 0\nParts_Cost: 63\nStatus: Completed\n\nSummary:\nABB M3BP-160 (MTR-AB-50) had a reported failure, resulting in 0 hours of downtime. Rewound stator windings. Ticket completed.",
+    "metadata": {
+      "equipment": "ABB M3BP-160",
+      "asset_id": "MTR-AB-50",
+      "status": "Completed",
+      "downtime_hours": 0
+    },
+    "word_count": 45
+  },
+  {
+    "chunk_id": "MTR-AB-42_031",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 31,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1030\nAsset_ID: MTR-AB-42\nEquipment_Name: ABB M3BP-200\nCategory: Motor\nMaintenance_Date: 2025-05-24\nType: Calibration\nAction_Taken: Cleaned ventilation shroud\nTechnician: T. Nguyen\nDowntime_Hours: 0\nParts_Cost: 83\nStatus: Pending\n\nSummary:\nABB M3BP-200 (MTR-AB-42) had a reported failure, resulting in 0 hours of downtime. Cleaned ventilation shroud. Ticket pending.",
+    "metadata": {
+      "equipment": "ABB M3BP-200",
+      "asset_id": "MTR-AB-42",
+      "status": "Pending",
+      "downtime_hours": 0
+    },
+    "word_count": 45
+  },
+  {
+    "chunk_id": "MTR-AB-30_032",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 32,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1031\nAsset_ID: MTR-AB-30\nEquipment_Name: ABB M3BP-225\nCategory: Motor\nMaintenance_Date: 2025-12-24\nType: Preventive\nAction_Taken: Tested insulation resistance (Megger)\nTechnician: L. Rossi\nDowntime_Hours: 0\nParts_Cost: 17\nStatus: Completed\n\nSummary:\nABB M3BP-225 (MTR-AB-30) had a reported failure, resulting in 0 hours of downtime. Tested insulation resistance (Megger). Ticket completed.",
+    "metadata": {
+      "equipment": "ABB M3BP-225",
+      "asset_id": "MTR-AB-30",
+      "status": "Completed",
+      "downtime_hours": 0
+    },
+    "word_count": 47
+  },
+  {
+    "chunk_id": "MTR-SI-19_033",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 33,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1032\nAsset_ID: MTR-SI-19\nEquipment_Name: Siemens 1LE1001-1B\nCategory: Motor\nMaintenance_Date: 2025-06-13\nType: Preventive\nAction_Taken: Replaced drive-end bearing\nTechnician: T. Nguyen\nDowntime_Hours: 0\nParts_Cost: 37\nStatus: Completed\n\nSummary:\nSiemens 1LE1001-1B (MTR-SI-19) had a reported failure, resulting in 0 hours of downtime. Replaced drive-end bearing. Ticket completed.",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-1B",
+      "asset_id": "MTR-SI-19",
+      "status": "Completed",
+      "downtime_hours": 0
+    },
+    "word_count": 45
+  },
+  {
+    "chunk_id": "PMP-KS-17_034",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 34,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1033\nAsset_ID: PMP-KS-17\nEquipment_Name: KSB Omega-50\nCategory: Pump\nMaintenance_Date: 2025-02-10\nType: Preventive\nAction_Taken: Inspected impeller and cleared debris\nTechnician: J. Smith\nDowntime_Hours: 0\nParts_Cost: 55\nStatus: Completed\n\nSummary:\nKSB Omega-50 (PMP-KS-17) had a reported failure, resulting in 0 hours of downtime. Inspected impeller and cleared debris. Ticket completed.",
+    "metadata": {
+      "equipment": "KSB Omega-50",
+      "asset_id": "PMP-KS-17",
+      "status": "Completed",
+      "downtime_hours": 0
+    },
+    "word_count": 49
+  },
+  {
+    "chunk_id": "MTR-SI-19_035",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 35,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1034\nAsset_ID: MTR-SI-19\nEquipment_Name: Siemens 1LE1001-1B\nCategory: Motor\nMaintenance_Date: 2026-01-25\nType: Breakdown Repair\nAction_Taken: Tested insulation resistance (Megger)\nTechnician: L. Rossi\nDowntime_Hours: 2.4\nParts_Cost: 499\nStatus: Completed\n\nSummary:\nSiemens 1LE1001-1B (MTR-SI-19) had a reported failure, resulting in 2.4 hours of downtime. Tested insulation resistance (Megger). Ticket completed.",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-1B",
+      "asset_id": "MTR-SI-19",
+      "status": "Completed",
+      "downtime_hours": 2.4
+    },
+    "word_count": 48
+  },
+  {
+    "chunk_id": "PMP-GR-28_036",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 36,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1035\nAsset_ID: PMP-GR-28\nEquipment_Name: Grundfos CR-15\nCategory: Pump\nMaintenance_Date: 2025-10-13\nType: Breakdown Repair\nAction_Taken: Replaced mechanical shaft seal\nTechnician: L. Rossi\nDowntime_Hours: 0.6\nParts_Cost: 423\nStatus: Completed\n\nSummary:\nGrundfos CR-15 (PMP-GR-28) had a reported failure, resulting in 0.6 hours of downtime. Replaced mechanical shaft seal. Ticket completed.",
+    "metadata": {
+      "equipment": "Grundfos CR-15",
+      "asset_id": "PMP-GR-28",
+      "status": "Completed",
+      "downtime_hours": 0.6
+    },
+    "word_count": 48
+  },
+  {
+    "chunk_id": "MTR-AB-26_037",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 37,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1036\nAsset_ID: MTR-AB-26\nEquipment_Name: ABB M3BP-200\nCategory: Motor\nMaintenance_Date: 2025-08-12\nType: Breakdown Repair\nAction_Taken: Cleaned ventilation shroud\nTechnician: L. Rossi\nDowntime_Hours: 3.3\nParts_Cost: 876\nStatus: Completed\n\nSummary:\nABB M3BP-200 (MTR-AB-26) had a reported failure, resulting in 3.3 hours of downtime. Cleaned ventilation shroud. Ticket completed.",
+    "metadata": {
+      "equipment": "ABB M3BP-200",
+      "asset_id": "MTR-AB-26",
+      "status": "Completed",
+      "downtime_hours": 3.3
+    },
+    "word_count": 46
+  },
+  {
+    "chunk_id": "PMP-KS-37_038",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 38,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1037\nAsset_ID: PMP-KS-37\nEquipment_Name: KSB Omega-125\nCategory: Pump\nMaintenance_Date: 2025-04-08\nType: Preventive\nAction_Taken: Inspected impeller and cleared debris\nTechnician: J. Smith\nDowntime_Hours: 0\nParts_Cost: 64\nStatus: In Progress\n\nSummary:\nKSB Omega-125 (PMP-KS-37) had a reported failure, resulting in 0 hours of downtime. Inspected impeller and cleared debris. Ticket in progress.",
+    "metadata": {
+      "equipment": "KSB Omega-125",
+      "asset_id": "PMP-KS-37",
+      "status": "In Progress",
+      "downtime_hours": 0
+    },
+    "word_count": 51
+  },
+  {
+    "chunk_id": "MTR-AB-26_039",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 39,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1038\nAsset_ID: MTR-AB-26\nEquipment_Name: ABB M3BP-200\nCategory: Motor\nMaintenance_Date: 2025-07-16\nType: Breakdown Repair\nAction_Taken: Replaced drive-end bearing\nTechnician: A. Vance\nDowntime_Hours: 2.1\nParts_Cost: 1046\nStatus: Completed\n\nSummary:\nABB M3BP-200 (MTR-AB-26) had a reported failure, resulting in 2.1 hours of downtime. Replaced drive-end bearing. Ticket completed.",
+    "metadata": {
+      "equipment": "ABB M3BP-200",
+      "asset_id": "MTR-AB-26",
+      "status": "Completed",
+      "downtime_hours": 2.1
+    },
+    "word_count": 46
+  },
+  {
+    "chunk_id": "MTR-SI-23_040",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 40,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1039\nAsset_ID: MTR-SI-23\nEquipment_Name: Siemens 1LE1001-1B\nCategory: Motor\nMaintenance_Date: 2025-07-21\nType: Breakdown Repair\nAction_Taken: Rewound stator windings\nTechnician: L. Rossi\nDowntime_Hours: 1.7\nParts_Cost: 50\nStatus: Pending\n\nSummary:\nSiemens 1LE1001-1B (MTR-SI-23) had a reported failure, resulting in 1.7 hours of downtime. Rewound stator windings. Ticket pending.",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-1B",
+      "asset_id": "MTR-SI-23",
+      "status": "Pending",
+      "downtime_hours": 1.7
+    },
+    "word_count": 46
+  },
+  {
+    "chunk_id": "PMP-KS-09_041",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 41,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1040\nAsset_ID: PMP-KS-09\nEquipment_Name: KSB Omega-100\nCategory: Pump\nMaintenance_Date: 2025-07-24\nType: Preventive\nAction_Taken: Replaced mechanical shaft seal\nTechnician: J. Smith\nDowntime_Hours: 0\nParts_Cost: 41\nStatus: Completed\n\nSummary:\nKSB Omega-100 (PMP-KS-09) had a reported failure, resulting in 0 hours of downtime. Replaced mechanical shaft seal. Ticket completed.",
+    "metadata": {
+      "equipment": "KSB Omega-100",
+      "asset_id": "PMP-KS-09",
+      "status": "Completed",
+      "downtime_hours": 0
+    },
+    "word_count": 47
+  },
+  {
+    "chunk_id": "PMP-GR-12_042",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 42,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1041\nAsset_ID: PMP-GR-12\nEquipment_Name: Grundfos CR-32\nCategory: Pump\nMaintenance_Date: 2025-04-05\nType: Preventive\nAction_Taken: Greased bearings and checked alignment\nTechnician: M. Kumar\nDowntime_Hours: 0\nParts_Cost: 127\nStatus: Completed\n\nSummary:\nGrundfos CR-32 (PMP-GR-12) had a reported failure, resulting in 0 hours of downtime. Greased bearings and checked alignment. Ticket completed.",
+    "metadata": {
+      "equipment": "Grundfos CR-32",
+      "asset_id": "PMP-GR-12",
+      "status": "Completed",
+      "downtime_hours": 0
+    },
+    "word_count": 49
+  },
+  {
+    "chunk_id": "PMP-KS-01_043",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 43,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1042\nAsset_ID: PMP-KS-01\nEquipment_Name: KSB Omega-125\nCategory: Pump\nMaintenance_Date: 2025-11-02\nType: Breakdown Repair\nAction_Taken: Greased bearings and checked alignment\nTechnician: T. Nguyen\nDowntime_Hours: 2.1\nParts_Cost: 812\nStatus: Completed\n\nSummary:\nKSB Omega-125 (PMP-KS-01) had a reported failure, resulting in 2.1 hours of downtime. Greased bearings and checked alignment. Ticket completed.",
+    "metadata": {
+      "equipment": "KSB Omega-125",
+      "asset_id": "PMP-KS-01",
+      "status": "Completed",
+      "downtime_hours": 2.1
+    },
+    "word_count": 50
+  },
+  {
+    "chunk_id": "PMP-KS-01_044",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 44,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1043\nAsset_ID: PMP-KS-01\nEquipment_Name: KSB Omega-125\nCategory: Pump\nMaintenance_Date: 2025-04-22\nType: Preventive\nAction_Taken: Inspected impeller and cleared debris\nTechnician: L. Rossi\nDowntime_Hours: 0\nParts_Cost: 94\nStatus: Completed\n\nSummary:\nKSB Omega-125 (PMP-KS-01) had a reported failure, resulting in 0 hours of downtime. Inspected impeller and cleared debris. Ticket completed.",
+    "metadata": {
+      "equipment": "KSB Omega-125",
+      "asset_id": "PMP-KS-01",
+      "status": "Completed",
+      "downtime_hours": 0
+    },
+    "word_count": 49
+  },
+  {
+    "chunk_id": "MTR-SI-47_045",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 45,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1044\nAsset_ID: MTR-SI-47\nEquipment_Name: Siemens 1LE1001-1A\nCategory: Motor\nMaintenance_Date: 2025-03-16\nType: Preventive\nAction_Taken: Replaced drive-end bearing\nTechnician: T. Nguyen\nDowntime_Hours: 0\nParts_Cost: 47\nStatus: Completed\n\nSummary:\nSiemens 1LE1001-1A (MTR-SI-47) had a reported failure, resulting in 0 hours of downtime. Replaced drive-end bearing. Ticket completed.",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-1A",
+      "asset_id": "MTR-SI-47",
+      "status": "Completed",
+      "downtime_hours": 0
+    },
+    "word_count": 45
+  },
+  {
+    "chunk_id": "MTR-AB-34_046",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 46,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1045\nAsset_ID: MTR-AB-34\nEquipment_Name: ABB M3BP-180\nCategory: Motor\nMaintenance_Date: 2025-12-04\nType: Preventive\nAction_Taken: Cleaned ventilation shroud\nTechnician: A. Vance\nDowntime_Hours: 0\nParts_Cost: 61\nStatus: Completed\n\nSummary:\nABB M3BP-180 (MTR-AB-34) had a reported failure, resulting in 0 hours of downtime. Cleaned ventilation shroud. Ticket completed.",
+    "metadata": {
+      "equipment": "ABB M3BP-180",
+      "asset_id": "MTR-AB-34",
+      "status": "Completed",
+      "downtime_hours": 0
+    },
+    "word_count": 45
+  },
+  {
+    "chunk_id": "PMP-GR-32_047",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 47,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1046\nAsset_ID: PMP-GR-32\nEquipment_Name: Grundfos CR-10\nCategory: Pump\nMaintenance_Date: 2025-12-01\nType: Preventive\nAction_Taken: Inspected impeller and cleared debris\nTechnician: M. Kumar\nDowntime_Hours: 0\nParts_Cost: 60\nStatus: Completed\n\nSummary:\nGrundfos CR-10 (PMP-GR-32) had a reported failure, resulting in 0 hours of downtime. Inspected impeller and cleared debris. Ticket completed.",
+    "metadata": {
+      "equipment": "Grundfos CR-10",
+      "asset_id": "PMP-GR-32",
+      "status": "Completed",
+      "downtime_hours": 0
+    },
+    "word_count": 49
+  },
+  {
+    "chunk_id": "PMP-GR-48_048",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 48,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1047\nAsset_ID: PMP-GR-48\nEquipment_Name: Grundfos CR-64\nCategory: Pump\nMaintenance_Date: 2025-10-12\nType: Preventive\nAction_Taken: Replaced casing gasket\nTechnician: J. Smith\nDowntime_Hours: 0\nParts_Cost: 83\nStatus: Completed\n\nSummary:\nGrundfos CR-64 (PMP-GR-48) had a reported failure, resulting in 0 hours of downtime. Replaced casing gasket. Ticket completed.",
+    "metadata": {
+      "equipment": "Grundfos CR-64",
+      "asset_id": "PMP-GR-48",
+      "status": "Completed",
+      "downtime_hours": 0
+    },
+    "word_count": 45
+  },
+  {
+    "chunk_id": "PMP-KS-25_049",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 49,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1048\nAsset_ID: PMP-KS-25\nEquipment_Name: KSB Omega-125\nCategory: Pump\nMaintenance_Date: 2025-12-06\nType: Preventive\nAction_Taken: Greased bearings and checked alignment\nTechnician: L. Rossi\nDowntime_Hours: 0\nParts_Cost: 135\nStatus: Completed\n\nSummary:\nKSB Omega-125 (PMP-KS-25) had a reported failure, resulting in 0 hours of downtime. Greased bearings and checked alignment. Ticket completed.",
+    "metadata": {
+      "equipment": "KSB Omega-125",
+      "asset_id": "PMP-KS-25",
+      "status": "Completed",
+      "downtime_hours": 0
+    },
+    "word_count": 49
+  },
+  {
+    "chunk_id": "PMP-GR-40_050",
+    "document_name": "Equipment_Maintenance_Log.xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 50,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Maintenance_Log_ID: MNT-1049\nAsset_ID: PMP-GR-40\nEquipment_Name: Grundfos CR-45\nCategory: Pump\nMaintenance_Date: 2025-08-28\nType: Preventive\nAction_Taken: Inspected impeller and cleared debris\nTechnician: J. Smith\nDowntime_Hours: 0\nParts_Cost: 89\nStatus: Completed\n\nSummary:\nGrundfos CR-45 (PMP-GR-40) had a reported failure, resulting in 0 hours of downtime. Inspected impeller and cleared debris. Ticket completed.",
+    "metadata": {
+      "equipment": "Grundfos CR-45",
+      "asset_id": "PMP-GR-40",
+      "status": "Completed",
+      "downtime_hours": 0
+    },
+    "word_count": 49
+  }
+]

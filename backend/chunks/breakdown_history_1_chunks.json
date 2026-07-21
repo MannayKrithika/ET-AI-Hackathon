@@ -1,0 +1,902 @@
+[
+  {
+    "chunk_id": "PMP-KS-29_001",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 1,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8000\nAsset_ID: PMP-KS-29\nEquipment_Name: KSB Omega-50\nFailure_Date: 2025-04-23 00:00\nResolution_Date: 2025-04-24 00:00\nRoot_Cause: Misalignment of coupling\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nKSB Omega-50 (PMP-KS-29) experienced misalignment of coupling, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "KSB Omega-50",
+      "asset_id": "PMP-KS-29",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Misalignment of coupling",
+      "year": 2025
+    },
+    "word_count": 48
+  },
+  {
+    "chunk_id": "PMP-KS-45_002",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 2,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8001\nAsset_ID: PMP-KS-45\nEquipment_Name: KSB Omega-80\nFailure_Date: 2025-08-15 00:00\nResolution_Date: 2025-08-16 00:00\nRoot_Cause: Impeller blockage from external solid debris\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nKSB Omega-80 (PMP-KS-45) experienced impeller blockage from external solid debris, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "KSB Omega-80",
+      "asset_id": "PMP-KS-45",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Impeller blockage from external solid debris",
+      "year": 2025
+    },
+    "word_count": 54
+  },
+  {
+    "chunk_id": "MTR-AB-34_003",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 3,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8002\nAsset_ID: MTR-AB-34\nEquipment_Name: ABB M3BP-180\nFailure_Date: 2025-04-21 00:00\nResolution_Date: 2025-04-22 00:00\nRoot_Cause: Insulation breakdown due to voltage surge\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nABB M3BP-180 (MTR-AB-34) experienced insulation breakdown due to voltage surge, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "ABB M3BP-180",
+      "asset_id": "MTR-AB-34",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Insulation breakdown due to voltage surge",
+      "year": 2025
+    },
+    "word_count": 54
+  },
+  {
+    "chunk_id": "MTR-SI-23_004",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 4,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8003\nAsset_ID: MTR-SI-23\nEquipment_Name: Siemens 1LE1001-1B\nFailure_Date: 2026-02-10 00:00\nResolution_Date: 2026-02-10 00:00\nRoot_Cause: Overloading causing thermal trip\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 0\nStatus: Closed\n\nSummary:\nSiemens 1LE1001-1B (MTR-SI-23) experienced overloading causing thermal trip, resulting in 0 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-1B",
+      "asset_id": "MTR-SI-23",
+      "status": "Closed",
+      "downtime_hours": 0,
+      "root_cause": "Overloading causing thermal trip",
+      "year": 2026
+    },
+    "word_count": 50
+  },
+  {
+    "chunk_id": "PMP-KS-37_005",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 5,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8004\nAsset_ID: PMP-KS-37\nEquipment_Name: KSB Omega-125\nFailure_Date: 2025-10-16 00:00\nResolution_Date: 2025-10-17 00:00\nRoot_Cause: Impeller blockage from external solid debris\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nKSB Omega-125 (PMP-KS-37) experienced impeller blockage from external solid debris, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "KSB Omega-125",
+      "asset_id": "PMP-KS-37",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Impeller blockage from external solid debris",
+      "year": 2025
+    },
+    "word_count": 54
+  },
+  {
+    "chunk_id": "MTR-SI-11_006",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 6,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8005\nAsset_ID: MTR-SI-11\nEquipment_Name: Siemens 1LE1001-1A\nFailure_Date: 2025-05-28 00:00\nResolution_Date: 2025-05-28 00:00\nRoot_Cause: Phase unbalance\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 0\nStatus: Closed\n\nSummary:\nSiemens 1LE1001-1A (MTR-SI-11) experienced phase unbalance, resulting in 0 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-1A",
+      "asset_id": "MTR-SI-11",
+      "status": "Closed",
+      "downtime_hours": 0,
+      "root_cause": "Phase unbalance",
+      "year": 2025
+    },
+    "word_count": 46
+  },
+  {
+    "chunk_id": "MTR-AB-06_007",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 7,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8006\nAsset_ID: MTR-AB-06\nEquipment_Name: ABB M3BP-225\nFailure_Date: 2025-09-01 00:00\nResolution_Date: 2025-09-02 00:00\nRoot_Cause: Bearing lack of lubrication / overheating\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nABB M3BP-225 (MTR-AB-06) experienced bearing lack of lubrication / overheating, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "ABB M3BP-225",
+      "asset_id": "MTR-AB-06",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Bearing lack of lubrication / overheating",
+      "year": 2025
+    },
+    "word_count": 54
+  },
+  {
+    "chunk_id": "MTR-AB-18_008",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 8,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8007\nAsset_ID: MTR-AB-18\nEquipment_Name: ABB M3BP-180\nFailure_Date: 2025-12-31 00:00\nResolution_Date: 2026-01-01 00:00\nRoot_Cause: Insulation breakdown due to voltage surge\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nABB M3BP-180 (MTR-AB-18) experienced insulation breakdown due to voltage surge, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "ABB M3BP-180",
+      "asset_id": "MTR-AB-18",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Insulation breakdown due to voltage surge",
+      "year": 2025
+    },
+    "word_count": 54
+  },
+  {
+    "chunk_id": "PMP-KS-21_009",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 9,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8008\nAsset_ID: PMP-KS-21\nEquipment_Name: KSB Omega-50\nFailure_Date: 2025-07-20 00:00\nResolution_Date: 2025-07-21 00:00\nRoot_Cause: Mechanical seal dry wearing\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nKSB Omega-50 (PMP-KS-21) experienced mechanical seal dry wearing, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "KSB Omega-50",
+      "asset_id": "PMP-KS-21",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Mechanical seal dry wearing",
+      "year": 2025
+    },
+    "word_count": 50
+  },
+  {
+    "chunk_id": "MTR-AB-42_010",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 10,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8009\nAsset_ID: MTR-AB-42\nEquipment_Name: ABB M3BP-200\nFailure_Date: 2025-03-14 00:00\nResolution_Date: 2025-03-14 00:00\nRoot_Cause: Overloading causing thermal trip\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 0\nStatus: Closed\n\nSummary:\nABB M3BP-200 (MTR-AB-42) experienced overloading causing thermal trip, resulting in 0 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "ABB M3BP-200",
+      "asset_id": "MTR-AB-42",
+      "status": "Closed",
+      "downtime_hours": 0,
+      "root_cause": "Overloading causing thermal trip",
+      "year": 2025
+    },
+    "word_count": 50
+  },
+  {
+    "chunk_id": "PMP-GR-36_011",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 11,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8010\nAsset_ID: PMP-GR-36\nEquipment_Name: Grundfos CR-45\nFailure_Date: 2025-01-17 00:00\nResolution_Date: 2025-01-17 00:00\nRoot_Cause: Dry running / cavitation\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 0\nStatus: Closed\n\nSummary:\nGrundfos CR-45 (PMP-GR-36) experienced dry running / cavitation, resulting in 0 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "Grundfos CR-45",
+      "asset_id": "PMP-GR-36",
+      "status": "Closed",
+      "downtime_hours": 0,
+      "root_cause": "Dry running / cavitation",
+      "year": 2025
+    },
+    "word_count": 50
+  },
+  {
+    "chunk_id": "PMP-KS-41_012",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 12,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8011\nAsset_ID: PMP-KS-41\nEquipment_Name: KSB Omega-125\nFailure_Date: 2025-03-02 00:00\nResolution_Date: 2025-03-03 00:00\nRoot_Cause: Misalignment of coupling\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nKSB Omega-125 (PMP-KS-41) experienced misalignment of coupling, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "KSB Omega-125",
+      "asset_id": "PMP-KS-41",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Misalignment of coupling",
+      "year": 2025
+    },
+    "word_count": 48
+  },
+  {
+    "chunk_id": "MTR-AB-38_013",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 13,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8012\nAsset_ID: MTR-AB-38\nEquipment_Name: ABB M3BP-180\nFailure_Date: 2025-02-11 00:00\nResolution_Date: 2025-02-12 00:00\nRoot_Cause: Phase unbalance\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nABB M3BP-180 (MTR-AB-38) experienced phase unbalance, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "ABB M3BP-180",
+      "asset_id": "MTR-AB-38",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Phase unbalance",
+      "year": 2025
+    },
+    "word_count": 46
+  },
+  {
+    "chunk_id": "MTR-AB-34_014",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 14,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8013\nAsset_ID: MTR-AB-34\nEquipment_Name: ABB M3BP-180\nFailure_Date: 2025-10-18 00:00\nResolution_Date: 2025-10-18 00:00\nRoot_Cause: Insulation breakdown due to voltage surge\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 0\nStatus: Closed\n\nSummary:\nABB M3BP-180 (MTR-AB-34) experienced insulation breakdown due to voltage surge, resulting in 0 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "ABB M3BP-180",
+      "asset_id": "MTR-AB-34",
+      "status": "Closed",
+      "downtime_hours": 0,
+      "root_cause": "Insulation breakdown due to voltage surge",
+      "year": 2025
+    },
+    "word_count": 54
+  },
+  {
+    "chunk_id": "PMP-KS-17_015",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 15,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8014\nAsset_ID: PMP-KS-17\nEquipment_Name: KSB Omega-50\nFailure_Date: 2025-08-17 00:00\nResolution_Date: 2025-08-18 00:00\nRoot_Cause: Misalignment of coupling\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nKSB Omega-50 (PMP-KS-17) experienced misalignment of coupling, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "KSB Omega-50",
+      "asset_id": "PMP-KS-17",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Misalignment of coupling",
+      "year": 2025
+    },
+    "word_count": 48
+  },
+  {
+    "chunk_id": "PMP-KS-37_016",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 16,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8015\nAsset_ID: PMP-KS-37\nEquipment_Name: KSB Omega-125\nFailure_Date: 2025-04-12 00:00\nResolution_Date: 2025-04-13 00:00\nRoot_Cause: Misalignment of coupling\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nKSB Omega-125 (PMP-KS-37) experienced misalignment of coupling, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "KSB Omega-125",
+      "asset_id": "PMP-KS-37",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Misalignment of coupling",
+      "year": 2025
+    },
+    "word_count": 48
+  },
+  {
+    "chunk_id": "PMP-KS-25_017",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 17,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8016\nAsset_ID: PMP-KS-25\nEquipment_Name: KSB Omega-125\nFailure_Date: 2025-10-02 00:00\nResolution_Date: 2025-10-03 00:00\nRoot_Cause: Misalignment of coupling\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nKSB Omega-125 (PMP-KS-25) experienced misalignment of coupling, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "KSB Omega-125",
+      "asset_id": "PMP-KS-25",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Misalignment of coupling",
+      "year": 2025
+    },
+    "word_count": 48
+  },
+  {
+    "chunk_id": "MTR-AB-38_018",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 18,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8017\nAsset_ID: MTR-AB-38\nEquipment_Name: ABB M3BP-180\nFailure_Date: 2025-11-01 00:00\nResolution_Date: 2025-11-01 00:00\nRoot_Cause: Insulation breakdown due to voltage surge\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 0\nStatus: Closed\n\nSummary:\nABB M3BP-180 (MTR-AB-38) experienced insulation breakdown due to voltage surge, resulting in 0 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "ABB M3BP-180",
+      "asset_id": "MTR-AB-38",
+      "status": "Closed",
+      "downtime_hours": 0,
+      "root_cause": "Insulation breakdown due to voltage surge",
+      "year": 2025
+    },
+    "word_count": 54
+  },
+  {
+    "chunk_id": "PMP-GR-12_019",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 19,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8018\nAsset_ID: PMP-GR-12\nEquipment_Name: Grundfos CR-32\nFailure_Date: 2025-02-26 00:00\nResolution_Date: 2025-02-26 00:00\nRoot_Cause: Mechanical seal dry wearing\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 0\nStatus: Closed\n\nSummary:\nGrundfos CR-32 (PMP-GR-12) experienced mechanical seal dry wearing, resulting in 0 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "Grundfos CR-32",
+      "asset_id": "PMP-GR-12",
+      "status": "Closed",
+      "downtime_hours": 0,
+      "root_cause": "Mechanical seal dry wearing",
+      "year": 2025
+    },
+    "word_count": 50
+  },
+  {
+    "chunk_id": "MTR-SI-23_020",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 20,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8019\nAsset_ID: MTR-SI-23\nEquipment_Name: Siemens 1LE1001-1B\nFailure_Date: 2025-03-21 00:00\nResolution_Date: 2025-03-22 00:00\nRoot_Cause: Phase unbalance\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nSiemens 1LE1001-1B (MTR-SI-23) experienced phase unbalance, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-1B",
+      "asset_id": "MTR-SI-23",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Phase unbalance",
+      "year": 2025
+    },
+    "word_count": 46
+  },
+  {
+    "chunk_id": "MTR-AB-42_021",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 21,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8020\nAsset_ID: MTR-AB-42\nEquipment_Name: ABB M3BP-200\nFailure_Date: 2025-09-21 00:00\nResolution_Date: 2025-09-22 00:00\nRoot_Cause: Bearing lack of lubrication / overheating\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nABB M3BP-200 (MTR-AB-42) experienced bearing lack of lubrication / overheating, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "ABB M3BP-200",
+      "asset_id": "MTR-AB-42",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Bearing lack of lubrication / overheating",
+      "year": 2025
+    },
+    "word_count": 54
+  },
+  {
+    "chunk_id": "MTR-AB-22_022",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 22,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8021\nAsset_ID: MTR-AB-22\nEquipment_Name: ABB M3BP-180\nFailure_Date: 2025-03-22 00:00\nResolution_Date: 2025-03-23 00:00\nRoot_Cause: Bearing lack of lubrication / overheating\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nABB M3BP-180 (MTR-AB-22) experienced bearing lack of lubrication / overheating, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "ABB M3BP-180",
+      "asset_id": "MTR-AB-22",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Bearing lack of lubrication / overheating",
+      "year": 2025
+    },
+    "word_count": 54
+  },
+  {
+    "chunk_id": "PMP-KS-21_023",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 23,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8022\nAsset_ID: PMP-KS-21\nEquipment_Name: KSB Omega-50\nFailure_Date: 2026-01-09 00:00\nResolution_Date: 2026-01-09 00:00\nRoot_Cause: Mechanical seal dry wearing\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 0\nStatus: Closed\n\nSummary:\nKSB Omega-50 (PMP-KS-21) experienced mechanical seal dry wearing, resulting in 0 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "KSB Omega-50",
+      "asset_id": "PMP-KS-21",
+      "status": "Closed",
+      "downtime_hours": 0,
+      "root_cause": "Mechanical seal dry wearing",
+      "year": 2026
+    },
+    "word_count": 50
+  },
+  {
+    "chunk_id": "MTR-SI-27_024",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 24,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8023\nAsset_ID: MTR-SI-27\nEquipment_Name: Siemens 1LE1001-2A\nFailure_Date: 2025-07-19 00:00\nResolution_Date: 2025-07-20 00:00\nRoot_Cause: Insulation breakdown due to voltage surge\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nSiemens 1LE1001-2A (MTR-SI-27) experienced insulation breakdown due to voltage surge, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-2A",
+      "asset_id": "MTR-SI-27",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Insulation breakdown due to voltage surge",
+      "year": 2025
+    },
+    "word_count": 54
+  },
+  {
+    "chunk_id": "MTR-SI-31_025",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 25,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8024\nAsset_ID: MTR-SI-31\nEquipment_Name: Siemens 1LE1001-1C\nFailure_Date: 2025-03-30 00:00\nResolution_Date: 2025-03-30 00:00\nRoot_Cause: Phase unbalance\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 0\nStatus: Closed\n\nSummary:\nSiemens 1LE1001-1C (MTR-SI-31) experienced phase unbalance, resulting in 0 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-1C",
+      "asset_id": "MTR-SI-31",
+      "status": "Closed",
+      "downtime_hours": 0,
+      "root_cause": "Phase unbalance",
+      "year": 2025
+    },
+    "word_count": 46
+  },
+  {
+    "chunk_id": "MTR-AB-06_026",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 26,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8025\nAsset_ID: MTR-AB-06\nEquipment_Name: ABB M3BP-225\nFailure_Date: 2025-02-28 00:00\nResolution_Date: 2025-03-01 00:00\nRoot_Cause: Bearing lack of lubrication / overheating\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nABB M3BP-225 (MTR-AB-06) experienced bearing lack of lubrication / overheating, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "ABB M3BP-225",
+      "asset_id": "MTR-AB-06",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Bearing lack of lubrication / overheating",
+      "year": 2025
+    },
+    "word_count": 54
+  },
+  {
+    "chunk_id": "MTR-SI-27_027",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 27,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8026\nAsset_ID: MTR-SI-27\nEquipment_Name: Siemens 1LE1001-2A\nFailure_Date: 2025-12-31 00:00\nResolution_Date: 2026-01-01 00:00\nRoot_Cause: Phase unbalance\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nSiemens 1LE1001-2A (MTR-SI-27) experienced phase unbalance, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-2A",
+      "asset_id": "MTR-SI-27",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Phase unbalance",
+      "year": 2025
+    },
+    "word_count": 46
+  },
+  {
+    "chunk_id": "PMP-GR-40_028",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 28,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8027\nAsset_ID: PMP-GR-40\nEquipment_Name: Grundfos CR-45\nFailure_Date: 2025-10-15 00:00\nResolution_Date: 2025-10-15 00:00\nRoot_Cause: Misalignment of coupling\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 0\nStatus: Closed\n\nSummary:\nGrundfos CR-45 (PMP-GR-40) experienced misalignment of coupling, resulting in 0 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "Grundfos CR-45",
+      "asset_id": "PMP-GR-40",
+      "status": "Closed",
+      "downtime_hours": 0,
+      "root_cause": "Misalignment of coupling",
+      "year": 2025
+    },
+    "word_count": 48
+  },
+  {
+    "chunk_id": "MTR-AB-34_029",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 29,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8028\nAsset_ID: MTR-AB-34\nEquipment_Name: ABB M3BP-180\nFailure_Date: 2025-07-18 00:00\nResolution_Date: 2025-07-18 00:00\nRoot_Cause: Phase unbalance\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 0\nStatus: Closed\n\nSummary:\nABB M3BP-180 (MTR-AB-34) experienced phase unbalance, resulting in 0 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "ABB M3BP-180",
+      "asset_id": "MTR-AB-34",
+      "status": "Closed",
+      "downtime_hours": 0,
+      "root_cause": "Phase unbalance",
+      "year": 2025
+    },
+    "word_count": 46
+  },
+  {
+    "chunk_id": "PMP-GR-12_030",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 30,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8029\nAsset_ID: PMP-GR-12\nEquipment_Name: Grundfos CR-32\nFailure_Date: 2025-10-09 00:00\nResolution_Date: 2025-10-09 00:00\nRoot_Cause: Mechanical seal dry wearing\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 0\nStatus: Closed\n\nSummary:\nGrundfos CR-32 (PMP-GR-12) experienced mechanical seal dry wearing, resulting in 0 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "Grundfos CR-32",
+      "asset_id": "PMP-GR-12",
+      "status": "Closed",
+      "downtime_hours": 0,
+      "root_cause": "Mechanical seal dry wearing",
+      "year": 2025
+    },
+    "word_count": 50
+  },
+  {
+    "chunk_id": "PMP-KS-45_031",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 31,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8030\nAsset_ID: PMP-KS-45\nEquipment_Name: KSB Omega-80\nFailure_Date: 2025-09-07 00:00\nResolution_Date: 2025-09-07 00:00\nRoot_Cause: Mechanical seal dry wearing\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 0\nStatus: Closed\n\nSummary:\nKSB Omega-80 (PMP-KS-45) experienced mechanical seal dry wearing, resulting in 0 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "KSB Omega-80",
+      "asset_id": "PMP-KS-45",
+      "status": "Closed",
+      "downtime_hours": 0,
+      "root_cause": "Mechanical seal dry wearing",
+      "year": 2025
+    },
+    "word_count": 50
+  },
+  {
+    "chunk_id": "MTR-SI-07_032",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 32,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8031\nAsset_ID: MTR-SI-07\nEquipment_Name: Siemens 1LE1001-1A\nFailure_Date: 2025-12-01 00:00\nResolution_Date: 2025-12-01 00:00\nRoot_Cause: Bearing lack of lubrication / overheating\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 0\nStatus: Closed\n\nSummary:\nSiemens 1LE1001-1A (MTR-SI-07) experienced bearing lack of lubrication / overheating, resulting in 0 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-1A",
+      "asset_id": "MTR-SI-07",
+      "status": "Closed",
+      "downtime_hours": 0,
+      "root_cause": "Bearing lack of lubrication / overheating",
+      "year": 2025
+    },
+    "word_count": 54
+  },
+  {
+    "chunk_id": "MTR-AB-10_033",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 33,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8032\nAsset_ID: MTR-AB-10\nEquipment_Name: ABB M3BP-200\nFailure_Date: 2026-01-06 00:00\nResolution_Date: 2026-01-06 00:00\nRoot_Cause: Insulation breakdown due to voltage surge\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 0\nStatus: Closed\n\nSummary:\nABB M3BP-200 (MTR-AB-10) experienced insulation breakdown due to voltage surge, resulting in 0 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "ABB M3BP-200",
+      "asset_id": "MTR-AB-10",
+      "status": "Closed",
+      "downtime_hours": 0,
+      "root_cause": "Insulation breakdown due to voltage surge",
+      "year": 2026
+    },
+    "word_count": 54
+  },
+  {
+    "chunk_id": "PMP-KS-45_034",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 34,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8033\nAsset_ID: PMP-KS-45\nEquipment_Name: KSB Omega-80\nFailure_Date: 2025-11-11 00:00\nResolution_Date: 2025-11-12 00:00\nRoot_Cause: Dry running / cavitation\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nKSB Omega-80 (PMP-KS-45) experienced dry running / cavitation, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "KSB Omega-80",
+      "asset_id": "PMP-KS-45",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Dry running / cavitation",
+      "year": 2025
+    },
+    "word_count": 50
+  },
+  {
+    "chunk_id": "PMP-KS-17_035",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 35,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8034\nAsset_ID: PMP-KS-17\nEquipment_Name: KSB Omega-50\nFailure_Date: 2025-03-23 00:00\nResolution_Date: 2025-03-24 00:00\nRoot_Cause: Mechanical seal dry wearing\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nKSB Omega-50 (PMP-KS-17) experienced mechanical seal dry wearing, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "KSB Omega-50",
+      "asset_id": "PMP-KS-17",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Mechanical seal dry wearing",
+      "year": 2025
+    },
+    "word_count": 50
+  },
+  {
+    "chunk_id": "MTR-AB-26_036",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 36,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8035\nAsset_ID: MTR-AB-26\nEquipment_Name: ABB M3BP-200\nFailure_Date: 2026-01-07 00:00\nResolution_Date: 2026-01-08 00:00\nRoot_Cause: Phase unbalance\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nABB M3BP-200 (MTR-AB-26) experienced phase unbalance, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "ABB M3BP-200",
+      "asset_id": "MTR-AB-26",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Phase unbalance",
+      "year": 2026
+    },
+    "word_count": 46
+  },
+  {
+    "chunk_id": "PMP-KS-21_037",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 37,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8036\nAsset_ID: PMP-KS-21\nEquipment_Name: KSB Omega-50\nFailure_Date: 2026-02-06 00:00\nResolution_Date: 2026-02-07 00:00\nRoot_Cause: Impeller blockage from external solid debris\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nKSB Omega-50 (PMP-KS-21) experienced impeller blockage from external solid debris, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "KSB Omega-50",
+      "asset_id": "PMP-KS-21",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Impeller blockage from external solid debris",
+      "year": 2026
+    },
+    "word_count": 54
+  },
+  {
+    "chunk_id": "PMP-GR-28_038",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 38,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8037\nAsset_ID: PMP-GR-28\nEquipment_Name: Grundfos CR-15\nFailure_Date: 2025-09-30 00:00\nResolution_Date: 2025-09-30 00:00\nRoot_Cause: Impeller blockage from external solid debris\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 0\nStatus: Closed\n\nSummary:\nGrundfos CR-15 (PMP-GR-28) experienced impeller blockage from external solid debris, resulting in 0 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "Grundfos CR-15",
+      "asset_id": "PMP-GR-28",
+      "status": "Closed",
+      "downtime_hours": 0,
+      "root_cause": "Impeller blockage from external solid debris",
+      "year": 2025
+    },
+    "word_count": 54
+  },
+  {
+    "chunk_id": "MTR-AB-46_039",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 39,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8038\nAsset_ID: MTR-AB-46\nEquipment_Name: ABB M3BP-225\nFailure_Date: 2025-06-01 00:00\nResolution_Date: 2025-06-02 00:00\nRoot_Cause: Overloading causing thermal trip\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nABB M3BP-225 (MTR-AB-46) experienced overloading causing thermal trip, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "ABB M3BP-225",
+      "asset_id": "MTR-AB-46",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Overloading causing thermal trip",
+      "year": 2025
+    },
+    "word_count": 50
+  },
+  {
+    "chunk_id": "MTR-AB-02_040",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 40,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8039\nAsset_ID: MTR-AB-02\nEquipment_Name: ABB M3BP-160\nFailure_Date: 2025-07-07 00:00\nResolution_Date: 2025-07-08 00:00\nRoot_Cause: Insulation breakdown due to voltage surge\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nABB M3BP-160 (MTR-AB-02) experienced insulation breakdown due to voltage surge, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "ABB M3BP-160",
+      "asset_id": "MTR-AB-02",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Insulation breakdown due to voltage surge",
+      "year": 2025
+    },
+    "word_count": 54
+  },
+  {
+    "chunk_id": "MTR-SI-43_041",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 41,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8040\nAsset_ID: MTR-SI-43\nEquipment_Name: Siemens 1LE1001-1B\nFailure_Date: 2025-05-11 00:00\nResolution_Date: 2025-05-12 00:00\nRoot_Cause: Phase unbalance\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nSiemens 1LE1001-1B (MTR-SI-43) experienced phase unbalance, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-1B",
+      "asset_id": "MTR-SI-43",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Phase unbalance",
+      "year": 2025
+    },
+    "word_count": 46
+  },
+  {
+    "chunk_id": "PMP-KS-01_042",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 42,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8041\nAsset_ID: PMP-KS-01\nEquipment_Name: KSB Omega-125\nFailure_Date: 2025-07-02 00:00\nResolution_Date: 2025-07-03 00:00\nRoot_Cause: Misalignment of coupling\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nKSB Omega-125 (PMP-KS-01) experienced misalignment of coupling, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "KSB Omega-125",
+      "asset_id": "PMP-KS-01",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Misalignment of coupling",
+      "year": 2025
+    },
+    "word_count": 48
+  },
+  {
+    "chunk_id": "PMP-GR-36_043",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 43,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8042\nAsset_ID: PMP-GR-36\nEquipment_Name: Grundfos CR-45\nFailure_Date: 2025-02-08 00:00\nResolution_Date: 2025-02-08 00:00\nRoot_Cause: Misalignment of coupling\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 0\nStatus: Closed\n\nSummary:\nGrundfos CR-45 (PMP-GR-36) experienced misalignment of coupling, resulting in 0 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "Grundfos CR-45",
+      "asset_id": "PMP-GR-36",
+      "status": "Closed",
+      "downtime_hours": 0,
+      "root_cause": "Misalignment of coupling",
+      "year": 2025
+    },
+    "word_count": 48
+  },
+  {
+    "chunk_id": "MTR-AB-26_044",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 44,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8043\nAsset_ID: MTR-AB-26\nEquipment_Name: ABB M3BP-200\nFailure_Date: 2025-01-04 00:00\nResolution_Date: 2025-01-05 00:00\nRoot_Cause: Insulation breakdown due to voltage surge\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nABB M3BP-200 (MTR-AB-26) experienced insulation breakdown due to voltage surge, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "ABB M3BP-200",
+      "asset_id": "MTR-AB-26",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Insulation breakdown due to voltage surge",
+      "year": 2025
+    },
+    "word_count": 54
+  },
+  {
+    "chunk_id": "PMP-KS-29_045",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 45,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8044\nAsset_ID: PMP-KS-29\nEquipment_Name: KSB Omega-50\nFailure_Date: 2026-02-13 00:00\nResolution_Date: 2026-02-13 00:00\nRoot_Cause: Mechanical seal dry wearing\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 0\nStatus: Closed\n\nSummary:\nKSB Omega-50 (PMP-KS-29) experienced mechanical seal dry wearing, resulting in 0 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "KSB Omega-50",
+      "asset_id": "PMP-KS-29",
+      "status": "Closed",
+      "downtime_hours": 0,
+      "root_cause": "Mechanical seal dry wearing",
+      "year": 2026
+    },
+    "word_count": 50
+  },
+  {
+    "chunk_id": "PMP-KS-21_046",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 46,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8045\nAsset_ID: PMP-KS-21\nEquipment_Name: KSB Omega-50\nFailure_Date: 2025-06-10 00:00\nResolution_Date: 2025-06-10 00:00\nRoot_Cause: Dry running / cavitation\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 0\nStatus: Closed\n\nSummary:\nKSB Omega-50 (PMP-KS-21) experienced dry running / cavitation, resulting in 0 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "KSB Omega-50",
+      "asset_id": "PMP-KS-21",
+      "status": "Closed",
+      "downtime_hours": 0,
+      "root_cause": "Dry running / cavitation",
+      "year": 2025
+    },
+    "word_count": 50
+  },
+  {
+    "chunk_id": "MTR-SI-11_047",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 47,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8046\nAsset_ID: MTR-SI-11\nEquipment_Name: Siemens 1LE1001-1A\nFailure_Date: 2025-04-18 00:00\nResolution_Date: 2025-04-18 00:00\nRoot_Cause: Phase unbalance\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 0\nStatus: Closed\n\nSummary:\nSiemens 1LE1001-1A (MTR-SI-11) experienced phase unbalance, resulting in 0 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-1A",
+      "asset_id": "MTR-SI-11",
+      "status": "Closed",
+      "downtime_hours": 0,
+      "root_cause": "Phase unbalance",
+      "year": 2025
+    },
+    "word_count": 46
+  },
+  {
+    "chunk_id": "PMP-GR-40_048",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 48,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8047\nAsset_ID: PMP-GR-40\nEquipment_Name: Grundfos CR-45\nFailure_Date: 2025-08-15 00:00\nResolution_Date: 2025-08-16 00:00\nRoot_Cause: Mechanical seal dry wearing\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nGrundfos CR-45 (PMP-GR-40) experienced mechanical seal dry wearing, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "Grundfos CR-45",
+      "asset_id": "PMP-GR-40",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Mechanical seal dry wearing",
+      "year": 2025
+    },
+    "word_count": 50
+  },
+  {
+    "chunk_id": "MTR-SI-11_049",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 49,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8048\nAsset_ID: MTR-SI-11\nEquipment_Name: Siemens 1LE1001-1A\nFailure_Date: 2026-02-18 00:00\nResolution_Date: 2026-02-18 00:00\nRoot_Cause: Bearing lack of lubrication / overheating\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 0\nStatus: Closed\n\nSummary:\nSiemens 1LE1001-1A (MTR-SI-11) experienced bearing lack of lubrication / overheating, resulting in 0 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-1A",
+      "asset_id": "MTR-SI-11",
+      "status": "Closed",
+      "downtime_hours": 0,
+      "root_cause": "Bearing lack of lubrication / overheating",
+      "year": 2026
+    },
+    "word_count": 54
+  },
+  {
+    "chunk_id": "PMP-GR-36_050",
+    "document_name": "Breakdown_History (1).xlsx",
+    "document_type": "Maintenance Log",
+    "chunk_number": 50,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Ticket_ID: BRK-8049\nAsset_ID: PMP-GR-36\nEquipment_Name: Grundfos CR-45\nFailure_Date: 2025-10-01 00:00\nResolution_Date: 2025-10-02 00:00\nRoot_Cause: Misalignment of coupling\nAction_Required: Replaced component & reset parameters\nDowntime_Hours: 24\nStatus: Closed\n\nSummary:\nGrundfos CR-45 (PMP-GR-36) experienced misalignment of coupling, resulting in 24 hours of downtime. Replaced component & reset parameters. Ticket closed.",
+    "metadata": {
+      "equipment": "Grundfos CR-45",
+      "asset_id": "PMP-GR-36",
+      "status": "Closed",
+      "downtime_hours": 24,
+      "root_cause": "Misalignment of coupling",
+      "year": 2025
+    },
+    "word_count": 48
+  }
+]

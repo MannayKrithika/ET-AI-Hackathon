@@ -1,0 +1,799 @@
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1000
+Asset_ID: MTR-AB-02
+Equipment_Name: ABB M3BP-160
+Category: Motor
+Maintenance_Date: 2025-08-25
+Type: Preventive
+Action_Taken: Tested insulation resistance (Megger)
+Technician: L. Rossi
+Downtime_(Hours): 0
+Parts_Cost: 78
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1001
+Asset_ID: PMP-GR-32
+Equipment_Name: Grundfos CR-10
+Category: Pump
+Maintenance_Date: 2025-09-04
+Type: Preventive
+Action_Taken: Greased bearings and checked alignment
+Technician: A. Vance
+Downtime_(Hours): 0
+Parts_Cost: 95
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1002
+Asset_ID: MTR-SI-23
+Equipment_Name: Siemens 1LE1001-1B
+Category: Motor
+Maintenance_Date: 2025-08-08
+Type: Preventive
+Action_Taken: Rewound stator windings
+Technician: T. Nguyen
+Downtime_(Hours): 0
+Parts_Cost: 94
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1003
+Asset_ID: MTR-AB-22
+Equipment_Name: ABB M3BP-180
+Category: Motor
+Maintenance_Date: 2025-10-16
+Type: Preventive
+Action_Taken: Rewound stator windings
+Technician: M. Kumar
+Downtime_(Hours): 0
+Parts_Cost: 19
+Status: In Progress
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1004
+Asset_ID: PMP-KS-25
+Equipment_Name: KSB Omega-125
+Category: Pump
+Maintenance_Date: 2025-04-10
+Type: Preventive
+Action_Taken: Inspected impeller and cleared debris
+Technician: M. Kumar
+Downtime_(Hours): 0
+Parts_Cost: 105
+Status: In Progress
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1005
+Asset_ID: MTR-AB-22
+Equipment_Name: ABB M3BP-180
+Category: Motor
+Maintenance_Date: 2025-11-21
+Type: Corrective
+Action_Taken: Tested insulation resistance (Megger)
+Technician: M. Kumar
+Downtime_(Hours): 0.6
+Parts_Cost: 945
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1006
+Asset_ID: MTR-AB-22
+Equipment_Name: ABB M3BP-180
+Category: Motor
+Maintenance_Date: 2025-12-06
+Type: Corrective
+Action_Taken: Replaced drive-end bearing
+Technician: A. Vance
+Downtime_(Hours): 2.6
+Parts_Cost: 1006
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1007
+Asset_ID: PMP-KS-49
+Equipment_Name: KSB Omega-125
+Category: Pump
+Maintenance_Date: 2025-04-11
+Type: Corrective
+Action_Taken: Replaced mechanical shaft seal
+Technician: J. Smith
+Downtime_(Hours): 2.6
+Parts_Cost: 1116
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1008
+Asset_ID: MTR-AB-42
+Equipment_Name: ABB M3BP-200
+Category: Motor
+Maintenance_Date: 2026-02-01
+Type: Preventive
+Action_Taken: Replaced drive-end bearing
+Technician: M. Kumar
+Downtime_(Hours): 0
+Parts_Cost: 44
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1009
+Asset_ID: MTR-AB-06
+Equipment_Name: ABB M3BP-225
+Category: Motor
+Maintenance_Date: 2025-03-31
+Type: Preventive
+Action_Taken: Replaced drive-end bearing
+Technician: M. Kumar
+Downtime_(Hours): 0
+Parts_Cost: 99
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1010
+Asset_ID: MTR-SI-15
+Equipment_Name: Siemens 1LE1001-1A
+Category: Motor
+Maintenance_Date: 2025-04-25
+Type: Preventive
+Action_Taken: Tested insulation resistance (Megger)
+Technician: M. Kumar
+Downtime_(Hours): 0
+Parts_Cost: 123
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1011
+Asset_ID: MTR-SI-43
+Equipment_Name: Siemens 1LE1001-1B
+Category: Motor
+Maintenance_Date: 2026-01-11
+Type: Calibration
+Action_Taken: Rewound stator windings
+Technician: L. Rossi
+Downtime_(Hours): 0
+Parts_Cost: 147
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1012
+Asset_ID: PMP-KS-37
+Equipment_Name: KSB Omega-125
+Category: Pump
+Maintenance_Date: 2025-07-11
+Type: Corrective
+Action_Taken: Inspected impeller and cleared debris
+Technician: T. Nguyen
+Downtime_(Hours): 1.4
+Parts_Cost: 145
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1013
+Asset_ID: PMP-KS-33
+Equipment_Name: KSB Omega-100
+Category: Pump
+Maintenance_Date: 2025-07-09
+Type: Corrective
+Action_Taken: Replaced casing gasket
+Technician: J. Smith
+Downtime_(Hours): 2.8
+Parts_Cost: 328
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1014
+Asset_ID: PMP-GR-08
+Equipment_Name: Grundfos CR-15
+Category: Pump
+Maintenance_Date: 2025-12-27
+Type: Preventive
+Action_Taken: Replaced mechanical shaft seal
+Technician: T. Nguyen
+Downtime_(Hours): 0
+Parts_Cost: 121
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1015
+Asset_ID: PMP-GR-44
+Equipment_Name: Grundfos CR-64
+Category: Pump
+Maintenance_Date: 2026-02-01
+Type: Breakdown Repair
+Action_Taken: Replaced mechanical shaft seal
+Technician: T. Nguyen
+Downtime_(Hours): 0.5
+Parts_Cost: 125
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1016
+Asset_ID: PMP-GR-44
+Equipment_Name: Grundfos CR-64
+Category: Pump
+Maintenance_Date: 2025-10-11
+Type: Breakdown Repair
+Action_Taken: Replaced casing gasket
+Technician: T. Nguyen
+Downtime_(Hours): 2.2
+Parts_Cost: 193
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1017
+Asset_ID: PMP-KS-05
+Equipment_Name: KSB Omega-125
+Category: Pump
+Maintenance_Date: 2025-04-09
+Type: Corrective
+Action_Taken: Replaced casing gasket
+Technician: A. Vance
+Downtime_(Hours): 1
+Parts_Cost: 618
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1018
+Asset_ID: MTR-SI-39
+Equipment_Name: Siemens 1LE1001-1B
+Category: Motor
+Maintenance_Date: 2025-06-30
+Type: Preventive
+Action_Taken: Cleaned ventilation shroud
+Technician: M. Kumar
+Downtime_(Hours): 0
+Parts_Cost: 142
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1019
+Asset_ID: PMP-GR-04
+Equipment_Name: Grundfos CR-10
+Category: Pump
+Maintenance_Date: 2025-08-09
+Type: Preventive
+Action_Taken: Greased bearings and checked alignment
+Technician: T. Nguyen
+Downtime_(Hours): 0
+Parts_Cost: 18
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1020
+Asset_ID: MTR-AB-06
+Equipment_Name: ABB M3BP-225
+Category: Motor
+Maintenance_Date: 2025-09-10
+Type: Breakdown Repair
+Action_Taken: Replaced drive-end bearing
+Technician: L. Rossi
+Downtime_(Hours): 1
+Parts_Cost: 995
+Status: In Progress
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1021
+Asset_ID: PMP-KS-45
+Equipment_Name: KSB Omega-80
+Category: Pump
+Maintenance_Date: 2025-07-13
+Type: Preventive
+Action_Taken: Replaced mechanical shaft seal
+Technician: A. Vance
+Downtime_(Hours): 0
+Parts_Cost: 145
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1022
+Asset_ID: PMP-GR-32
+Equipment_Name: Grundfos CR-10
+Category: Pump
+Maintenance_Date: 2025-11-17
+Type: Breakdown Repair
+Action_Taken: Replaced mechanical shaft seal
+Technician: J. Smith
+Downtime_(Hours): 2.3
+Parts_Cost: 1143
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1023
+Asset_ID: MTR-AB-30
+Equipment_Name: ABB M3BP-225
+Category: Motor
+Maintenance_Date: 2025-10-02
+Type: Calibration
+Action_Taken: Replaced drive-end bearing
+Technician: A. Vance
+Downtime_(Hours): 0
+Parts_Cost: 99
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1024
+Asset_ID: MTR-SI-47
+Equipment_Name: Siemens 1LE1001-1A
+Category: Motor
+Maintenance_Date: 2025-05-06
+Type: Preventive
+Action_Taken: Rewound stator windings
+Technician: M. Kumar
+Downtime_(Hours): 0
+Parts_Cost: 135
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1025
+Asset_ID: MTR-SI-35
+Equipment_Name: Siemens 1LE1001-1A
+Category: Motor
+Maintenance_Date: 2025-11-13
+Type: Breakdown Repair
+Action_Taken: Cleaned ventilation shroud
+Technician: J. Smith
+Downtime_(Hours): 2.8
+Parts_Cost: 397
+Status: Pending
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1026
+Asset_ID: PMP-GR-40
+Equipment_Name: Grundfos CR-45
+Category: Pump
+Maintenance_Date: 2025-07-10
+Type: Preventive
+Action_Taken: Replaced mechanical shaft seal
+Technician: J. Smith
+Downtime_(Hours): 0
+Parts_Cost: 126
+Status: Pending
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1027
+Asset_ID: PMP-GR-16
+Equipment_Name: Grundfos CR-32
+Category: Pump
+Maintenance_Date: 2025-02-13
+Type: Breakdown Repair
+Action_Taken: Replaced mechanical shaft seal
+Technician: L. Rossi
+Downtime_(Hours): 1.3
+Parts_Cost: 129
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1028
+Asset_ID: PMP-KS-13
+Equipment_Name: KSB Omega-80
+Category: Pump
+Maintenance_Date: 2025-07-22
+Type: Breakdown Repair
+Action_Taken: Replaced casing gasket
+Technician: A. Vance
+Downtime_(Hours): 2.9
+Parts_Cost: 96
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1029
+Asset_ID: MTR-AB-50
+Equipment_Name: ABB M3BP-160
+Category: Motor
+Maintenance_Date: 2025-01-14
+Type: Preventive
+Action_Taken: Rewound stator windings
+Technician: L. Rossi
+Downtime_(Hours): 0
+Parts_Cost: 63
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1030
+Asset_ID: MTR-AB-42
+Equipment_Name: ABB M3BP-200
+Category: Motor
+Maintenance_Date: 2025-05-24
+Type: Calibration
+Action_Taken: Cleaned ventilation shroud
+Technician: T. Nguyen
+Downtime_(Hours): 0
+Parts_Cost: 83
+Status: Pending
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1031
+Asset_ID: MTR-AB-30
+Equipment_Name: ABB M3BP-225
+Category: Motor
+Maintenance_Date: 2025-12-24
+Type: Preventive
+Action_Taken: Tested insulation resistance (Megger)
+Technician: L. Rossi
+Downtime_(Hours): 0
+Parts_Cost: 17
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1032
+Asset_ID: MTR-SI-19
+Equipment_Name: Siemens 1LE1001-1B
+Category: Motor
+Maintenance_Date: 2025-06-13
+Type: Preventive
+Action_Taken: Replaced drive-end bearing
+Technician: T. Nguyen
+Downtime_(Hours): 0
+Parts_Cost: 37
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1033
+Asset_ID: PMP-KS-17
+Equipment_Name: KSB Omega-50
+Category: Pump
+Maintenance_Date: 2025-02-10
+Type: Preventive
+Action_Taken: Inspected impeller and cleared debris
+Technician: J. Smith
+Downtime_(Hours): 0
+Parts_Cost: 55
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1034
+Asset_ID: MTR-SI-19
+Equipment_Name: Siemens 1LE1001-1B
+Category: Motor
+Maintenance_Date: 2026-01-25
+Type: Breakdown Repair
+Action_Taken: Tested insulation resistance (Megger)
+Technician: L. Rossi
+Downtime_(Hours): 2.4
+Parts_Cost: 499
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1035
+Asset_ID: PMP-GR-28
+Equipment_Name: Grundfos CR-15
+Category: Pump
+Maintenance_Date: 2025-10-13
+Type: Breakdown Repair
+Action_Taken: Replaced mechanical shaft seal
+Technician: L. Rossi
+Downtime_(Hours): 0.6
+Parts_Cost: 423
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1036
+Asset_ID: MTR-AB-26
+Equipment_Name: ABB M3BP-200
+Category: Motor
+Maintenance_Date: 2025-08-12
+Type: Breakdown Repair
+Action_Taken: Cleaned ventilation shroud
+Technician: L. Rossi
+Downtime_(Hours): 3.3
+Parts_Cost: 876
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1037
+Asset_ID: PMP-KS-37
+Equipment_Name: KSB Omega-125
+Category: Pump
+Maintenance_Date: 2025-04-08
+Type: Preventive
+Action_Taken: Inspected impeller and cleared debris
+Technician: J. Smith
+Downtime_(Hours): 0
+Parts_Cost: 64
+Status: In Progress
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1038
+Asset_ID: MTR-AB-26
+Equipment_Name: ABB M3BP-200
+Category: Motor
+Maintenance_Date: 2025-07-16
+Type: Breakdown Repair
+Action_Taken: Replaced drive-end bearing
+Technician: A. Vance
+Downtime_(Hours): 2.1
+Parts_Cost: 1046
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1039
+Asset_ID: MTR-SI-23
+Equipment_Name: Siemens 1LE1001-1B
+Category: Motor
+Maintenance_Date: 2025-07-21
+Type: Breakdown Repair
+Action_Taken: Rewound stator windings
+Technician: L. Rossi
+Downtime_(Hours): 1.7
+Parts_Cost: 50
+Status: Pending
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1040
+Asset_ID: PMP-KS-09
+Equipment_Name: KSB Omega-100
+Category: Pump
+Maintenance_Date: 2025-07-24
+Type: Preventive
+Action_Taken: Replaced mechanical shaft seal
+Technician: J. Smith
+Downtime_(Hours): 0
+Parts_Cost: 41
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1041
+Asset_ID: PMP-GR-12
+Equipment_Name: Grundfos CR-32
+Category: Pump
+Maintenance_Date: 2025-04-05
+Type: Preventive
+Action_Taken: Greased bearings and checked alignment
+Technician: M. Kumar
+Downtime_(Hours): 0
+Parts_Cost: 127
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1042
+Asset_ID: PMP-KS-01
+Equipment_Name: KSB Omega-125
+Category: Pump
+Maintenance_Date: 2025-11-02
+Type: Breakdown Repair
+Action_Taken: Greased bearings and checked alignment
+Technician: T. Nguyen
+Downtime_(Hours): 2.1
+Parts_Cost: 812
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1043
+Asset_ID: PMP-KS-01
+Equipment_Name: KSB Omega-125
+Category: Pump
+Maintenance_Date: 2025-04-22
+Type: Preventive
+Action_Taken: Inspected impeller and cleared debris
+Technician: L. Rossi
+Downtime_(Hours): 0
+Parts_Cost: 94
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1044
+Asset_ID: MTR-SI-47
+Equipment_Name: Siemens 1LE1001-1A
+Category: Motor
+Maintenance_Date: 2025-03-16
+Type: Preventive
+Action_Taken: Replaced drive-end bearing
+Technician: T. Nguyen
+Downtime_(Hours): 0
+Parts_Cost: 47
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1045
+Asset_ID: MTR-AB-34
+Equipment_Name: ABB M3BP-180
+Category: Motor
+Maintenance_Date: 2025-12-04
+Type: Preventive
+Action_Taken: Cleaned ventilation shroud
+Technician: A. Vance
+Downtime_(Hours): 0
+Parts_Cost: 61
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1046
+Asset_ID: PMP-GR-32
+Equipment_Name: Grundfos CR-10
+Category: Pump
+Maintenance_Date: 2025-12-01
+Type: Preventive
+Action_Taken: Inspected impeller and cleared debris
+Technician: M. Kumar
+Downtime_(Hours): 0
+Parts_Cost: 60
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1047
+Asset_ID: PMP-GR-48
+Equipment_Name: Grundfos CR-64
+Category: Pump
+Maintenance_Date: 2025-10-12
+Type: Preventive
+Action_Taken: Replaced casing gasket
+Technician: J. Smith
+Downtime_(Hours): 0
+Parts_Cost: 83
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1048
+Asset_ID: PMP-KS-25
+Equipment_Name: KSB Omega-125
+Category: Pump
+Maintenance_Date: 2025-12-06
+Type: Preventive
+Action_Taken: Greased bearings and checked alignment
+Technician: L. Rossi
+Downtime_(Hours): 0
+Parts_Cost: 135
+Status: Completed
+
+======================================
+
+========== Data Record ==========
+
+Maintenance_Log_ID: MNT-1049
+Asset_ID: PMP-GR-40
+Equipment_Name: Grundfos CR-45
+Category: Pump
+Maintenance_Date: 2025-08-28
+Type: Preventive
+Action_Taken: Inspected impeller and cleared debris
+Technician: J. Smith
+Downtime_(Hours): 0
+Parts_Cost: 89
+Status: Completed
+
+======================================

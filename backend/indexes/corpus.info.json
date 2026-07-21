@@ -1,0 +1,36 @@
+{
+  "embedding_model": "BAAI/bge-small-en-v1.5",
+  "dimension": 384,
+  "documents": 3,
+  "document_list": [
+    "asset_register",
+    "daily_operating_log_1",
+    "spare_parts_inventory_1"
+  ],
+  "chunks": 300,
+  "document_stats": {
+    "asset_register": 50,
+    "daily_operating_log_1": 200,
+    "spare_parts_inventory_1": 50
+  },
+  "skipped": [
+    {
+      "document": "breakdown_history_1",
+      "reason": "duplicate chunk_id already present in index, e.g. 'MTR-AB-22_022'"
+    },
+    {
+      "document": "equipment_inspection_checklist",
+      "reason": "duplicate chunk_id already present in index, e.g. 'PMP-KS-21_021'"
+    },
+    {
+      "document": "equipment_maintenance_log",
+      "reason": "duplicate chunk_id already present in index, e.g. 'PMP-GR-48_048'"
+    },
+    {
+      "document": "preventive_maintenance_schedule",
+      "reason": "duplicate chunk_id already present in index, e.g. 'MTR-SI-31_031'"
+    }
+  ],
+  "created_at": "2026-07-21T09:21:33.534195+00:00",
+  "metric": "cosine"
+}

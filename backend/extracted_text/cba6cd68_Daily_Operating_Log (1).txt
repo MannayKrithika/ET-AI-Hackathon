@@ -1,0 +1,2799 @@
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0001
+Equipment_ID: EQ-2001
+Equipment_Name: Grundfos CR45 Pump
+Date: 01-07-2026
+Temperature (Â°C): 60
+Pressure (bar): 4.8
+Vibration (mm/s): 0.8
+Running_Hours: 16
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0002
+Equipment_ID: EQ-2002
+Equipment_Name: Grundfos CR32 Pump
+Date: 01-07-2026
+Temperature (Â°C): 63
+Pressure (bar): 5.1
+Vibration (mm/s): 1.3
+Running_Hours: 17
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0003
+Equipment_ID: EQ-2003
+Equipment_Name: ABB Motor M3BP
+Date: 01-07-2026
+Temperature (Â°C): 66
+Pressure (bar): 5.4
+Vibration (mm/s): 1.8
+Running_Hours: 18
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0004
+Equipment_ID: EQ-2004
+Equipment_Name: Siemens SIMOTICS Motor
+Date: 01-07-2026
+Temperature (Â°C): 69
+Pressure (bar): 5.7
+Vibration (mm/s): 2.3
+Running_Hours: 19
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0005
+Equipment_ID: EQ-2005
+Equipment_Name: Air Compressor
+Date: 01-07-2026
+Temperature (Â°C): 72
+Pressure (bar): 6
+Vibration (mm/s): 2.8
+Running_Hours: 20
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0006
+Equipment_ID: EQ-2006
+Equipment_Name: Boiler Unit
+Date: 01-07-2026
+Temperature (Â°C): 75
+Pressure (bar): 4.8
+Vibration (mm/s): 3.3
+Running_Hours: 21
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0007
+Equipment_ID: EQ-2007
+Equipment_Name: Conveyor Belt
+Date: 01-07-2026
+Temperature (Â°C): 78
+Pressure (bar): 5.1
+Vibration (mm/s): 0.8
+Running_Hours: 22
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0008
+Equipment_ID: EQ-2008
+Equipment_Name: Cooling Tower
+Date: 01-07-2026
+Temperature (Â°C): 81
+Pressure (bar): 5.4
+Vibration (mm/s): 1.3
+Running_Hours: 23
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0009
+Equipment_ID: EQ-2009
+Equipment_Name: Hydraulic Press
+Date: 01-07-2026
+Temperature (Â°C): 84
+Pressure (bar): 5.7
+Vibration (mm/s): 1.8
+Running_Hours: 16
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0010
+Equipment_ID: EQ-2010
+Equipment_Name: Diesel Generator
+Date: 01-07-2026
+Temperature (Â°C): 87
+Pressure (bar): 6
+Vibration (mm/s): 2.3
+Running_Hours: 17
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0011
+Equipment_ID: EQ-2001
+Equipment_Name: Grundfos CR45 Pump
+Date: 02-07-2026
+Temperature (Â°C): 60
+Pressure (bar): 4.8
+Vibration (mm/s): 2.8
+Running_Hours: 18
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0012
+Equipment_ID: EQ-2002
+Equipment_Name: Grundfos CR32 Pump
+Date: 02-07-2026
+Temperature (Â°C): 63
+Pressure (bar): 5.1
+Vibration (mm/s): 3.3
+Running_Hours: 19
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0013
+Equipment_ID: EQ-2003
+Equipment_Name: ABB Motor M3BP
+Date: 02-07-2026
+Temperature (Â°C): 66
+Pressure (bar): 5.4
+Vibration (mm/s): 0.8
+Running_Hours: 20
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0014
+Equipment_ID: EQ-2004
+Equipment_Name: Siemens SIMOTICS Motor
+Date: 02-07-2026
+Temperature (Â°C): 69
+Pressure (bar): 5.7
+Vibration (mm/s): 1.3
+Running_Hours: 21
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0015
+Equipment_ID: EQ-2005
+Equipment_Name: Air Compressor
+Date: 02-07-2026
+Temperature (Â°C): 72
+Pressure (bar): 6
+Vibration (mm/s): 1.8
+Running_Hours: 22
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0016
+Equipment_ID: EQ-2006
+Equipment_Name: Boiler Unit
+Date: 02-07-2026
+Temperature (Â°C): 75
+Pressure (bar): 4.8
+Vibration (mm/s): 2.3
+Running_Hours: 23
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0017
+Equipment_ID: EQ-2007
+Equipment_Name: Conveyor Belt
+Date: 02-07-2026
+Temperature (Â°C): 78
+Pressure (bar): 5.1
+Vibration (mm/s): 2.8
+Running_Hours: 16
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0018
+Equipment_ID: EQ-2008
+Equipment_Name: Cooling Tower
+Date: 02-07-2026
+Temperature (Â°C): 81
+Pressure (bar): 5.4
+Vibration (mm/s): 3.3
+Running_Hours: 17
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0019
+Equipment_ID: EQ-2009
+Equipment_Name: Hydraulic Press
+Date: 02-07-2026
+Temperature (Â°C): 84
+Pressure (bar): 5.7
+Vibration (mm/s): 0.8
+Running_Hours: 18
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0020
+Equipment_ID: EQ-2010
+Equipment_Name: Diesel Generator
+Date: 02-07-2026
+Temperature (Â°C): 87
+Pressure (bar): 6
+Vibration (mm/s): 1.3
+Running_Hours: 19
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0021
+Equipment_ID: EQ-2001
+Equipment_Name: Grundfos CR45 Pump
+Date: 03-07-2026
+Temperature (Â°C): 60
+Pressure (bar): 4.8
+Vibration (mm/s): 1.8
+Running_Hours: 20
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0022
+Equipment_ID: EQ-2002
+Equipment_Name: Grundfos CR32 Pump
+Date: 03-07-2026
+Temperature (Â°C): 63
+Pressure (bar): 5.1
+Vibration (mm/s): 2.3
+Running_Hours: 21
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0023
+Equipment_ID: EQ-2003
+Equipment_Name: ABB Motor M3BP
+Date: 03-07-2026
+Temperature (Â°C): 66
+Pressure (bar): 5.4
+Vibration (mm/s): 2.8
+Running_Hours: 22
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0024
+Equipment_ID: EQ-2004
+Equipment_Name: Siemens SIMOTICS Motor
+Date: 03-07-2026
+Temperature (Â°C): 69
+Pressure (bar): 5.7
+Vibration (mm/s): 3.3
+Running_Hours: 23
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0025
+Equipment_ID: EQ-2005
+Equipment_Name: Air Compressor
+Date: 03-07-2026
+Temperature (Â°C): 72
+Pressure (bar): 6
+Vibration (mm/s): 0.8
+Running_Hours: 16
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0026
+Equipment_ID: EQ-2006
+Equipment_Name: Boiler Unit
+Date: 03-07-2026
+Temperature (Â°C): 75
+Pressure (bar): 4.8
+Vibration (mm/s): 1.3
+Running_Hours: 17
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0027
+Equipment_ID: EQ-2007
+Equipment_Name: Conveyor Belt
+Date: 03-07-2026
+Temperature (Â°C): 78
+Pressure (bar): 5.1
+Vibration (mm/s): 1.8
+Running_Hours: 18
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0028
+Equipment_ID: EQ-2008
+Equipment_Name: Cooling Tower
+Date: 03-07-2026
+Temperature (Â°C): 81
+Pressure (bar): 5.4
+Vibration (mm/s): 2.3
+Running_Hours: 19
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0029
+Equipment_ID: EQ-2009
+Equipment_Name: Hydraulic Press
+Date: 03-07-2026
+Temperature (Â°C): 84
+Pressure (bar): 5.7
+Vibration (mm/s): 2.8
+Running_Hours: 20
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0030
+Equipment_ID: EQ-2010
+Equipment_Name: Diesel Generator
+Date: 03-07-2026
+Temperature (Â°C): 87
+Pressure (bar): 6
+Vibration (mm/s): 3.3
+Running_Hours: 21
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0031
+Equipment_ID: EQ-2001
+Equipment_Name: Grundfos CR45 Pump
+Date: 04-07-2026
+Temperature (Â°C): 60
+Pressure (bar): 4.8
+Vibration (mm/s): 0.8
+Running_Hours: 22
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0032
+Equipment_ID: EQ-2002
+Equipment_Name: Grundfos CR32 Pump
+Date: 04-07-2026
+Temperature (Â°C): 63
+Pressure (bar): 5.1
+Vibration (mm/s): 1.3
+Running_Hours: 23
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0033
+Equipment_ID: EQ-2003
+Equipment_Name: ABB Motor M3BP
+Date: 04-07-2026
+Temperature (Â°C): 66
+Pressure (bar): 5.4
+Vibration (mm/s): 1.8
+Running_Hours: 16
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0034
+Equipment_ID: EQ-2004
+Equipment_Name: Siemens SIMOTICS Motor
+Date: 04-07-2026
+Temperature (Â°C): 69
+Pressure (bar): 5.7
+Vibration (mm/s): 2.3
+Running_Hours: 17
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0035
+Equipment_ID: EQ-2005
+Equipment_Name: Air Compressor
+Date: 04-07-2026
+Temperature (Â°C): 72
+Pressure (bar): 6
+Vibration (mm/s): 2.8
+Running_Hours: 18
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0036
+Equipment_ID: EQ-2006
+Equipment_Name: Boiler Unit
+Date: 04-07-2026
+Temperature (Â°C): 75
+Pressure (bar): 4.8
+Vibration (mm/s): 3.3
+Running_Hours: 19
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0037
+Equipment_ID: EQ-2007
+Equipment_Name: Conveyor Belt
+Date: 04-07-2026
+Temperature (Â°C): 78
+Pressure (bar): 5.1
+Vibration (mm/s): 0.8
+Running_Hours: 20
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0038
+Equipment_ID: EQ-2008
+Equipment_Name: Cooling Tower
+Date: 04-07-2026
+Temperature (Â°C): 81
+Pressure (bar): 5.4
+Vibration (mm/s): 1.3
+Running_Hours: 21
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0039
+Equipment_ID: EQ-2009
+Equipment_Name: Hydraulic Press
+Date: 04-07-2026
+Temperature (Â°C): 84
+Pressure (bar): 5.7
+Vibration (mm/s): 1.8
+Running_Hours: 22
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0040
+Equipment_ID: EQ-2010
+Equipment_Name: Diesel Generator
+Date: 04-07-2026
+Temperature (Â°C): 87
+Pressure (bar): 6
+Vibration (mm/s): 2.3
+Running_Hours: 23
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0041
+Equipment_ID: EQ-2001
+Equipment_Name: Grundfos CR45 Pump
+Date: 05-07-2026
+Temperature (Â°C): 60
+Pressure (bar): 4.8
+Vibration (mm/s): 2.8
+Running_Hours: 16
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0042
+Equipment_ID: EQ-2002
+Equipment_Name: Grundfos CR32 Pump
+Date: 05-07-2026
+Temperature (Â°C): 63
+Pressure (bar): 5.1
+Vibration (mm/s): 3.3
+Running_Hours: 17
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0043
+Equipment_ID: EQ-2003
+Equipment_Name: ABB Motor M3BP
+Date: 05-07-2026
+Temperature (Â°C): 66
+Pressure (bar): 5.4
+Vibration (mm/s): 0.8
+Running_Hours: 18
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0044
+Equipment_ID: EQ-2004
+Equipment_Name: Siemens SIMOTICS Motor
+Date: 05-07-2026
+Temperature (Â°C): 69
+Pressure (bar): 5.7
+Vibration (mm/s): 1.3
+Running_Hours: 19
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0045
+Equipment_ID: EQ-2005
+Equipment_Name: Air Compressor
+Date: 05-07-2026
+Temperature (Â°C): 72
+Pressure (bar): 6
+Vibration (mm/s): 1.8
+Running_Hours: 20
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0046
+Equipment_ID: EQ-2006
+Equipment_Name: Boiler Unit
+Date: 05-07-2026
+Temperature (Â°C): 75
+Pressure (bar): 4.8
+Vibration (mm/s): 2.3
+Running_Hours: 21
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0047
+Equipment_ID: EQ-2007
+Equipment_Name: Conveyor Belt
+Date: 05-07-2026
+Temperature (Â°C): 78
+Pressure (bar): 5.1
+Vibration (mm/s): 2.8
+Running_Hours: 22
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0048
+Equipment_ID: EQ-2008
+Equipment_Name: Cooling Tower
+Date: 05-07-2026
+Temperature (Â°C): 81
+Pressure (bar): 5.4
+Vibration (mm/s): 3.3
+Running_Hours: 23
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0049
+Equipment_ID: EQ-2009
+Equipment_Name: Hydraulic Press
+Date: 05-07-2026
+Temperature (Â°C): 84
+Pressure (bar): 5.7
+Vibration (mm/s): 0.8
+Running_Hours: 16
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0050
+Equipment_ID: EQ-2010
+Equipment_Name: Diesel Generator
+Date: 05-07-2026
+Temperature (Â°C): 87
+Pressure (bar): 6
+Vibration (mm/s): 1.3
+Running_Hours: 17
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0051
+Equipment_ID: EQ-2001
+Equipment_Name: Grundfos CR45 Pump
+Date: 06-07-2026
+Temperature (Â°C): 60
+Pressure (bar): 4.8
+Vibration (mm/s): 1.8
+Running_Hours: 18
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0052
+Equipment_ID: EQ-2002
+Equipment_Name: Grundfos CR32 Pump
+Date: 06-07-2026
+Temperature (Â°C): 63
+Pressure (bar): 5.1
+Vibration (mm/s): 2.3
+Running_Hours: 19
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0053
+Equipment_ID: EQ-2003
+Equipment_Name: ABB Motor M3BP
+Date: 06-07-2026
+Temperature (Â°C): 66
+Pressure (bar): 5.4
+Vibration (mm/s): 2.8
+Running_Hours: 20
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0054
+Equipment_ID: EQ-2004
+Equipment_Name: Siemens SIMOTICS Motor
+Date: 06-07-2026
+Temperature (Â°C): 69
+Pressure (bar): 5.7
+Vibration (mm/s): 3.3
+Running_Hours: 21
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0055
+Equipment_ID: EQ-2005
+Equipment_Name: Air Compressor
+Date: 06-07-2026
+Temperature (Â°C): 72
+Pressure (bar): 6
+Vibration (mm/s): 0.8
+Running_Hours: 22
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0056
+Equipment_ID: EQ-2006
+Equipment_Name: Boiler Unit
+Date: 06-07-2026
+Temperature (Â°C): 75
+Pressure (bar): 4.8
+Vibration (mm/s): 1.3
+Running_Hours: 23
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0057
+Equipment_ID: EQ-2007
+Equipment_Name: Conveyor Belt
+Date: 06-07-2026
+Temperature (Â°C): 78
+Pressure (bar): 5.1
+Vibration (mm/s): 1.8
+Running_Hours: 16
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0058
+Equipment_ID: EQ-2008
+Equipment_Name: Cooling Tower
+Date: 06-07-2026
+Temperature (Â°C): 81
+Pressure (bar): 5.4
+Vibration (mm/s): 2.3
+Running_Hours: 17
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0059
+Equipment_ID: EQ-2009
+Equipment_Name: Hydraulic Press
+Date: 06-07-2026
+Temperature (Â°C): 84
+Pressure (bar): 5.7
+Vibration (mm/s): 2.8
+Running_Hours: 18
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0060
+Equipment_ID: EQ-2010
+Equipment_Name: Diesel Generator
+Date: 06-07-2026
+Temperature (Â°C): 87
+Pressure (bar): 6
+Vibration (mm/s): 3.3
+Running_Hours: 19
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0061
+Equipment_ID: EQ-2001
+Equipment_Name: Grundfos CR45 Pump
+Date: 07-07-2026
+Temperature (Â°C): 60
+Pressure (bar): 4.8
+Vibration (mm/s): 0.8
+Running_Hours: 20
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0062
+Equipment_ID: EQ-2002
+Equipment_Name: Grundfos CR32 Pump
+Date: 07-07-2026
+Temperature (Â°C): 63
+Pressure (bar): 5.1
+Vibration (mm/s): 1.3
+Running_Hours: 21
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0063
+Equipment_ID: EQ-2003
+Equipment_Name: ABB Motor M3BP
+Date: 07-07-2026
+Temperature (Â°C): 66
+Pressure (bar): 5.4
+Vibration (mm/s): 1.8
+Running_Hours: 22
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0064
+Equipment_ID: EQ-2004
+Equipment_Name: Siemens SIMOTICS Motor
+Date: 07-07-2026
+Temperature (Â°C): 69
+Pressure (bar): 5.7
+Vibration (mm/s): 2.3
+Running_Hours: 23
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0065
+Equipment_ID: EQ-2005
+Equipment_Name: Air Compressor
+Date: 07-07-2026
+Temperature (Â°C): 72
+Pressure (bar): 6
+Vibration (mm/s): 2.8
+Running_Hours: 16
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0066
+Equipment_ID: EQ-2006
+Equipment_Name: Boiler Unit
+Date: 07-07-2026
+Temperature (Â°C): 75
+Pressure (bar): 4.8
+Vibration (mm/s): 3.3
+Running_Hours: 17
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0067
+Equipment_ID: EQ-2007
+Equipment_Name: Conveyor Belt
+Date: 07-07-2026
+Temperature (Â°C): 78
+Pressure (bar): 5.1
+Vibration (mm/s): 0.8
+Running_Hours: 18
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0068
+Equipment_ID: EQ-2008
+Equipment_Name: Cooling Tower
+Date: 07-07-2026
+Temperature (Â°C): 81
+Pressure (bar): 5.4
+Vibration (mm/s): 1.3
+Running_Hours: 19
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0069
+Equipment_ID: EQ-2009
+Equipment_Name: Hydraulic Press
+Date: 07-07-2026
+Temperature (Â°C): 84
+Pressure (bar): 5.7
+Vibration (mm/s): 1.8
+Running_Hours: 20
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0070
+Equipment_ID: EQ-2010
+Equipment_Name: Diesel Generator
+Date: 07-07-2026
+Temperature (Â°C): 87
+Pressure (bar): 6
+Vibration (mm/s): 2.3
+Running_Hours: 21
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0071
+Equipment_ID: EQ-2001
+Equipment_Name: Grundfos CR45 Pump
+Date: 08-07-2026
+Temperature (Â°C): 60
+Pressure (bar): 4.8
+Vibration (mm/s): 2.8
+Running_Hours: 22
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0072
+Equipment_ID: EQ-2002
+Equipment_Name: Grundfos CR32 Pump
+Date: 08-07-2026
+Temperature (Â°C): 63
+Pressure (bar): 5.1
+Vibration (mm/s): 3.3
+Running_Hours: 23
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0073
+Equipment_ID: EQ-2003
+Equipment_Name: ABB Motor M3BP
+Date: 08-07-2026
+Temperature (Â°C): 66
+Pressure (bar): 5.4
+Vibration (mm/s): 0.8
+Running_Hours: 16
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0074
+Equipment_ID: EQ-2004
+Equipment_Name: Siemens SIMOTICS Motor
+Date: 08-07-2026
+Temperature (Â°C): 69
+Pressure (bar): 5.7
+Vibration (mm/s): 1.3
+Running_Hours: 17
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0075
+Equipment_ID: EQ-2005
+Equipment_Name: Air Compressor
+Date: 08-07-2026
+Temperature (Â°C): 72
+Pressure (bar): 6
+Vibration (mm/s): 1.8
+Running_Hours: 18
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0076
+Equipment_ID: EQ-2006
+Equipment_Name: Boiler Unit
+Date: 08-07-2026
+Temperature (Â°C): 75
+Pressure (bar): 4.8
+Vibration (mm/s): 2.3
+Running_Hours: 19
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0077
+Equipment_ID: EQ-2007
+Equipment_Name: Conveyor Belt
+Date: 08-07-2026
+Temperature (Â°C): 78
+Pressure (bar): 5.1
+Vibration (mm/s): 2.8
+Running_Hours: 20
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0078
+Equipment_ID: EQ-2008
+Equipment_Name: Cooling Tower
+Date: 08-07-2026
+Temperature (Â°C): 81
+Pressure (bar): 5.4
+Vibration (mm/s): 3.3
+Running_Hours: 21
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0079
+Equipment_ID: EQ-2009
+Equipment_Name: Hydraulic Press
+Date: 08-07-2026
+Temperature (Â°C): 84
+Pressure (bar): 5.7
+Vibration (mm/s): 0.8
+Running_Hours: 22
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0080
+Equipment_ID: EQ-2010
+Equipment_Name: Diesel Generator
+Date: 08-07-2026
+Temperature (Â°C): 87
+Pressure (bar): 6
+Vibration (mm/s): 1.3
+Running_Hours: 23
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0081
+Equipment_ID: EQ-2001
+Equipment_Name: Grundfos CR45 Pump
+Date: 09-07-2026
+Temperature (Â°C): 60
+Pressure (bar): 4.8
+Vibration (mm/s): 1.8
+Running_Hours: 16
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0082
+Equipment_ID: EQ-2002
+Equipment_Name: Grundfos CR32 Pump
+Date: 09-07-2026
+Temperature (Â°C): 63
+Pressure (bar): 5.1
+Vibration (mm/s): 2.3
+Running_Hours: 17
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0083
+Equipment_ID: EQ-2003
+Equipment_Name: ABB Motor M3BP
+Date: 09-07-2026
+Temperature (Â°C): 66
+Pressure (bar): 5.4
+Vibration (mm/s): 2.8
+Running_Hours: 18
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0084
+Equipment_ID: EQ-2004
+Equipment_Name: Siemens SIMOTICS Motor
+Date: 09-07-2026
+Temperature (Â°C): 69
+Pressure (bar): 5.7
+Vibration (mm/s): 3.3
+Running_Hours: 19
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0085
+Equipment_ID: EQ-2005
+Equipment_Name: Air Compressor
+Date: 09-07-2026
+Temperature (Â°C): 72
+Pressure (bar): 6
+Vibration (mm/s): 0.8
+Running_Hours: 20
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0086
+Equipment_ID: EQ-2006
+Equipment_Name: Boiler Unit
+Date: 09-07-2026
+Temperature (Â°C): 75
+Pressure (bar): 4.8
+Vibration (mm/s): 1.3
+Running_Hours: 21
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0087
+Equipment_ID: EQ-2007
+Equipment_Name: Conveyor Belt
+Date: 09-07-2026
+Temperature (Â°C): 78
+Pressure (bar): 5.1
+Vibration (mm/s): 1.8
+Running_Hours: 22
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0088
+Equipment_ID: EQ-2008
+Equipment_Name: Cooling Tower
+Date: 09-07-2026
+Temperature (Â°C): 81
+Pressure (bar): 5.4
+Vibration (mm/s): 2.3
+Running_Hours: 23
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0089
+Equipment_ID: EQ-2009
+Equipment_Name: Hydraulic Press
+Date: 09-07-2026
+Temperature (Â°C): 84
+Pressure (bar): 5.7
+Vibration (mm/s): 2.8
+Running_Hours: 16
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0090
+Equipment_ID: EQ-2010
+Equipment_Name: Diesel Generator
+Date: 09-07-2026
+Temperature (Â°C): 87
+Pressure (bar): 6
+Vibration (mm/s): 3.3
+Running_Hours: 17
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0091
+Equipment_ID: EQ-2001
+Equipment_Name: Grundfos CR45 Pump
+Date: 10-07-2026
+Temperature (Â°C): 60
+Pressure (bar): 4.8
+Vibration (mm/s): 0.8
+Running_Hours: 18
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0092
+Equipment_ID: EQ-2002
+Equipment_Name: Grundfos CR32 Pump
+Date: 10-07-2026
+Temperature (Â°C): 63
+Pressure (bar): 5.1
+Vibration (mm/s): 1.3
+Running_Hours: 19
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0093
+Equipment_ID: EQ-2003
+Equipment_Name: ABB Motor M3BP
+Date: 10-07-2026
+Temperature (Â°C): 66
+Pressure (bar): 5.4
+Vibration (mm/s): 1.8
+Running_Hours: 20
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0094
+Equipment_ID: EQ-2004
+Equipment_Name: Siemens SIMOTICS Motor
+Date: 10-07-2026
+Temperature (Â°C): 69
+Pressure (bar): 5.7
+Vibration (mm/s): 2.3
+Running_Hours: 21
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0095
+Equipment_ID: EQ-2005
+Equipment_Name: Air Compressor
+Date: 10-07-2026
+Temperature (Â°C): 72
+Pressure (bar): 6
+Vibration (mm/s): 2.8
+Running_Hours: 22
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0096
+Equipment_ID: EQ-2006
+Equipment_Name: Boiler Unit
+Date: 10-07-2026
+Temperature (Â°C): 75
+Pressure (bar): 4.8
+Vibration (mm/s): 3.3
+Running_Hours: 23
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0097
+Equipment_ID: EQ-2007
+Equipment_Name: Conveyor Belt
+Date: 10-07-2026
+Temperature (Â°C): 78
+Pressure (bar): 5.1
+Vibration (mm/s): 0.8
+Running_Hours: 16
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0098
+Equipment_ID: EQ-2008
+Equipment_Name: Cooling Tower
+Date: 10-07-2026
+Temperature (Â°C): 81
+Pressure (bar): 5.4
+Vibration (mm/s): 1.3
+Running_Hours: 17
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0099
+Equipment_ID: EQ-2009
+Equipment_Name: Hydraulic Press
+Date: 10-07-2026
+Temperature (Â°C): 84
+Pressure (bar): 5.7
+Vibration (mm/s): 1.8
+Running_Hours: 18
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0100
+Equipment_ID: EQ-2010
+Equipment_Name: Diesel Generator
+Date: 10-07-2026
+Temperature (Â°C): 87
+Pressure (bar): 6
+Vibration (mm/s): 2.3
+Running_Hours: 19
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0101
+Equipment_ID: EQ-2001
+Equipment_Name: Grundfos CR45 Pump
+Date: 11-07-2026
+Temperature (Â°C): 60
+Pressure (bar): 4.8
+Vibration (mm/s): 2.8
+Running_Hours: 20
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0102
+Equipment_ID: EQ-2002
+Equipment_Name: Grundfos CR32 Pump
+Date: 11-07-2026
+Temperature (Â°C): 63
+Pressure (bar): 5.1
+Vibration (mm/s): 3.3
+Running_Hours: 21
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0103
+Equipment_ID: EQ-2003
+Equipment_Name: ABB Motor M3BP
+Date: 11-07-2026
+Temperature (Â°C): 66
+Pressure (bar): 5.4
+Vibration (mm/s): 0.8
+Running_Hours: 22
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0104
+Equipment_ID: EQ-2004
+Equipment_Name: Siemens SIMOTICS Motor
+Date: 11-07-2026
+Temperature (Â°C): 69
+Pressure (bar): 5.7
+Vibration (mm/s): 1.3
+Running_Hours: 23
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0105
+Equipment_ID: EQ-2005
+Equipment_Name: Air Compressor
+Date: 11-07-2026
+Temperature (Â°C): 72
+Pressure (bar): 6
+Vibration (mm/s): 1.8
+Running_Hours: 16
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0106
+Equipment_ID: EQ-2006
+Equipment_Name: Boiler Unit
+Date: 11-07-2026
+Temperature (Â°C): 75
+Pressure (bar): 4.8
+Vibration (mm/s): 2.3
+Running_Hours: 17
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0107
+Equipment_ID: EQ-2007
+Equipment_Name: Conveyor Belt
+Date: 11-07-2026
+Temperature (Â°C): 78
+Pressure (bar): 5.1
+Vibration (mm/s): 2.8
+Running_Hours: 18
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0108
+Equipment_ID: EQ-2008
+Equipment_Name: Cooling Tower
+Date: 11-07-2026
+Temperature (Â°C): 81
+Pressure (bar): 5.4
+Vibration (mm/s): 3.3
+Running_Hours: 19
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0109
+Equipment_ID: EQ-2009
+Equipment_Name: Hydraulic Press
+Date: 11-07-2026
+Temperature (Â°C): 84
+Pressure (bar): 5.7
+Vibration (mm/s): 0.8
+Running_Hours: 20
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0110
+Equipment_ID: EQ-2010
+Equipment_Name: Diesel Generator
+Date: 11-07-2026
+Temperature (Â°C): 87
+Pressure (bar): 6
+Vibration (mm/s): 1.3
+Running_Hours: 21
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0111
+Equipment_ID: EQ-2001
+Equipment_Name: Grundfos CR45 Pump
+Date: 12-07-2026
+Temperature (Â°C): 60
+Pressure (bar): 4.8
+Vibration (mm/s): 1.8
+Running_Hours: 22
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0112
+Equipment_ID: EQ-2002
+Equipment_Name: Grundfos CR32 Pump
+Date: 12-07-2026
+Temperature (Â°C): 63
+Pressure (bar): 5.1
+Vibration (mm/s): 2.3
+Running_Hours: 23
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0113
+Equipment_ID: EQ-2003
+Equipment_Name: ABB Motor M3BP
+Date: 12-07-2026
+Temperature (Â°C): 66
+Pressure (bar): 5.4
+Vibration (mm/s): 2.8
+Running_Hours: 16
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0114
+Equipment_ID: EQ-2004
+Equipment_Name: Siemens SIMOTICS Motor
+Date: 12-07-2026
+Temperature (Â°C): 69
+Pressure (bar): 5.7
+Vibration (mm/s): 3.3
+Running_Hours: 17
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0115
+Equipment_ID: EQ-2005
+Equipment_Name: Air Compressor
+Date: 12-07-2026
+Temperature (Â°C): 72
+Pressure (bar): 6
+Vibration (mm/s): 0.8
+Running_Hours: 18
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0116
+Equipment_ID: EQ-2006
+Equipment_Name: Boiler Unit
+Date: 12-07-2026
+Temperature (Â°C): 75
+Pressure (bar): 4.8
+Vibration (mm/s): 1.3
+Running_Hours: 19
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0117
+Equipment_ID: EQ-2007
+Equipment_Name: Conveyor Belt
+Date: 12-07-2026
+Temperature (Â°C): 78
+Pressure (bar): 5.1
+Vibration (mm/s): 1.8
+Running_Hours: 20
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0118
+Equipment_ID: EQ-2008
+Equipment_Name: Cooling Tower
+Date: 12-07-2026
+Temperature (Â°C): 81
+Pressure (bar): 5.4
+Vibration (mm/s): 2.3
+Running_Hours: 21
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0119
+Equipment_ID: EQ-2009
+Equipment_Name: Hydraulic Press
+Date: 12-07-2026
+Temperature (Â°C): 84
+Pressure (bar): 5.7
+Vibration (mm/s): 2.8
+Running_Hours: 22
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0120
+Equipment_ID: EQ-2010
+Equipment_Name: Diesel Generator
+Date: 12-07-2026
+Temperature (Â°C): 87
+Pressure (bar): 6
+Vibration (mm/s): 3.3
+Running_Hours: 23
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0121
+Equipment_ID: EQ-2001
+Equipment_Name: Grundfos CR45 Pump
+Date: 13-07-2026
+Temperature (Â°C): 60
+Pressure (bar): 4.8
+Vibration (mm/s): 0.8
+Running_Hours: 16
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0122
+Equipment_ID: EQ-2002
+Equipment_Name: Grundfos CR32 Pump
+Date: 13-07-2026
+Temperature (Â°C): 63
+Pressure (bar): 5.1
+Vibration (mm/s): 1.3
+Running_Hours: 17
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0123
+Equipment_ID: EQ-2003
+Equipment_Name: ABB Motor M3BP
+Date: 13-07-2026
+Temperature (Â°C): 66
+Pressure (bar): 5.4
+Vibration (mm/s): 1.8
+Running_Hours: 18
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0124
+Equipment_ID: EQ-2004
+Equipment_Name: Siemens SIMOTICS Motor
+Date: 13-07-2026
+Temperature (Â°C): 69
+Pressure (bar): 5.7
+Vibration (mm/s): 2.3
+Running_Hours: 19
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0125
+Equipment_ID: EQ-2005
+Equipment_Name: Air Compressor
+Date: 13-07-2026
+Temperature (Â°C): 72
+Pressure (bar): 6
+Vibration (mm/s): 2.8
+Running_Hours: 20
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0126
+Equipment_ID: EQ-2006
+Equipment_Name: Boiler Unit
+Date: 13-07-2026
+Temperature (Â°C): 75
+Pressure (bar): 4.8
+Vibration (mm/s): 3.3
+Running_Hours: 21
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0127
+Equipment_ID: EQ-2007
+Equipment_Name: Conveyor Belt
+Date: 13-07-2026
+Temperature (Â°C): 78
+Pressure (bar): 5.1
+Vibration (mm/s): 0.8
+Running_Hours: 22
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0128
+Equipment_ID: EQ-2008
+Equipment_Name: Cooling Tower
+Date: 13-07-2026
+Temperature (Â°C): 81
+Pressure (bar): 5.4
+Vibration (mm/s): 1.3
+Running_Hours: 23
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0129
+Equipment_ID: EQ-2009
+Equipment_Name: Hydraulic Press
+Date: 13-07-2026
+Temperature (Â°C): 84
+Pressure (bar): 5.7
+Vibration (mm/s): 1.8
+Running_Hours: 16
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0130
+Equipment_ID: EQ-2010
+Equipment_Name: Diesel Generator
+Date: 13-07-2026
+Temperature (Â°C): 87
+Pressure (bar): 6
+Vibration (mm/s): 2.3
+Running_Hours: 17
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0131
+Equipment_ID: EQ-2001
+Equipment_Name: Grundfos CR45 Pump
+Date: 14-07-2026
+Temperature (Â°C): 60
+Pressure (bar): 4.8
+Vibration (mm/s): 2.8
+Running_Hours: 18
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0132
+Equipment_ID: EQ-2002
+Equipment_Name: Grundfos CR32 Pump
+Date: 14-07-2026
+Temperature (Â°C): 63
+Pressure (bar): 5.1
+Vibration (mm/s): 3.3
+Running_Hours: 19
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0133
+Equipment_ID: EQ-2003
+Equipment_Name: ABB Motor M3BP
+Date: 14-07-2026
+Temperature (Â°C): 66
+Pressure (bar): 5.4
+Vibration (mm/s): 0.8
+Running_Hours: 20
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0134
+Equipment_ID: EQ-2004
+Equipment_Name: Siemens SIMOTICS Motor
+Date: 14-07-2026
+Temperature (Â°C): 69
+Pressure (bar): 5.7
+Vibration (mm/s): 1.3
+Running_Hours: 21
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0135
+Equipment_ID: EQ-2005
+Equipment_Name: Air Compressor
+Date: 14-07-2026
+Temperature (Â°C): 72
+Pressure (bar): 6
+Vibration (mm/s): 1.8
+Running_Hours: 22
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0136
+Equipment_ID: EQ-2006
+Equipment_Name: Boiler Unit
+Date: 14-07-2026
+Temperature (Â°C): 75
+Pressure (bar): 4.8
+Vibration (mm/s): 2.3
+Running_Hours: 23
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0137
+Equipment_ID: EQ-2007
+Equipment_Name: Conveyor Belt
+Date: 14-07-2026
+Temperature (Â°C): 78
+Pressure (bar): 5.1
+Vibration (mm/s): 2.8
+Running_Hours: 16
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0138
+Equipment_ID: EQ-2008
+Equipment_Name: Cooling Tower
+Date: 14-07-2026
+Temperature (Â°C): 81
+Pressure (bar): 5.4
+Vibration (mm/s): 3.3
+Running_Hours: 17
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0139
+Equipment_ID: EQ-2009
+Equipment_Name: Hydraulic Press
+Date: 14-07-2026
+Temperature (Â°C): 84
+Pressure (bar): 5.7
+Vibration (mm/s): 0.8
+Running_Hours: 18
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0140
+Equipment_ID: EQ-2010
+Equipment_Name: Diesel Generator
+Date: 14-07-2026
+Temperature (Â°C): 87
+Pressure (bar): 6
+Vibration (mm/s): 1.3
+Running_Hours: 19
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0141
+Equipment_ID: EQ-2001
+Equipment_Name: Grundfos CR45 Pump
+Date: 15-07-2026
+Temperature (Â°C): 60
+Pressure (bar): 4.8
+Vibration (mm/s): 1.8
+Running_Hours: 20
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0142
+Equipment_ID: EQ-2002
+Equipment_Name: Grundfos CR32 Pump
+Date: 15-07-2026
+Temperature (Â°C): 63
+Pressure (bar): 5.1
+Vibration (mm/s): 2.3
+Running_Hours: 21
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0143
+Equipment_ID: EQ-2003
+Equipment_Name: ABB Motor M3BP
+Date: 15-07-2026
+Temperature (Â°C): 66
+Pressure (bar): 5.4
+Vibration (mm/s): 2.8
+Running_Hours: 22
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0144
+Equipment_ID: EQ-2004
+Equipment_Name: Siemens SIMOTICS Motor
+Date: 15-07-2026
+Temperature (Â°C): 69
+Pressure (bar): 5.7
+Vibration (mm/s): 3.3
+Running_Hours: 23
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0145
+Equipment_ID: EQ-2005
+Equipment_Name: Air Compressor
+Date: 15-07-2026
+Temperature (Â°C): 72
+Pressure (bar): 6
+Vibration (mm/s): 0.8
+Running_Hours: 16
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0146
+Equipment_ID: EQ-2006
+Equipment_Name: Boiler Unit
+Date: 15-07-2026
+Temperature (Â°C): 75
+Pressure (bar): 4.8
+Vibration (mm/s): 1.3
+Running_Hours: 17
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0147
+Equipment_ID: EQ-2007
+Equipment_Name: Conveyor Belt
+Date: 15-07-2026
+Temperature (Â°C): 78
+Pressure (bar): 5.1
+Vibration (mm/s): 1.8
+Running_Hours: 18
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0148
+Equipment_ID: EQ-2008
+Equipment_Name: Cooling Tower
+Date: 15-07-2026
+Temperature (Â°C): 81
+Pressure (bar): 5.4
+Vibration (mm/s): 2.3
+Running_Hours: 19
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0149
+Equipment_ID: EQ-2009
+Equipment_Name: Hydraulic Press
+Date: 15-07-2026
+Temperature (Â°C): 84
+Pressure (bar): 5.7
+Vibration (mm/s): 2.8
+Running_Hours: 20
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0150
+Equipment_ID: EQ-2010
+Equipment_Name: Diesel Generator
+Date: 15-07-2026
+Temperature (Â°C): 87
+Pressure (bar): 6
+Vibration (mm/s): 3.3
+Running_Hours: 21
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0151
+Equipment_ID: EQ-2001
+Equipment_Name: Grundfos CR45 Pump
+Date: 16-07-2026
+Temperature (Â°C): 60
+Pressure (bar): 4.8
+Vibration (mm/s): 0.8
+Running_Hours: 22
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0152
+Equipment_ID: EQ-2002
+Equipment_Name: Grundfos CR32 Pump
+Date: 16-07-2026
+Temperature (Â°C): 63
+Pressure (bar): 5.1
+Vibration (mm/s): 1.3
+Running_Hours: 23
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0153
+Equipment_ID: EQ-2003
+Equipment_Name: ABB Motor M3BP
+Date: 16-07-2026
+Temperature (Â°C): 66
+Pressure (bar): 5.4
+Vibration (mm/s): 1.8
+Running_Hours: 16
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0154
+Equipment_ID: EQ-2004
+Equipment_Name: Siemens SIMOTICS Motor
+Date: 16-07-2026
+Temperature (Â°C): 69
+Pressure (bar): 5.7
+Vibration (mm/s): 2.3
+Running_Hours: 17
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0155
+Equipment_ID: EQ-2005
+Equipment_Name: Air Compressor
+Date: 16-07-2026
+Temperature (Â°C): 72
+Pressure (bar): 6
+Vibration (mm/s): 2.8
+Running_Hours: 18
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0156
+Equipment_ID: EQ-2006
+Equipment_Name: Boiler Unit
+Date: 16-07-2026
+Temperature (Â°C): 75
+Pressure (bar): 4.8
+Vibration (mm/s): 3.3
+Running_Hours: 19
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0157
+Equipment_ID: EQ-2007
+Equipment_Name: Conveyor Belt
+Date: 16-07-2026
+Temperature (Â°C): 78
+Pressure (bar): 5.1
+Vibration (mm/s): 0.8
+Running_Hours: 20
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0158
+Equipment_ID: EQ-2008
+Equipment_Name: Cooling Tower
+Date: 16-07-2026
+Temperature (Â°C): 81
+Pressure (bar): 5.4
+Vibration (mm/s): 1.3
+Running_Hours: 21
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0159
+Equipment_ID: EQ-2009
+Equipment_Name: Hydraulic Press
+Date: 16-07-2026
+Temperature (Â°C): 84
+Pressure (bar): 5.7
+Vibration (mm/s): 1.8
+Running_Hours: 22
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0160
+Equipment_ID: EQ-2010
+Equipment_Name: Diesel Generator
+Date: 16-07-2026
+Temperature (Â°C): 87
+Pressure (bar): 6
+Vibration (mm/s): 2.3
+Running_Hours: 23
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0161
+Equipment_ID: EQ-2001
+Equipment_Name: Grundfos CR45 Pump
+Date: 17-07-2026
+Temperature (Â°C): 60
+Pressure (bar): 4.8
+Vibration (mm/s): 2.8
+Running_Hours: 16
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0162
+Equipment_ID: EQ-2002
+Equipment_Name: Grundfos CR32 Pump
+Date: 17-07-2026
+Temperature (Â°C): 63
+Pressure (bar): 5.1
+Vibration (mm/s): 3.3
+Running_Hours: 17
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0163
+Equipment_ID: EQ-2003
+Equipment_Name: ABB Motor M3BP
+Date: 17-07-2026
+Temperature (Â°C): 66
+Pressure (bar): 5.4
+Vibration (mm/s): 0.8
+Running_Hours: 18
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0164
+Equipment_ID: EQ-2004
+Equipment_Name: Siemens SIMOTICS Motor
+Date: 17-07-2026
+Temperature (Â°C): 69
+Pressure (bar): 5.7
+Vibration (mm/s): 1.3
+Running_Hours: 19
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0165
+Equipment_ID: EQ-2005
+Equipment_Name: Air Compressor
+Date: 17-07-2026
+Temperature (Â°C): 72
+Pressure (bar): 6
+Vibration (mm/s): 1.8
+Running_Hours: 20
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0166
+Equipment_ID: EQ-2006
+Equipment_Name: Boiler Unit
+Date: 17-07-2026
+Temperature (Â°C): 75
+Pressure (bar): 4.8
+Vibration (mm/s): 2.3
+Running_Hours: 21
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0167
+Equipment_ID: EQ-2007
+Equipment_Name: Conveyor Belt
+Date: 17-07-2026
+Temperature (Â°C): 78
+Pressure (bar): 5.1
+Vibration (mm/s): 2.8
+Running_Hours: 22
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0168
+Equipment_ID: EQ-2008
+Equipment_Name: Cooling Tower
+Date: 17-07-2026
+Temperature (Â°C): 81
+Pressure (bar): 5.4
+Vibration (mm/s): 3.3
+Running_Hours: 23
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0169
+Equipment_ID: EQ-2009
+Equipment_Name: Hydraulic Press
+Date: 17-07-2026
+Temperature (Â°C): 84
+Pressure (bar): 5.7
+Vibration (mm/s): 0.8
+Running_Hours: 16
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0170
+Equipment_ID: EQ-2010
+Equipment_Name: Diesel Generator
+Date: 17-07-2026
+Temperature (Â°C): 87
+Pressure (bar): 6
+Vibration (mm/s): 1.3
+Running_Hours: 17
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0171
+Equipment_ID: EQ-2001
+Equipment_Name: Grundfos CR45 Pump
+Date: 18-07-2026
+Temperature (Â°C): 60
+Pressure (bar): 4.8
+Vibration (mm/s): 1.8
+Running_Hours: 18
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0172
+Equipment_ID: EQ-2002
+Equipment_Name: Grundfos CR32 Pump
+Date: 18-07-2026
+Temperature (Â°C): 63
+Pressure (bar): 5.1
+Vibration (mm/s): 2.3
+Running_Hours: 19
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0173
+Equipment_ID: EQ-2003
+Equipment_Name: ABB Motor M3BP
+Date: 18-07-2026
+Temperature (Â°C): 66
+Pressure (bar): 5.4
+Vibration (mm/s): 2.8
+Running_Hours: 20
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0174
+Equipment_ID: EQ-2004
+Equipment_Name: Siemens SIMOTICS Motor
+Date: 18-07-2026
+Temperature (Â°C): 69
+Pressure (bar): 5.7
+Vibration (mm/s): 3.3
+Running_Hours: 21
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0175
+Equipment_ID: EQ-2005
+Equipment_Name: Air Compressor
+Date: 18-07-2026
+Temperature (Â°C): 72
+Pressure (bar): 6
+Vibration (mm/s): 0.8
+Running_Hours: 22
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0176
+Equipment_ID: EQ-2006
+Equipment_Name: Boiler Unit
+Date: 18-07-2026
+Temperature (Â°C): 75
+Pressure (bar): 4.8
+Vibration (mm/s): 1.3
+Running_Hours: 23
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0177
+Equipment_ID: EQ-2007
+Equipment_Name: Conveyor Belt
+Date: 18-07-2026
+Temperature (Â°C): 78
+Pressure (bar): 5.1
+Vibration (mm/s): 1.8
+Running_Hours: 16
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0178
+Equipment_ID: EQ-2008
+Equipment_Name: Cooling Tower
+Date: 18-07-2026
+Temperature (Â°C): 81
+Pressure (bar): 5.4
+Vibration (mm/s): 2.3
+Running_Hours: 17
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0179
+Equipment_ID: EQ-2009
+Equipment_Name: Hydraulic Press
+Date: 18-07-2026
+Temperature (Â°C): 84
+Pressure (bar): 5.7
+Vibration (mm/s): 2.8
+Running_Hours: 18
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0180
+Equipment_ID: EQ-2010
+Equipment_Name: Diesel Generator
+Date: 18-07-2026
+Temperature (Â°C): 87
+Pressure (bar): 6
+Vibration (mm/s): 3.3
+Running_Hours: 19
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0181
+Equipment_ID: EQ-2001
+Equipment_Name: Grundfos CR45 Pump
+Date: 19-07-2026
+Temperature (Â°C): 60
+Pressure (bar): 4.8
+Vibration (mm/s): 0.8
+Running_Hours: 20
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0182
+Equipment_ID: EQ-2002
+Equipment_Name: Grundfos CR32 Pump
+Date: 19-07-2026
+Temperature (Â°C): 63
+Pressure (bar): 5.1
+Vibration (mm/s): 1.3
+Running_Hours: 21
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0183
+Equipment_ID: EQ-2003
+Equipment_Name: ABB Motor M3BP
+Date: 19-07-2026
+Temperature (Â°C): 66
+Pressure (bar): 5.4
+Vibration (mm/s): 1.8
+Running_Hours: 22
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0184
+Equipment_ID: EQ-2004
+Equipment_Name: Siemens SIMOTICS Motor
+Date: 19-07-2026
+Temperature (Â°C): 69
+Pressure (bar): 5.7
+Vibration (mm/s): 2.3
+Running_Hours: 23
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0185
+Equipment_ID: EQ-2005
+Equipment_Name: Air Compressor
+Date: 19-07-2026
+Temperature (Â°C): 72
+Pressure (bar): 6
+Vibration (mm/s): 2.8
+Running_Hours: 16
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0186
+Equipment_ID: EQ-2006
+Equipment_Name: Boiler Unit
+Date: 19-07-2026
+Temperature (Â°C): 75
+Pressure (bar): 4.8
+Vibration (mm/s): 3.3
+Running_Hours: 17
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0187
+Equipment_ID: EQ-2007
+Equipment_Name: Conveyor Belt
+Date: 19-07-2026
+Temperature (Â°C): 78
+Pressure (bar): 5.1
+Vibration (mm/s): 0.8
+Running_Hours: 18
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0188
+Equipment_ID: EQ-2008
+Equipment_Name: Cooling Tower
+Date: 19-07-2026
+Temperature (Â°C): 81
+Pressure (bar): 5.4
+Vibration (mm/s): 1.3
+Running_Hours: 19
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0189
+Equipment_ID: EQ-2009
+Equipment_Name: Hydraulic Press
+Date: 19-07-2026
+Temperature (Â°C): 84
+Pressure (bar): 5.7
+Vibration (mm/s): 1.8
+Running_Hours: 20
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0190
+Equipment_ID: EQ-2010
+Equipment_Name: Diesel Generator
+Date: 19-07-2026
+Temperature (Â°C): 87
+Pressure (bar): 6
+Vibration (mm/s): 2.3
+Running_Hours: 21
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0191
+Equipment_ID: EQ-2001
+Equipment_Name: Grundfos CR45 Pump
+Date: 20-07-2026
+Temperature (Â°C): 60
+Pressure (bar): 4.8
+Vibration (mm/s): 2.8
+Running_Hours: 22
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0192
+Equipment_ID: EQ-2002
+Equipment_Name: Grundfos CR32 Pump
+Date: 20-07-2026
+Temperature (Â°C): 63
+Pressure (bar): 5.1
+Vibration (mm/s): 3.3
+Running_Hours: 23
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0193
+Equipment_ID: EQ-2003
+Equipment_Name: ABB Motor M3BP
+Date: 20-07-2026
+Temperature (Â°C): 66
+Pressure (bar): 5.4
+Vibration (mm/s): 0.8
+Running_Hours: 16
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0194
+Equipment_ID: EQ-2004
+Equipment_Name: Siemens SIMOTICS Motor
+Date: 20-07-2026
+Temperature (Â°C): 69
+Pressure (bar): 5.7
+Vibration (mm/s): 1.3
+Running_Hours: 17
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0195
+Equipment_ID: EQ-2005
+Equipment_Name: Air Compressor
+Date: 20-07-2026
+Temperature (Â°C): 72
+Pressure (bar): 6
+Vibration (mm/s): 1.8
+Running_Hours: 18
+Status: Normal
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0196
+Equipment_ID: EQ-2006
+Equipment_Name: Boiler Unit
+Date: 20-07-2026
+Temperature (Â°C): 75
+Pressure (bar): 4.8
+Vibration (mm/s): 2.3
+Running_Hours: 19
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0197
+Equipment_ID: EQ-2007
+Equipment_Name: Conveyor Belt
+Date: 20-07-2026
+Temperature (Â°C): 78
+Pressure (bar): 5.1
+Vibration (mm/s): 2.8
+Running_Hours: 20
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0198
+Equipment_ID: EQ-2008
+Equipment_Name: Cooling Tower
+Date: 20-07-2026
+Temperature (Â°C): 81
+Pressure (bar): 5.4
+Vibration (mm/s): 3.3
+Running_Hours: 21
+Status: Warning
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0199
+Equipment_ID: EQ-2009
+Equipment_Name: Hydraulic Press
+Date: 20-07-2026
+Temperature (Â°C): 84
+Pressure (bar): 5.7
+Vibration (mm/s): 0.8
+Running_Hours: 22
+Status: Critical
+
+======================================
+
+========== cba6cd68 Daily Operating Log (1) Record ==========
+
+Log_ID: LOG0200
+Equipment_ID: EQ-2010
+Equipment_Name: Diesel Generator
+Date: 20-07-2026
+Temperature (Â°C): 87
+Pressure (bar): 6
+Vibration (mm/s): 1.3
+Running_Hours: 23
+Status: Critical
+
+======================================

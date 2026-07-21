@@ -1,0 +1,1406 @@
+{
+  "document": "Daily_Operating_Log (1).csv",
+  "document_type": "Daily Operating Log",
+  "entities": [
+    {
+      "Asset_ID": "EQ-2001",
+      "Equipment_Name": "Grundfos CR45 Pump",
+      "Date": "2026-07-01",
+      "Running_Hours": "16",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2002",
+      "Equipment_Name": "Grundfos CR32 Pump",
+      "Date": "2026-07-01",
+      "Running_Hours": "17",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2003",
+      "Equipment_Name": "ABB Motor M3BP",
+      "Date": "2026-07-01",
+      "Running_Hours": "18",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2004",
+      "Equipment_Name": "Siemens SIMOTICS Motor",
+      "Date": "2026-07-01",
+      "Running_Hours": "19",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2005",
+      "Equipment_Name": "Air Compressor",
+      "Date": "2026-07-01",
+      "Running_Hours": "20",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2006",
+      "Equipment_Name": "Boiler Unit",
+      "Date": "2026-07-01",
+      "Running_Hours": "21",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2007",
+      "Equipment_Name": "Conveyor Belt",
+      "Date": "2026-07-01",
+      "Running_Hours": "22",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2008",
+      "Equipment_Name": "Cooling Tower",
+      "Date": "2026-07-01",
+      "Running_Hours": "23",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2009",
+      "Equipment_Name": "Hydraulic Press",
+      "Date": "2026-07-01",
+      "Running_Hours": "16",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2010",
+      "Equipment_Name": "Diesel Generator",
+      "Date": "2026-07-01",
+      "Running_Hours": "17",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2001",
+      "Equipment_Name": "Grundfos CR45 Pump",
+      "Date": "2026-07-02",
+      "Running_Hours": "18",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2002",
+      "Equipment_Name": "Grundfos CR32 Pump",
+      "Date": "2026-07-02",
+      "Running_Hours": "19",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2003",
+      "Equipment_Name": "ABB Motor M3BP",
+      "Date": "2026-07-02",
+      "Running_Hours": "20",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2004",
+      "Equipment_Name": "Siemens SIMOTICS Motor",
+      "Date": "2026-07-02",
+      "Running_Hours": "21",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2005",
+      "Equipment_Name": "Air Compressor",
+      "Date": "2026-07-02",
+      "Running_Hours": "22",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2006",
+      "Equipment_Name": "Boiler Unit",
+      "Date": "2026-07-02",
+      "Running_Hours": "23",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2007",
+      "Equipment_Name": "Conveyor Belt",
+      "Date": "2026-07-02",
+      "Running_Hours": "16",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2008",
+      "Equipment_Name": "Cooling Tower",
+      "Date": "2026-07-02",
+      "Running_Hours": "17",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2009",
+      "Equipment_Name": "Hydraulic Press",
+      "Date": "2026-07-02",
+      "Running_Hours": "18",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2010",
+      "Equipment_Name": "Diesel Generator",
+      "Date": "2026-07-02",
+      "Running_Hours": "19",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2001",
+      "Equipment_Name": "Grundfos CR45 Pump",
+      "Date": "2026-07-03",
+      "Running_Hours": "20",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2002",
+      "Equipment_Name": "Grundfos CR32 Pump",
+      "Date": "2026-07-03",
+      "Running_Hours": "21",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2003",
+      "Equipment_Name": "ABB Motor M3BP",
+      "Date": "2026-07-03",
+      "Running_Hours": "22",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2004",
+      "Equipment_Name": "Siemens SIMOTICS Motor",
+      "Date": "2026-07-03",
+      "Running_Hours": "23",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2005",
+      "Equipment_Name": "Air Compressor",
+      "Date": "2026-07-03",
+      "Running_Hours": "16",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2006",
+      "Equipment_Name": "Boiler Unit",
+      "Date": "2026-07-03",
+      "Running_Hours": "17",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2007",
+      "Equipment_Name": "Conveyor Belt",
+      "Date": "2026-07-03",
+      "Running_Hours": "18",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2008",
+      "Equipment_Name": "Cooling Tower",
+      "Date": "2026-07-03",
+      "Running_Hours": "19",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2009",
+      "Equipment_Name": "Hydraulic Press",
+      "Date": "2026-07-03",
+      "Running_Hours": "20",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2010",
+      "Equipment_Name": "Diesel Generator",
+      "Date": "2026-07-03",
+      "Running_Hours": "21",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2001",
+      "Equipment_Name": "Grundfos CR45 Pump",
+      "Date": "2026-07-04",
+      "Running_Hours": "22",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2002",
+      "Equipment_Name": "Grundfos CR32 Pump",
+      "Date": "2026-07-04",
+      "Running_Hours": "23",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2003",
+      "Equipment_Name": "ABB Motor M3BP",
+      "Date": "2026-07-04",
+      "Running_Hours": "16",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2004",
+      "Equipment_Name": "Siemens SIMOTICS Motor",
+      "Date": "2026-07-04",
+      "Running_Hours": "17",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2005",
+      "Equipment_Name": "Air Compressor",
+      "Date": "2026-07-04",
+      "Running_Hours": "18",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2006",
+      "Equipment_Name": "Boiler Unit",
+      "Date": "2026-07-04",
+      "Running_Hours": "19",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2007",
+      "Equipment_Name": "Conveyor Belt",
+      "Date": "2026-07-04",
+      "Running_Hours": "20",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2008",
+      "Equipment_Name": "Cooling Tower",
+      "Date": "2026-07-04",
+      "Running_Hours": "21",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2009",
+      "Equipment_Name": "Hydraulic Press",
+      "Date": "2026-07-04",
+      "Running_Hours": "22",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2010",
+      "Equipment_Name": "Diesel Generator",
+      "Date": "2026-07-04",
+      "Running_Hours": "23",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2001",
+      "Equipment_Name": "Grundfos CR45 Pump",
+      "Date": "2026-07-05",
+      "Running_Hours": "16",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2002",
+      "Equipment_Name": "Grundfos CR32 Pump",
+      "Date": "2026-07-05",
+      "Running_Hours": "17",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2003",
+      "Equipment_Name": "ABB Motor M3BP",
+      "Date": "2026-07-05",
+      "Running_Hours": "18",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2004",
+      "Equipment_Name": "Siemens SIMOTICS Motor",
+      "Date": "2026-07-05",
+      "Running_Hours": "19",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2005",
+      "Equipment_Name": "Air Compressor",
+      "Date": "2026-07-05",
+      "Running_Hours": "20",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2006",
+      "Equipment_Name": "Boiler Unit",
+      "Date": "2026-07-05",
+      "Running_Hours": "21",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2007",
+      "Equipment_Name": "Conveyor Belt",
+      "Date": "2026-07-05",
+      "Running_Hours": "22",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2008",
+      "Equipment_Name": "Cooling Tower",
+      "Date": "2026-07-05",
+      "Running_Hours": "23",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2009",
+      "Equipment_Name": "Hydraulic Press",
+      "Date": "2026-07-05",
+      "Running_Hours": "16",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2010",
+      "Equipment_Name": "Diesel Generator",
+      "Date": "2026-07-05",
+      "Running_Hours": "17",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2001",
+      "Equipment_Name": "Grundfos CR45 Pump",
+      "Date": "2026-07-06",
+      "Running_Hours": "18",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2002",
+      "Equipment_Name": "Grundfos CR32 Pump",
+      "Date": "2026-07-06",
+      "Running_Hours": "19",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2003",
+      "Equipment_Name": "ABB Motor M3BP",
+      "Date": "2026-07-06",
+      "Running_Hours": "20",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2004",
+      "Equipment_Name": "Siemens SIMOTICS Motor",
+      "Date": "2026-07-06",
+      "Running_Hours": "21",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2005",
+      "Equipment_Name": "Air Compressor",
+      "Date": "2026-07-06",
+      "Running_Hours": "22",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2006",
+      "Equipment_Name": "Boiler Unit",
+      "Date": "2026-07-06",
+      "Running_Hours": "23",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2007",
+      "Equipment_Name": "Conveyor Belt",
+      "Date": "2026-07-06",
+      "Running_Hours": "16",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2008",
+      "Equipment_Name": "Cooling Tower",
+      "Date": "2026-07-06",
+      "Running_Hours": "17",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2009",
+      "Equipment_Name": "Hydraulic Press",
+      "Date": "2026-07-06",
+      "Running_Hours": "18",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2010",
+      "Equipment_Name": "Diesel Generator",
+      "Date": "2026-07-06",
+      "Running_Hours": "19",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2001",
+      "Equipment_Name": "Grundfos CR45 Pump",
+      "Date": "2026-07-07",
+      "Running_Hours": "20",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2002",
+      "Equipment_Name": "Grundfos CR32 Pump",
+      "Date": "2026-07-07",
+      "Running_Hours": "21",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2003",
+      "Equipment_Name": "ABB Motor M3BP",
+      "Date": "2026-07-07",
+      "Running_Hours": "22",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2004",
+      "Equipment_Name": "Siemens SIMOTICS Motor",
+      "Date": "2026-07-07",
+      "Running_Hours": "23",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2005",
+      "Equipment_Name": "Air Compressor",
+      "Date": "2026-07-07",
+      "Running_Hours": "16",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2006",
+      "Equipment_Name": "Boiler Unit",
+      "Date": "2026-07-07",
+      "Running_Hours": "17",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2007",
+      "Equipment_Name": "Conveyor Belt",
+      "Date": "2026-07-07",
+      "Running_Hours": "18",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2008",
+      "Equipment_Name": "Cooling Tower",
+      "Date": "2026-07-07",
+      "Running_Hours": "19",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2009",
+      "Equipment_Name": "Hydraulic Press",
+      "Date": "2026-07-07",
+      "Running_Hours": "20",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2010",
+      "Equipment_Name": "Diesel Generator",
+      "Date": "2026-07-07",
+      "Running_Hours": "21",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2001",
+      "Equipment_Name": "Grundfos CR45 Pump",
+      "Date": "2026-07-08",
+      "Running_Hours": "22",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2002",
+      "Equipment_Name": "Grundfos CR32 Pump",
+      "Date": "2026-07-08",
+      "Running_Hours": "23",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2003",
+      "Equipment_Name": "ABB Motor M3BP",
+      "Date": "2026-07-08",
+      "Running_Hours": "16",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2004",
+      "Equipment_Name": "Siemens SIMOTICS Motor",
+      "Date": "2026-07-08",
+      "Running_Hours": "17",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2005",
+      "Equipment_Name": "Air Compressor",
+      "Date": "2026-07-08",
+      "Running_Hours": "18",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2006",
+      "Equipment_Name": "Boiler Unit",
+      "Date": "2026-07-08",
+      "Running_Hours": "19",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2007",
+      "Equipment_Name": "Conveyor Belt",
+      "Date": "2026-07-08",
+      "Running_Hours": "20",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2008",
+      "Equipment_Name": "Cooling Tower",
+      "Date": "2026-07-08",
+      "Running_Hours": "21",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2009",
+      "Equipment_Name": "Hydraulic Press",
+      "Date": "2026-07-08",
+      "Running_Hours": "22",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2010",
+      "Equipment_Name": "Diesel Generator",
+      "Date": "2026-07-08",
+      "Running_Hours": "23",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2001",
+      "Equipment_Name": "Grundfos CR45 Pump",
+      "Date": "2026-07-09",
+      "Running_Hours": "16",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2002",
+      "Equipment_Name": "Grundfos CR32 Pump",
+      "Date": "2026-07-09",
+      "Running_Hours": "17",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2003",
+      "Equipment_Name": "ABB Motor M3BP",
+      "Date": "2026-07-09",
+      "Running_Hours": "18",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2004",
+      "Equipment_Name": "Siemens SIMOTICS Motor",
+      "Date": "2026-07-09",
+      "Running_Hours": "19",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2005",
+      "Equipment_Name": "Air Compressor",
+      "Date": "2026-07-09",
+      "Running_Hours": "20",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2006",
+      "Equipment_Name": "Boiler Unit",
+      "Date": "2026-07-09",
+      "Running_Hours": "21",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2007",
+      "Equipment_Name": "Conveyor Belt",
+      "Date": "2026-07-09",
+      "Running_Hours": "22",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2008",
+      "Equipment_Name": "Cooling Tower",
+      "Date": "2026-07-09",
+      "Running_Hours": "23",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2009",
+      "Equipment_Name": "Hydraulic Press",
+      "Date": "2026-07-09",
+      "Running_Hours": "16",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2010",
+      "Equipment_Name": "Diesel Generator",
+      "Date": "2026-07-09",
+      "Running_Hours": "17",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2001",
+      "Equipment_Name": "Grundfos CR45 Pump",
+      "Date": "2026-07-10",
+      "Running_Hours": "18",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2002",
+      "Equipment_Name": "Grundfos CR32 Pump",
+      "Date": "2026-07-10",
+      "Running_Hours": "19",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2003",
+      "Equipment_Name": "ABB Motor M3BP",
+      "Date": "2026-07-10",
+      "Running_Hours": "20",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2004",
+      "Equipment_Name": "Siemens SIMOTICS Motor",
+      "Date": "2026-07-10",
+      "Running_Hours": "21",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2005",
+      "Equipment_Name": "Air Compressor",
+      "Date": "2026-07-10",
+      "Running_Hours": "22",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2006",
+      "Equipment_Name": "Boiler Unit",
+      "Date": "2026-07-10",
+      "Running_Hours": "23",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2007",
+      "Equipment_Name": "Conveyor Belt",
+      "Date": "2026-07-10",
+      "Running_Hours": "16",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2008",
+      "Equipment_Name": "Cooling Tower",
+      "Date": "2026-07-10",
+      "Running_Hours": "17",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2009",
+      "Equipment_Name": "Hydraulic Press",
+      "Date": "2026-07-10",
+      "Running_Hours": "18",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2010",
+      "Equipment_Name": "Diesel Generator",
+      "Date": "2026-07-10",
+      "Running_Hours": "19",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2001",
+      "Equipment_Name": "Grundfos CR45 Pump",
+      "Date": "2026-07-11",
+      "Running_Hours": "20",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2002",
+      "Equipment_Name": "Grundfos CR32 Pump",
+      "Date": "2026-07-11",
+      "Running_Hours": "21",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2003",
+      "Equipment_Name": "ABB Motor M3BP",
+      "Date": "2026-07-11",
+      "Running_Hours": "22",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2004",
+      "Equipment_Name": "Siemens SIMOTICS Motor",
+      "Date": "2026-07-11",
+      "Running_Hours": "23",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2005",
+      "Equipment_Name": "Air Compressor",
+      "Date": "2026-07-11",
+      "Running_Hours": "16",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2006",
+      "Equipment_Name": "Boiler Unit",
+      "Date": "2026-07-11",
+      "Running_Hours": "17",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2007",
+      "Equipment_Name": "Conveyor Belt",
+      "Date": "2026-07-11",
+      "Running_Hours": "18",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2008",
+      "Equipment_Name": "Cooling Tower",
+      "Date": "2026-07-11",
+      "Running_Hours": "19",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2009",
+      "Equipment_Name": "Hydraulic Press",
+      "Date": "2026-07-11",
+      "Running_Hours": "20",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2010",
+      "Equipment_Name": "Diesel Generator",
+      "Date": "2026-07-11",
+      "Running_Hours": "21",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2001",
+      "Equipment_Name": "Grundfos CR45 Pump",
+      "Date": "2026-07-12",
+      "Running_Hours": "22",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2002",
+      "Equipment_Name": "Grundfos CR32 Pump",
+      "Date": "2026-07-12",
+      "Running_Hours": "23",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2003",
+      "Equipment_Name": "ABB Motor M3BP",
+      "Date": "2026-07-12",
+      "Running_Hours": "16",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2004",
+      "Equipment_Name": "Siemens SIMOTICS Motor",
+      "Date": "2026-07-12",
+      "Running_Hours": "17",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2005",
+      "Equipment_Name": "Air Compressor",
+      "Date": "2026-07-12",
+      "Running_Hours": "18",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2006",
+      "Equipment_Name": "Boiler Unit",
+      "Date": "2026-07-12",
+      "Running_Hours": "19",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2007",
+      "Equipment_Name": "Conveyor Belt",
+      "Date": "2026-07-12",
+      "Running_Hours": "20",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2008",
+      "Equipment_Name": "Cooling Tower",
+      "Date": "2026-07-12",
+      "Running_Hours": "21",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2009",
+      "Equipment_Name": "Hydraulic Press",
+      "Date": "2026-07-12",
+      "Running_Hours": "22",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2010",
+      "Equipment_Name": "Diesel Generator",
+      "Date": "2026-07-12",
+      "Running_Hours": "23",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2001",
+      "Equipment_Name": "Grundfos CR45 Pump",
+      "Date": "2026-07-13",
+      "Running_Hours": "16",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2002",
+      "Equipment_Name": "Grundfos CR32 Pump",
+      "Date": "2026-07-13",
+      "Running_Hours": "17",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2003",
+      "Equipment_Name": "ABB Motor M3BP",
+      "Date": "2026-07-13",
+      "Running_Hours": "18",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2004",
+      "Equipment_Name": "Siemens SIMOTICS Motor",
+      "Date": "2026-07-13",
+      "Running_Hours": "19",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2005",
+      "Equipment_Name": "Air Compressor",
+      "Date": "2026-07-13",
+      "Running_Hours": "20",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2006",
+      "Equipment_Name": "Boiler Unit",
+      "Date": "2026-07-13",
+      "Running_Hours": "21",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2007",
+      "Equipment_Name": "Conveyor Belt",
+      "Date": "2026-07-13",
+      "Running_Hours": "22",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2008",
+      "Equipment_Name": "Cooling Tower",
+      "Date": "2026-07-13",
+      "Running_Hours": "23",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2009",
+      "Equipment_Name": "Hydraulic Press",
+      "Date": "2026-07-13",
+      "Running_Hours": "16",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2010",
+      "Equipment_Name": "Diesel Generator",
+      "Date": "2026-07-13",
+      "Running_Hours": "17",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2001",
+      "Equipment_Name": "Grundfos CR45 Pump",
+      "Date": "2026-07-14",
+      "Running_Hours": "18",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2002",
+      "Equipment_Name": "Grundfos CR32 Pump",
+      "Date": "2026-07-14",
+      "Running_Hours": "19",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2003",
+      "Equipment_Name": "ABB Motor M3BP",
+      "Date": "2026-07-14",
+      "Running_Hours": "20",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2004",
+      "Equipment_Name": "Siemens SIMOTICS Motor",
+      "Date": "2026-07-14",
+      "Running_Hours": "21",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2005",
+      "Equipment_Name": "Air Compressor",
+      "Date": "2026-07-14",
+      "Running_Hours": "22",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2006",
+      "Equipment_Name": "Boiler Unit",
+      "Date": "2026-07-14",
+      "Running_Hours": "23",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2007",
+      "Equipment_Name": "Conveyor Belt",
+      "Date": "2026-07-14",
+      "Running_Hours": "16",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2008",
+      "Equipment_Name": "Cooling Tower",
+      "Date": "2026-07-14",
+      "Running_Hours": "17",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2009",
+      "Equipment_Name": "Hydraulic Press",
+      "Date": "2026-07-14",
+      "Running_Hours": "18",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2010",
+      "Equipment_Name": "Diesel Generator",
+      "Date": "2026-07-14",
+      "Running_Hours": "19",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2001",
+      "Equipment_Name": "Grundfos CR45 Pump",
+      "Date": "2026-07-15",
+      "Running_Hours": "20",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2002",
+      "Equipment_Name": "Grundfos CR32 Pump",
+      "Date": "2026-07-15",
+      "Running_Hours": "21",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2003",
+      "Equipment_Name": "ABB Motor M3BP",
+      "Date": "2026-07-15",
+      "Running_Hours": "22",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2004",
+      "Equipment_Name": "Siemens SIMOTICS Motor",
+      "Date": "2026-07-15",
+      "Running_Hours": "23",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2005",
+      "Equipment_Name": "Air Compressor",
+      "Date": "2026-07-15",
+      "Running_Hours": "16",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2006",
+      "Equipment_Name": "Boiler Unit",
+      "Date": "2026-07-15",
+      "Running_Hours": "17",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2007",
+      "Equipment_Name": "Conveyor Belt",
+      "Date": "2026-07-15",
+      "Running_Hours": "18",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2008",
+      "Equipment_Name": "Cooling Tower",
+      "Date": "2026-07-15",
+      "Running_Hours": "19",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2009",
+      "Equipment_Name": "Hydraulic Press",
+      "Date": "2026-07-15",
+      "Running_Hours": "20",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2010",
+      "Equipment_Name": "Diesel Generator",
+      "Date": "2026-07-15",
+      "Running_Hours": "21",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2001",
+      "Equipment_Name": "Grundfos CR45 Pump",
+      "Date": "2026-07-16",
+      "Running_Hours": "22",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2002",
+      "Equipment_Name": "Grundfos CR32 Pump",
+      "Date": "2026-07-16",
+      "Running_Hours": "23",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2003",
+      "Equipment_Name": "ABB Motor M3BP",
+      "Date": "2026-07-16",
+      "Running_Hours": "16",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2004",
+      "Equipment_Name": "Siemens SIMOTICS Motor",
+      "Date": "2026-07-16",
+      "Running_Hours": "17",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2005",
+      "Equipment_Name": "Air Compressor",
+      "Date": "2026-07-16",
+      "Running_Hours": "18",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2006",
+      "Equipment_Name": "Boiler Unit",
+      "Date": "2026-07-16",
+      "Running_Hours": "19",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2007",
+      "Equipment_Name": "Conveyor Belt",
+      "Date": "2026-07-16",
+      "Running_Hours": "20",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2008",
+      "Equipment_Name": "Cooling Tower",
+      "Date": "2026-07-16",
+      "Running_Hours": "21",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2009",
+      "Equipment_Name": "Hydraulic Press",
+      "Date": "2026-07-16",
+      "Running_Hours": "22",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2010",
+      "Equipment_Name": "Diesel Generator",
+      "Date": "2026-07-16",
+      "Running_Hours": "23",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2001",
+      "Equipment_Name": "Grundfos CR45 Pump",
+      "Date": "2026-07-17",
+      "Running_Hours": "16",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2002",
+      "Equipment_Name": "Grundfos CR32 Pump",
+      "Date": "2026-07-17",
+      "Running_Hours": "17",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2003",
+      "Equipment_Name": "ABB Motor M3BP",
+      "Date": "2026-07-17",
+      "Running_Hours": "18",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2004",
+      "Equipment_Name": "Siemens SIMOTICS Motor",
+      "Date": "2026-07-17",
+      "Running_Hours": "19",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2005",
+      "Equipment_Name": "Air Compressor",
+      "Date": "2026-07-17",
+      "Running_Hours": "20",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2006",
+      "Equipment_Name": "Boiler Unit",
+      "Date": "2026-07-17",
+      "Running_Hours": "21",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2007",
+      "Equipment_Name": "Conveyor Belt",
+      "Date": "2026-07-17",
+      "Running_Hours": "22",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2008",
+      "Equipment_Name": "Cooling Tower",
+      "Date": "2026-07-17",
+      "Running_Hours": "23",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2009",
+      "Equipment_Name": "Hydraulic Press",
+      "Date": "2026-07-17",
+      "Running_Hours": "16",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2010",
+      "Equipment_Name": "Diesel Generator",
+      "Date": "2026-07-17",
+      "Running_Hours": "17",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2001",
+      "Equipment_Name": "Grundfos CR45 Pump",
+      "Date": "2026-07-18",
+      "Running_Hours": "18",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2002",
+      "Equipment_Name": "Grundfos CR32 Pump",
+      "Date": "2026-07-18",
+      "Running_Hours": "19",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2003",
+      "Equipment_Name": "ABB Motor M3BP",
+      "Date": "2026-07-18",
+      "Running_Hours": "20",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2004",
+      "Equipment_Name": "Siemens SIMOTICS Motor",
+      "Date": "2026-07-18",
+      "Running_Hours": "21",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2005",
+      "Equipment_Name": "Air Compressor",
+      "Date": "2026-07-18",
+      "Running_Hours": "22",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2006",
+      "Equipment_Name": "Boiler Unit",
+      "Date": "2026-07-18",
+      "Running_Hours": "23",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2007",
+      "Equipment_Name": "Conveyor Belt",
+      "Date": "2026-07-18",
+      "Running_Hours": "16",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2008",
+      "Equipment_Name": "Cooling Tower",
+      "Date": "2026-07-18",
+      "Running_Hours": "17",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2009",
+      "Equipment_Name": "Hydraulic Press",
+      "Date": "2026-07-18",
+      "Running_Hours": "18",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2010",
+      "Equipment_Name": "Diesel Generator",
+      "Date": "2026-07-18",
+      "Running_Hours": "19",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2001",
+      "Equipment_Name": "Grundfos CR45 Pump",
+      "Date": "2026-07-19",
+      "Running_Hours": "20",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2002",
+      "Equipment_Name": "Grundfos CR32 Pump",
+      "Date": "2026-07-19",
+      "Running_Hours": "21",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2003",
+      "Equipment_Name": "ABB Motor M3BP",
+      "Date": "2026-07-19",
+      "Running_Hours": "22",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2004",
+      "Equipment_Name": "Siemens SIMOTICS Motor",
+      "Date": "2026-07-19",
+      "Running_Hours": "23",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2005",
+      "Equipment_Name": "Air Compressor",
+      "Date": "2026-07-19",
+      "Running_Hours": "16",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2006",
+      "Equipment_Name": "Boiler Unit",
+      "Date": "2026-07-19",
+      "Running_Hours": "17",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2007",
+      "Equipment_Name": "Conveyor Belt",
+      "Date": "2026-07-19",
+      "Running_Hours": "18",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2008",
+      "Equipment_Name": "Cooling Tower",
+      "Date": "2026-07-19",
+      "Running_Hours": "19",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2009",
+      "Equipment_Name": "Hydraulic Press",
+      "Date": "2026-07-19",
+      "Running_Hours": "20",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2010",
+      "Equipment_Name": "Diesel Generator",
+      "Date": "2026-07-19",
+      "Running_Hours": "21",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2001",
+      "Equipment_Name": "Grundfos CR45 Pump",
+      "Date": "2026-07-20",
+      "Running_Hours": "22",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2002",
+      "Equipment_Name": "Grundfos CR32 Pump",
+      "Date": "2026-07-20",
+      "Running_Hours": "23",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2003",
+      "Equipment_Name": "ABB Motor M3BP",
+      "Date": "2026-07-20",
+      "Running_Hours": "16",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2004",
+      "Equipment_Name": "Siemens SIMOTICS Motor",
+      "Date": "2026-07-20",
+      "Running_Hours": "17",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2005",
+      "Equipment_Name": "Air Compressor",
+      "Date": "2026-07-20",
+      "Running_Hours": "18",
+      "Status": "Normal"
+    },
+    {
+      "Asset_ID": "EQ-2006",
+      "Equipment_Name": "Boiler Unit",
+      "Date": "2026-07-20",
+      "Running_Hours": "19",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2007",
+      "Equipment_Name": "Conveyor Belt",
+      "Date": "2026-07-20",
+      "Running_Hours": "20",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2008",
+      "Equipment_Name": "Cooling Tower",
+      "Date": "2026-07-20",
+      "Running_Hours": "21",
+      "Status": "Warning"
+    },
+    {
+      "Asset_ID": "EQ-2009",
+      "Equipment_Name": "Hydraulic Press",
+      "Date": "2026-07-20",
+      "Running_Hours": "22",
+      "Status": "Critical"
+    },
+    {
+      "Asset_ID": "EQ-2010",
+      "Equipment_Name": "Diesel Generator",
+      "Date": "2026-07-20",
+      "Running_Hours": "23",
+      "Status": "Critical"
+    }
+  ]
+}

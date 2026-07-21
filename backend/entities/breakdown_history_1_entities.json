@@ -1,0 +1,456 @@
+{
+  "document": "Breakdown_History (1).xlsx",
+  "document_type": "Breakdown History",
+  "entities": [
+    {
+      "Ticket_ID": "BRK-8000",
+      "Asset_ID": "KS-29",
+      "Equipment_Name": "KSB Omega-50",
+      "Failure_Date": "2025-04-23",
+      "Root_Cause": "Misalignment of coupling",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8001",
+      "Asset_ID": "KS-45",
+      "Equipment_Name": "KSB Omega-80",
+      "Failure_Date": "2025-08-15",
+      "Root_Cause": "Impeller blockage from external solid debris",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8002",
+      "Asset_ID": "AB-34",
+      "Equipment_Name": "ABB M3BP-180",
+      "Failure_Date": "2025-04-21",
+      "Root_Cause": "Insulation breakdown due to voltage surge",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8003",
+      "Asset_ID": "SI-23",
+      "Equipment_Name": "Siemens 1LE1001-1B",
+      "Failure_Date": "2026-02-10",
+      "Root_Cause": "Overloading causing thermal trip",
+      "Downtime": "0",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8004",
+      "Asset_ID": "KS-37",
+      "Equipment_Name": "KSB Omega-125",
+      "Failure_Date": "2025-10-16",
+      "Root_Cause": "Impeller blockage from external solid debris",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8005",
+      "Asset_ID": "SI-11",
+      "Equipment_Name": "Siemens 1LE1001-1A",
+      "Failure_Date": "2025-05-28",
+      "Root_Cause": "Phase unbalance",
+      "Downtime": "0",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8006",
+      "Asset_ID": "AB-06",
+      "Equipment_Name": "ABB M3BP-225",
+      "Failure_Date": "2025-09-01",
+      "Root_Cause": "Bearing lack of lubrication / overheating",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8007",
+      "Asset_ID": "AB-18",
+      "Equipment_Name": "ABB M3BP-180",
+      "Failure_Date": "2025-12-31",
+      "Root_Cause": "Insulation breakdown due to voltage surge",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8008",
+      "Asset_ID": "KS-21",
+      "Equipment_Name": "KSB Omega-50",
+      "Failure_Date": "2025-07-20",
+      "Root_Cause": "Mechanical seal dry wearing",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8009",
+      "Asset_ID": "AB-42",
+      "Equipment_Name": "ABB M3BP-200",
+      "Failure_Date": "2025-03-14",
+      "Root_Cause": "Overloading causing thermal trip",
+      "Downtime": "0",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8010",
+      "Asset_ID": "GR-36",
+      "Equipment_Name": "Grundfos CR-45",
+      "Failure_Date": "2025-01-17",
+      "Root_Cause": "Dry running / cavitation",
+      "Downtime": "0",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8011",
+      "Asset_ID": "KS-41",
+      "Equipment_Name": "KSB Omega-125",
+      "Failure_Date": "2025-03-02",
+      "Root_Cause": "Misalignment of coupling",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8012",
+      "Asset_ID": "AB-38",
+      "Equipment_Name": "ABB M3BP-180",
+      "Failure_Date": "2025-02-11",
+      "Root_Cause": "Phase unbalance",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8013",
+      "Asset_ID": "AB-34",
+      "Equipment_Name": "ABB M3BP-180",
+      "Failure_Date": "2025-10-18",
+      "Root_Cause": "Insulation breakdown due to voltage surge",
+      "Downtime": "0",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8014",
+      "Asset_ID": "KS-17",
+      "Equipment_Name": "KSB Omega-50",
+      "Failure_Date": "2025-08-17",
+      "Root_Cause": "Misalignment of coupling",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8015",
+      "Asset_ID": "KS-37",
+      "Equipment_Name": "KSB Omega-125",
+      "Failure_Date": "2025-04-12",
+      "Root_Cause": "Misalignment of coupling",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8016",
+      "Asset_ID": "KS-25",
+      "Equipment_Name": "KSB Omega-125",
+      "Failure_Date": "2025-10-02",
+      "Root_Cause": "Misalignment of coupling",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8017",
+      "Asset_ID": "AB-38",
+      "Equipment_Name": "ABB M3BP-180",
+      "Failure_Date": "2025-11-01",
+      "Root_Cause": "Insulation breakdown due to voltage surge",
+      "Downtime": "0",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8018",
+      "Asset_ID": "GR-12",
+      "Equipment_Name": "Grundfos CR-32",
+      "Failure_Date": "2025-02-26",
+      "Root_Cause": "Mechanical seal dry wearing",
+      "Downtime": "0",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8019",
+      "Asset_ID": "SI-23",
+      "Equipment_Name": "Siemens 1LE1001-1B",
+      "Failure_Date": "2025-03-21",
+      "Root_Cause": "Phase unbalance",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8020",
+      "Asset_ID": "AB-42",
+      "Equipment_Name": "ABB M3BP-200",
+      "Failure_Date": "2025-09-21",
+      "Root_Cause": "Bearing lack of lubrication / overheating",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8021",
+      "Asset_ID": "AB-22",
+      "Equipment_Name": "ABB M3BP-180",
+      "Failure_Date": "2025-03-22",
+      "Root_Cause": "Bearing lack of lubrication / overheating",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8022",
+      "Asset_ID": "KS-21",
+      "Equipment_Name": "KSB Omega-50",
+      "Failure_Date": "2026-01-09",
+      "Root_Cause": "Mechanical seal dry wearing",
+      "Downtime": "0",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8023",
+      "Asset_ID": "SI-27",
+      "Equipment_Name": "Siemens 1LE1001-2A",
+      "Failure_Date": "2025-07-19",
+      "Root_Cause": "Insulation breakdown due to voltage surge",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8024",
+      "Asset_ID": "SI-31",
+      "Equipment_Name": "Siemens 1LE1001-1C",
+      "Failure_Date": "2025-03-30",
+      "Root_Cause": "Phase unbalance",
+      "Downtime": "0",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8025",
+      "Asset_ID": "AB-06",
+      "Equipment_Name": "ABB M3BP-225",
+      "Failure_Date": "2025-02-28",
+      "Root_Cause": "Bearing lack of lubrication / overheating",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8026",
+      "Asset_ID": "SI-27",
+      "Equipment_Name": "Siemens 1LE1001-2A",
+      "Failure_Date": "2025-12-31",
+      "Root_Cause": "Phase unbalance",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8027",
+      "Asset_ID": "GR-40",
+      "Equipment_Name": "Grundfos CR-45",
+      "Failure_Date": "2025-10-15",
+      "Root_Cause": "Misalignment of coupling",
+      "Downtime": "0",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8028",
+      "Asset_ID": "AB-34",
+      "Equipment_Name": "ABB M3BP-180",
+      "Failure_Date": "2025-07-18",
+      "Root_Cause": "Phase unbalance",
+      "Downtime": "0",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8029",
+      "Asset_ID": "GR-12",
+      "Equipment_Name": "Grundfos CR-32",
+      "Failure_Date": "2025-10-09",
+      "Root_Cause": "Mechanical seal dry wearing",
+      "Downtime": "0",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8030",
+      "Asset_ID": "KS-45",
+      "Equipment_Name": "KSB Omega-80",
+      "Failure_Date": "2025-09-07",
+      "Root_Cause": "Mechanical seal dry wearing",
+      "Downtime": "0",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8031",
+      "Asset_ID": "SI-07",
+      "Equipment_Name": "Siemens 1LE1001-1A",
+      "Failure_Date": "2025-12-01",
+      "Root_Cause": "Bearing lack of lubrication / overheating",
+      "Downtime": "0",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8032",
+      "Asset_ID": "AB-10",
+      "Equipment_Name": "ABB M3BP-200",
+      "Failure_Date": "2026-01-06",
+      "Root_Cause": "Insulation breakdown due to voltage surge",
+      "Downtime": "0",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8033",
+      "Asset_ID": "KS-45",
+      "Equipment_Name": "KSB Omega-80",
+      "Failure_Date": "2025-11-11",
+      "Root_Cause": "Dry running / cavitation",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8034",
+      "Asset_ID": "KS-17",
+      "Equipment_Name": "KSB Omega-50",
+      "Failure_Date": "2025-03-23",
+      "Root_Cause": "Mechanical seal dry wearing",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8035",
+      "Asset_ID": "AB-26",
+      "Equipment_Name": "ABB M3BP-200",
+      "Failure_Date": "2026-01-07",
+      "Root_Cause": "Phase unbalance",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8036",
+      "Asset_ID": "KS-21",
+      "Equipment_Name": "KSB Omega-50",
+      "Failure_Date": "2026-02-06",
+      "Root_Cause": "Impeller blockage from external solid debris",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8037",
+      "Asset_ID": "GR-28",
+      "Equipment_Name": "Grundfos CR-15",
+      "Failure_Date": "2025-09-30",
+      "Root_Cause": "Impeller blockage from external solid debris",
+      "Downtime": "0",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8038",
+      "Asset_ID": "AB-46",
+      "Equipment_Name": "ABB M3BP-225",
+      "Failure_Date": "2025-06-01",
+      "Root_Cause": "Overloading causing thermal trip",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8039",
+      "Asset_ID": "AB-02",
+      "Equipment_Name": "ABB M3BP-160",
+      "Failure_Date": "2025-07-07",
+      "Root_Cause": "Insulation breakdown due to voltage surge",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8040",
+      "Asset_ID": "SI-43",
+      "Equipment_Name": "Siemens 1LE1001-1B",
+      "Failure_Date": "2025-05-11",
+      "Root_Cause": "Phase unbalance",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8041",
+      "Asset_ID": "KS-01",
+      "Equipment_Name": "KSB Omega-125",
+      "Failure_Date": "2025-07-02",
+      "Root_Cause": "Misalignment of coupling",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8042",
+      "Asset_ID": "GR-36",
+      "Equipment_Name": "Grundfos CR-45",
+      "Failure_Date": "2025-02-08",
+      "Root_Cause": "Misalignment of coupling",
+      "Downtime": "0",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8043",
+      "Asset_ID": "AB-26",
+      "Equipment_Name": "ABB M3BP-200",
+      "Failure_Date": "2025-01-04",
+      "Root_Cause": "Insulation breakdown due to voltage surge",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8044",
+      "Asset_ID": "KS-29",
+      "Equipment_Name": "KSB Omega-50",
+      "Failure_Date": "2026-02-13",
+      "Root_Cause": "Mechanical seal dry wearing",
+      "Downtime": "0",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8045",
+      "Asset_ID": "KS-21",
+      "Equipment_Name": "KSB Omega-50",
+      "Failure_Date": "2025-06-10",
+      "Root_Cause": "Dry running / cavitation",
+      "Downtime": "0",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8046",
+      "Asset_ID": "SI-11",
+      "Equipment_Name": "Siemens 1LE1001-1A",
+      "Failure_Date": "2025-04-18",
+      "Root_Cause": "Phase unbalance",
+      "Downtime": "0",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8047",
+      "Asset_ID": "GR-40",
+      "Equipment_Name": "Grundfos CR-45",
+      "Failure_Date": "2025-08-15",
+      "Root_Cause": "Mechanical seal dry wearing",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8048",
+      "Asset_ID": "SI-11",
+      "Equipment_Name": "Siemens 1LE1001-1A",
+      "Failure_Date": "2026-02-18",
+      "Root_Cause": "Bearing lack of lubrication / overheating",
+      "Downtime": "0",
+      "Resolution_Status": "Closed"
+    },
+    {
+      "Ticket_ID": "BRK-8049",
+      "Asset_ID": "GR-36",
+      "Equipment_Name": "Grundfos CR-45",
+      "Failure_Date": "2025-10-01",
+      "Root_Cause": "Misalignment of coupling",
+      "Downtime": "24",
+      "Resolution_Status": "Closed"
+    }
+  ]
+}

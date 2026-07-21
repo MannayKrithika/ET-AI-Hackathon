@@ -1,0 +1,702 @@
+[
+  {
+    "chunk_id": "PMP-GR-16_001",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 1,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5000\nAsset_ID: PMP-GR-16\nEquipment_Name: Grundfos CR-32\nInspection_Date: 2025-10-30\nCheckpoint_Evaluated: Mechanical seal leakage rate\nResult: Fail\nInspector: QA-2 Lead Tech\nRemarksNotes: Exceeded acceptable operational thresholds. Maintenance triggered.",
+    "metadata": {
+      "equipment": "Grundfos CR-32",
+      "asset_id": "PMP-GR-16"
+    },
+    "word_count": 27
+  },
+  {
+    "chunk_id": "PMP-GR-08_002",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 2,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5001\nAsset_ID: PMP-GR-08\nEquipment_Name: Grundfos CR-15\nInspection_Date: 2025-01-28\nCheckpoint_Evaluated: Mechanical seal leakage rate\nResult: Pass\nInspector: QA-2 Lead Tech\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "Grundfos CR-15",
+      "asset_id": "PMP-GR-08"
+    },
+    "word_count": 24
+  },
+  {
+    "chunk_id": "PMP-GR-04_003",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 3,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5002\nAsset_ID: PMP-GR-04\nEquipment_Name: Grundfos CR-10\nInspection_Date: 2025-12-31\nCheckpoint_Evaluated: Vibration levels baseline\nResult: Pass\nInspector: Chief Inspector\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "Grundfos CR-10",
+      "asset_id": "PMP-GR-04"
+    },
+    "word_count": 22
+  },
+  {
+    "chunk_id": "PMP-GR-40_004",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 4,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5003\nAsset_ID: PMP-GR-40\nEquipment_Name: Grundfos CR-45\nInspection_Date: 2026-01-06\nCheckpoint_Evaluated: Mechanical seal leakage rate\nResult: Pass\nInspector: Safety Officer Black\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "Grundfos CR-45",
+      "asset_id": "PMP-GR-40"
+    },
+    "word_count": 24
+  },
+  {
+    "chunk_id": "PMP-GR-04_005",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 5,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5004\nAsset_ID: PMP-GR-04\nEquipment_Name: Grundfos CR-10\nInspection_Date: 2025-08-26\nCheckpoint_Evaluated: Mechanical seal leakage rate\nResult: Pass\nInspector: QA-1 Inspector\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "Grundfos CR-10",
+      "asset_id": "PMP-GR-04"
+    },
+    "word_count": 23
+  },
+  {
+    "chunk_id": "PMP-KS-25_006",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 6,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5005\nAsset_ID: PMP-KS-25\nEquipment_Name: KSB Omega-125\nInspection_Date: 2025-10-01\nCheckpoint_Evaluated: Vibration levels baseline\nResult: Pass\nInspector: Safety Officer Black\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "KSB Omega-125",
+      "asset_id": "PMP-KS-25"
+    },
+    "word_count": 23
+  },
+  {
+    "chunk_id": "MTR-SI-03_007",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 7,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5006\nAsset_ID: MTR-SI-03\nEquipment_Name: Siemens 1LE1001-2A\nInspection_Date: 2025-01-15\nCheckpoint_Evaluated: Terminal box terminal secure\nResult: Pass\nInspector: QA-1 Inspector\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-2A",
+      "asset_id": "MTR-SI-03"
+    },
+    "word_count": 23
+  },
+  {
+    "chunk_id": "PMP-GR-32_008",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 8,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5007\nAsset_ID: PMP-GR-32\nEquipment_Name: Grundfos CR-10\nInspection_Date: 2025-01-28\nCheckpoint_Evaluated: Vibration levels baseline\nResult: Pass\nInspector: QA-1 Inspector\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "Grundfos CR-10",
+      "asset_id": "PMP-GR-32"
+    },
+    "word_count": 22
+  },
+  {
+    "chunk_id": "MTR-SI-03_009",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 9,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5008\nAsset_ID: MTR-SI-03\nEquipment_Name: Siemens 1LE1001-2A\nInspection_Date: 2025-08-19\nCheckpoint_Evaluated: Amperage draw balanced\nResult: Pass\nInspector: Chief Inspector\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-2A",
+      "asset_id": "MTR-SI-03"
+    },
+    "word_count": 22
+  },
+  {
+    "chunk_id": "MTR-SI-27_010",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 10,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5009\nAsset_ID: MTR-SI-27\nEquipment_Name: Siemens 1LE1001-2A\nInspection_Date: 2025-01-25\nCheckpoint_Evaluated: Stator temperature parameters\nResult: Pass\nInspector: QA-1 Inspector\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-2A",
+      "asset_id": "MTR-SI-27"
+    },
+    "word_count": 22
+  },
+  {
+    "chunk_id": "PMP-KS-29_011",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 11,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5010\nAsset_ID: PMP-KS-29\nEquipment_Name: KSB Omega-50\nInspection_Date: 2025-03-09\nCheckpoint_Evaluated: Vibration levels baseline\nResult: Pass\nInspector: QA-1 Inspector\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "KSB Omega-50",
+      "asset_id": "PMP-KS-29"
+    },
+    "word_count": 22
+  },
+  {
+    "chunk_id": "PMP-GR-32_012",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 12,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5011\nAsset_ID: PMP-GR-32\nEquipment_Name: Grundfos CR-10\nInspection_Date: 2025-05-26\nCheckpoint_Evaluated: Mechanical seal leakage rate\nResult: Pass\nInspector: QA-2 Lead Tech\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "Grundfos CR-10",
+      "asset_id": "PMP-GR-32"
+    },
+    "word_count": 24
+  },
+  {
+    "chunk_id": "MTR-AB-50_013",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 13,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5012\nAsset_ID: MTR-AB-50\nEquipment_Name: ABB M3BP-160\nInspection_Date: 2025-02-03\nCheckpoint_Evaluated: Frame grounding integrity\nResult: Pass\nInspector: QA-1 Inspector\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "ABB M3BP-160",
+      "asset_id": "MTR-AB-50"
+    },
+    "word_count": 22
+  },
+  {
+    "chunk_id": "MTR-SI-19_014",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 14,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5013\nAsset_ID: MTR-SI-19\nEquipment_Name: Siemens 1LE1001-1B\nInspection_Date: 2025-08-24\nCheckpoint_Evaluated: Frame grounding integrity\nResult: Pass\nInspector: QA-1 Inspector\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-1B",
+      "asset_id": "MTR-SI-19"
+    },
+    "word_count": 22
+  },
+  {
+    "chunk_id": "PMP-KS-21_015",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 15,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5014\nAsset_ID: PMP-KS-21\nEquipment_Name: KSB Omega-50\nInspection_Date: 2025-01-06\nCheckpoint_Evaluated: Coupling alignment\nResult: Pass\nInspector: QA-2 Lead Tech\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "KSB Omega-50",
+      "asset_id": "PMP-KS-21"
+    },
+    "word_count": 22
+  },
+  {
+    "chunk_id": "PMP-KS-05_016",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 16,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5015\nAsset_ID: PMP-KS-05\nEquipment_Name: KSB Omega-125\nInspection_Date: 2026-03-19\nCheckpoint_Evaluated: Coupling alignment\nResult: Pass\nInspector: QA-2 Lead Tech\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "KSB Omega-125",
+      "asset_id": "PMP-KS-05"
+    },
+    "word_count": 22
+  },
+  {
+    "chunk_id": "MTR-AB-18_017",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 17,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5016\nAsset_ID: MTR-AB-18\nEquipment_Name: ABB M3BP-180\nInspection_Date: 2025-08-17\nCheckpoint_Evaluated: Stator temperature parameters\nResult: Pass\nInspector: QA-2 Lead Tech\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "ABB M3BP-180",
+      "asset_id": "MTR-AB-18"
+    },
+    "word_count": 23
+  },
+  {
+    "chunk_id": "PMP-GR-28_018",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 18,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5017\nAsset_ID: PMP-GR-28\nEquipment_Name: Grundfos CR-15\nInspection_Date: 2025-10-04\nCheckpoint_Evaluated: Vibration levels baseline\nResult: Pass\nInspector: Chief Inspector\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "Grundfos CR-15",
+      "asset_id": "PMP-GR-28"
+    },
+    "word_count": 22
+  },
+  {
+    "chunk_id": "MTR-AB-42_019",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 19,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5018\nAsset_ID: MTR-AB-42\nEquipment_Name: ABB M3BP-200\nInspection_Date: 2025-01-04\nCheckpoint_Evaluated: Amperage draw balanced\nResult: Pass\nInspector: QA-2 Lead Tech\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "ABB M3BP-200",
+      "asset_id": "MTR-AB-42"
+    },
+    "word_count": 23
+  },
+  {
+    "chunk_id": "MTR-AB-22_020",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 20,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5019\nAsset_ID: MTR-AB-22\nEquipment_Name: ABB M3BP-180\nInspection_Date: 2025-12-16\nCheckpoint_Evaluated: Frame grounding integrity\nResult: Pass\nInspector: QA-1 Inspector\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "ABB M3BP-180",
+      "asset_id": "MTR-AB-22"
+    },
+    "word_count": 22
+  },
+  {
+    "chunk_id": "PMP-KS-21_021",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 21,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5020\nAsset_ID: PMP-KS-21\nEquipment_Name: KSB Omega-50\nInspection_Date: 2025-09-04\nCheckpoint_Evaluated: Mechanical seal leakage rate\nResult: Pass\nInspector: Chief Inspector\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "KSB Omega-50",
+      "asset_id": "PMP-KS-21"
+    },
+    "word_count": 23
+  },
+  {
+    "chunk_id": "MTR-AB-06_022",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 22,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5021\nAsset_ID: MTR-AB-06\nEquipment_Name: ABB M3BP-225\nInspection_Date: 2025-08-17\nCheckpoint_Evaluated: Terminal box terminal secure\nResult: Fail\nInspector: QA-2 Lead Tech\nRemarksNotes: Exceeded acceptable operational thresholds. Maintenance triggered.",
+    "metadata": {
+      "equipment": "ABB M3BP-225",
+      "asset_id": "MTR-AB-06"
+    },
+    "word_count": 27
+  },
+  {
+    "chunk_id": "PMP-KS-01_023",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 23,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5022\nAsset_ID: PMP-KS-01\nEquipment_Name: KSB Omega-125\nInspection_Date: 2025-11-18\nCheckpoint_Evaluated: Coupling alignment\nResult: Fail\nInspector: Chief Inspector\nRemarksNotes: Exceeded acceptable operational thresholds. Maintenance triggered.",
+    "metadata": {
+      "equipment": "KSB Omega-125",
+      "asset_id": "PMP-KS-01"
+    },
+    "word_count": 24
+  },
+  {
+    "chunk_id": "PMP-KS-05_024",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 24,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5023\nAsset_ID: PMP-KS-05\nEquipment_Name: KSB Omega-125\nInspection_Date: 2025-12-01\nCheckpoint_Evaluated: Vibration levels baseline\nResult: Fail\nInspector: QA-2 Lead Tech\nRemarksNotes: Exceeded acceptable operational thresholds. Maintenance triggered.",
+    "metadata": {
+      "equipment": "KSB Omega-125",
+      "asset_id": "PMP-KS-05"
+    },
+    "word_count": 26
+  },
+  {
+    "chunk_id": "PMP-KS-41_025",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 25,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5024\nAsset_ID: PMP-KS-41\nEquipment_Name: KSB Omega-125\nInspection_Date: 2026-03-11\nCheckpoint_Evaluated: Vibration levels baseline\nResult: Fail\nInspector: Safety Officer Black\nRemarksNotes: Exceeded acceptable operational thresholds. Maintenance triggered.",
+    "metadata": {
+      "equipment": "KSB Omega-125",
+      "asset_id": "PMP-KS-41"
+    },
+    "word_count": 26
+  },
+  {
+    "chunk_id": "PMP-GR-12_026",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 26,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5025\nAsset_ID: PMP-GR-12\nEquipment_Name: Grundfos CR-32\nInspection_Date: 2025-07-22\nCheckpoint_Evaluated: Coupling alignment\nResult: Pass\nInspector: QA-1 Inspector\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "Grundfos CR-32",
+      "asset_id": "PMP-GR-12"
+    },
+    "word_count": 21
+  },
+  {
+    "chunk_id": "MTR-AB-26_027",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 27,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5026\nAsset_ID: MTR-AB-26\nEquipment_Name: ABB M3BP-200\nInspection_Date: 2025-10-27\nCheckpoint_Evaluated: Stator temperature parameters\nResult: Pass\nInspector: QA-2 Lead Tech\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "ABB M3BP-200",
+      "asset_id": "MTR-AB-26"
+    },
+    "word_count": 23
+  },
+  {
+    "chunk_id": "MTR-AB-46_028",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 28,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5027\nAsset_ID: MTR-AB-46\nEquipment_Name: ABB M3BP-225\nInspection_Date: 2025-11-20\nCheckpoint_Evaluated: Frame grounding integrity\nResult: Pass\nInspector: Chief Inspector\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "ABB M3BP-225",
+      "asset_id": "MTR-AB-46"
+    },
+    "word_count": 22
+  },
+  {
+    "chunk_id": "MTR-AB-34_029",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 29,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5028\nAsset_ID: MTR-AB-34\nEquipment_Name: ABB M3BP-180\nInspection_Date: 2025-04-23\nCheckpoint_Evaluated: Terminal box terminal secure\nResult: Pass\nInspector: QA-2 Lead Tech\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "ABB M3BP-180",
+      "asset_id": "MTR-AB-34"
+    },
+    "word_count": 24
+  },
+  {
+    "chunk_id": "PMP-KS-49_030",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 30,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5029\nAsset_ID: PMP-KS-49\nEquipment_Name: KSB Omega-125\nInspection_Date: 2025-05-22\nCheckpoint_Evaluated: Coupling alignment\nResult: Pass\nInspector: QA-2 Lead Tech\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "KSB Omega-125",
+      "asset_id": "PMP-KS-49"
+    },
+    "word_count": 22
+  },
+  {
+    "chunk_id": "MTR-AB-14_031",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 31,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5030\nAsset_ID: MTR-AB-14\nEquipment_Name: ABB M3BP-225\nInspection_Date: 2025-05-19\nCheckpoint_Evaluated: Frame grounding integrity\nResult: Pass\nInspector: Safety Officer Black\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "ABB M3BP-225",
+      "asset_id": "MTR-AB-14"
+    },
+    "word_count": 23
+  },
+  {
+    "chunk_id": "MTR-AB-26_032",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 32,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5031\nAsset_ID: MTR-AB-26\nEquipment_Name: ABB M3BP-200\nInspection_Date: 2025-09-16\nCheckpoint_Evaluated: Stator temperature parameters\nResult: Pass\nInspector: Chief Inspector\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "ABB M3BP-200",
+      "asset_id": "MTR-AB-26"
+    },
+    "word_count": 22
+  },
+  {
+    "chunk_id": "PMP-KS-45_033",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 33,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5032\nAsset_ID: PMP-KS-45\nEquipment_Name: KSB Omega-80\nInspection_Date: 2025-01-10\nCheckpoint_Evaluated: Suction/Discharge pressure checks\nResult: Pass\nInspector: Chief Inspector\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "KSB Omega-80",
+      "asset_id": "PMP-KS-45"
+    },
+    "word_count": 22
+  },
+  {
+    "chunk_id": "MTR-SI-27_034",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 34,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5033\nAsset_ID: MTR-SI-27\nEquipment_Name: Siemens 1LE1001-2A\nInspection_Date: 2026-01-21\nCheckpoint_Evaluated: Stator temperature parameters\nResult: Pass\nInspector: Chief Inspector\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-2A",
+      "asset_id": "MTR-SI-27"
+    },
+    "word_count": 22
+  },
+  {
+    "chunk_id": "PMP-KS-09_035",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 35,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5034\nAsset_ID: PMP-KS-09\nEquipment_Name: KSB Omega-100\nInspection_Date: 2025-11-17\nCheckpoint_Evaluated: Mechanical seal leakage rate\nResult: Pass\nInspector: QA-1 Inspector\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "KSB Omega-100",
+      "asset_id": "PMP-KS-09"
+    },
+    "word_count": 23
+  },
+  {
+    "chunk_id": "MTR-AB-26_036",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 36,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5035\nAsset_ID: MTR-AB-26\nEquipment_Name: ABB M3BP-200\nInspection_Date: 2025-09-22\nCheckpoint_Evaluated: Frame grounding integrity\nResult: Pass\nInspector: QA-2 Lead Tech\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "ABB M3BP-200",
+      "asset_id": "MTR-AB-26"
+    },
+    "word_count": 23
+  },
+  {
+    "chunk_id": "MTR-SI-47_037",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 37,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5036\nAsset_ID: MTR-SI-47\nEquipment_Name: Siemens 1LE1001-1A\nInspection_Date: 2026-02-23\nCheckpoint_Evaluated: Amperage draw balanced\nResult: Pass\nInspector: QA-1 Inspector\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-1A",
+      "asset_id": "MTR-SI-47"
+    },
+    "word_count": 22
+  },
+  {
+    "chunk_id": "MTR-AB-22_038",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 38,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5037\nAsset_ID: MTR-AB-22\nEquipment_Name: ABB M3BP-180\nInspection_Date: 2025-11-14\nCheckpoint_Evaluated: Terminal box terminal secure\nResult: Fail\nInspector: QA-2 Lead Tech\nRemarksNotes: Exceeded acceptable operational thresholds. Maintenance triggered.",
+    "metadata": {
+      "equipment": "ABB M3BP-180",
+      "asset_id": "MTR-AB-22"
+    },
+    "word_count": 27
+  },
+  {
+    "chunk_id": "MTR-SI-47_039",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 39,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5038\nAsset_ID: MTR-SI-47\nEquipment_Name: Siemens 1LE1001-1A\nInspection_Date: 2026-01-08\nCheckpoint_Evaluated: Terminal box terminal secure\nResult: Fail\nInspector: QA-2 Lead Tech\nRemarksNotes: Exceeded acceptable operational thresholds. Maintenance triggered.",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-1A",
+      "asset_id": "MTR-SI-47"
+    },
+    "word_count": 27
+  },
+  {
+    "chunk_id": "MTR-AB-30_040",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 40,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5039\nAsset_ID: MTR-AB-30\nEquipment_Name: ABB M3BP-225\nInspection_Date: 2025-03-17\nCheckpoint_Evaluated: Frame grounding integrity\nResult: Pass\nInspector: Chief Inspector\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "ABB M3BP-225",
+      "asset_id": "MTR-AB-30"
+    },
+    "word_count": 22
+  },
+  {
+    "chunk_id": "MTR-SI-43_041",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 41,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5040\nAsset_ID: MTR-SI-43\nEquipment_Name: Siemens 1LE1001-1B\nInspection_Date: 2025-11-16\nCheckpoint_Evaluated: Amperage draw balanced\nResult: Pass\nInspector: QA-1 Inspector\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-1B",
+      "asset_id": "MTR-SI-43"
+    },
+    "word_count": 22
+  },
+  {
+    "chunk_id": "PMP-GR-48_042",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 42,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5041\nAsset_ID: PMP-GR-48\nEquipment_Name: Grundfos CR-64\nInspection_Date: 2025-11-24\nCheckpoint_Evaluated: Mechanical seal leakage rate\nResult: Pass\nInspector: QA-2 Lead Tech\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "Grundfos CR-64",
+      "asset_id": "PMP-GR-48"
+    },
+    "word_count": 24
+  },
+  {
+    "chunk_id": "PMP-KS-17_043",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 43,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5042\nAsset_ID: PMP-KS-17\nEquipment_Name: KSB Omega-50\nInspection_Date: 2025-11-12\nCheckpoint_Evaluated: Vibration levels baseline\nResult: Pass\nInspector: QA-1 Inspector\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "KSB Omega-50",
+      "asset_id": "PMP-KS-17"
+    },
+    "word_count": 22
+  },
+  {
+    "chunk_id": "MTR-AB-26_044",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 44,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5043\nAsset_ID: MTR-AB-26\nEquipment_Name: ABB M3BP-200\nInspection_Date: 2025-01-05\nCheckpoint_Evaluated: Frame grounding integrity\nResult: Pass\nInspector: QA-2 Lead Tech\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "ABB M3BP-200",
+      "asset_id": "MTR-AB-26"
+    },
+    "word_count": 23
+  },
+  {
+    "chunk_id": "PMP-GR-36_045",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 45,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5044\nAsset_ID: PMP-GR-36\nEquipment_Name: Grundfos CR-45\nInspection_Date: 2025-03-03\nCheckpoint_Evaluated: Coupling alignment\nResult: Pass\nInspector: QA-2 Lead Tech\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "Grundfos CR-45",
+      "asset_id": "PMP-GR-36"
+    },
+    "word_count": 22
+  },
+  {
+    "chunk_id": "PMP-KS-01_046",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 46,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5045\nAsset_ID: PMP-KS-01\nEquipment_Name: KSB Omega-125\nInspection_Date: 2025-03-30\nCheckpoint_Evaluated: Vibration levels baseline\nResult: Pass\nInspector: Safety Officer Black\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "KSB Omega-125",
+      "asset_id": "PMP-KS-01"
+    },
+    "word_count": 23
+  },
+  {
+    "chunk_id": "PMP-GR-08_047",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 47,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5046\nAsset_ID: PMP-GR-08\nEquipment_Name: Grundfos CR-15\nInspection_Date: 2025-04-14\nCheckpoint_Evaluated: Vibration levels baseline\nResult: Pass\nInspector: QA-1 Inspector\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "Grundfos CR-15",
+      "asset_id": "PMP-GR-08"
+    },
+    "word_count": 22
+  },
+  {
+    "chunk_id": "PMP-KS-49_048",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 48,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5047\nAsset_ID: PMP-KS-49\nEquipment_Name: KSB Omega-125\nInspection_Date: 2026-02-26\nCheckpoint_Evaluated: Suction/Discharge pressure checks\nResult: Pass\nInspector: Safety Officer Black\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "KSB Omega-125",
+      "asset_id": "PMP-KS-49"
+    },
+    "word_count": 23
+  },
+  {
+    "chunk_id": "MTR-SI-35_049",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 49,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5048\nAsset_ID: MTR-SI-35\nEquipment_Name: Siemens 1LE1001-1A\nInspection_Date: 2025-06-02\nCheckpoint_Evaluated: Stator temperature parameters\nResult: Pass\nInspector: Safety Officer Black\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-1A",
+      "asset_id": "MTR-SI-35"
+    },
+    "word_count": 23
+  },
+  {
+    "chunk_id": "MTR-SI-15_050",
+    "document_name": "Equipment_Inspection_Checklist.xlsx",
+    "document_type": "Inspection Report",
+    "chunk_number": 50,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Inspection_ID: INSP-5049\nAsset_ID: MTR-SI-15\nEquipment_Name: Siemens 1LE1001-1A\nInspection_Date: 2026-03-26\nCheckpoint_Evaluated: Amperage draw balanced\nResult: Pass\nInspector: Chief Inspector\nRemarksNotes: All parameters nominal",
+    "metadata": {
+      "equipment": "Siemens 1LE1001-1A",
+      "asset_id": "MTR-SI-15"
+    },
+    "word_count": 22
+  }
+]

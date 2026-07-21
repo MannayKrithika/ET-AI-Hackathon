@@ -1,0 +1,4648 @@
+{
+  "dim": 384,
+  "total_chunks": 300,
+  "chunk_ids": [
+    "PMP-KS-01_001",
+    "MTR-AB-02_002",
+    "MTR-SI-03_003",
+    "PMP-GR-04_004",
+    "PMP-KS-05_005",
+    "MTR-AB-06_006",
+    "MTR-SI-07_007",
+    "PMP-GR-08_008",
+    "PMP-KS-09_009",
+    "MTR-AB-10_010",
+    "MTR-SI-11_011",
+    "PMP-GR-12_012",
+    "PMP-KS-13_013",
+    "MTR-AB-14_014",
+    "MTR-SI-15_015",
+    "PMP-GR-16_016",
+    "PMP-KS-17_017",
+    "MTR-AB-18_018",
+    "MTR-SI-19_019",
+    "PMP-GR-20_020",
+    "PMP-KS-21_021",
+    "MTR-AB-22_022",
+    "MTR-SI-23_023",
+    "PMP-GR-24_024",
+    "PMP-KS-25_025",
+    "MTR-AB-26_026",
+    "MTR-SI-27_027",
+    "PMP-GR-28_028",
+    "PMP-KS-29_029",
+    "MTR-AB-30_030",
+    "MTR-SI-31_031",
+    "PMP-GR-32_032",
+    "PMP-KS-33_033",
+    "MTR-AB-34_034",
+    "MTR-SI-35_035",
+    "PMP-GR-36_036",
+    "PMP-KS-37_037",
+    "MTR-AB-38_038",
+    "MTR-SI-39_039",
+    "PMP-GR-40_040",
+    "PMP-KS-41_041",
+    "MTR-AB-42_042",
+    "MTR-SI-43_043",
+    "PMP-GR-44_044",
+    "PMP-KS-45_045",
+    "MTR-AB-46_046",
+    "MTR-SI-47_047",
+    "PMP-GR-48_048",
+    "PMP-KS-49_049",
+    "MTR-AB-50_050",
+    "EQ-2001_001",
+    "EQ-2002_002",
+    "EQ-2003_003",
+    "EQ-2004_004",
+    "EQ-2005_005",
+    "EQ-2006_006",
+    "EQ-2007_007",
+    "EQ-2008_008",
+    "EQ-2009_009",
+    "EQ-2010_010",
+    "EQ-2001_011",
+    "EQ-2002_012",
+    "EQ-2003_013",
+    "EQ-2004_014",
+    "EQ-2005_015",
+    "EQ-2006_016",
+    "EQ-2007_017",
+    "EQ-2008_018",
+    "EQ-2009_019",
+    "EQ-2010_020",
+    "EQ-2001_021",
+    "EQ-2002_022",
+    "EQ-2003_023",
+    "EQ-2004_024",
+    "EQ-2005_025",
+    "EQ-2006_026",
+    "EQ-2007_027",
+    "EQ-2008_028",
+    "EQ-2009_029",
+    "EQ-2010_030",
+    "EQ-2001_031",
+    "EQ-2002_032",
+    "EQ-2003_033",
+    "EQ-2004_034",
+    "EQ-2005_035",
+    "EQ-2006_036",
+    "EQ-2007_037",
+    "EQ-2008_038",
+    "EQ-2009_039",
+    "EQ-2010_040",
+    "EQ-2001_041",
+    "EQ-2002_042",
+    "EQ-2003_043",
+    "EQ-2004_044",
+    "EQ-2005_045",
+    "EQ-2006_046",
+    "EQ-2007_047",
+    "EQ-2008_048",
+    "EQ-2009_049",
+    "EQ-2010_050",
+    "EQ-2001_051",
+    "EQ-2002_052",
+    "EQ-2003_053",
+    "EQ-2004_054",
+    "EQ-2005_055",
+    "EQ-2006_056",
+    "EQ-2007_057",
+    "EQ-2008_058",
+    "EQ-2009_059",
+    "EQ-2010_060",
+    "EQ-2001_061",
+    "EQ-2002_062",
+    "EQ-2003_063",
+    "EQ-2004_064",
+    "EQ-2005_065",
+    "EQ-2006_066",
+    "EQ-2007_067",
+    "EQ-2008_068",
+    "EQ-2009_069",
+    "EQ-2010_070",
+    "EQ-2001_071",
+    "EQ-2002_072",
+    "EQ-2003_073",
+    "EQ-2004_074",
+    "EQ-2005_075",
+    "EQ-2006_076",
+    "EQ-2007_077",
+    "EQ-2008_078",
+    "EQ-2009_079",
+    "EQ-2010_080",
+    "EQ-2001_081",
+    "EQ-2002_082",
+    "EQ-2003_083",
+    "EQ-2004_084",
+    "EQ-2005_085",
+    "EQ-2006_086",
+    "EQ-2007_087",
+    "EQ-2008_088",
+    "EQ-2009_089",
+    "EQ-2010_090",
+    "EQ-2001_091",
+    "EQ-2002_092",
+    "EQ-2003_093",
+    "EQ-2004_094",
+    "EQ-2005_095",
+    "EQ-2006_096",
+    "EQ-2007_097",
+    "EQ-2008_098",
+    "EQ-2009_099",
+    "EQ-2010_100",
+    "EQ-2001_101",
+    "EQ-2002_102",
+    "EQ-2003_103",
+    "EQ-2004_104",
+    "EQ-2005_105",
+    "EQ-2006_106",
+    "EQ-2007_107",
+    "EQ-2008_108",
+    "EQ-2009_109",
+    "EQ-2010_110",
+    "EQ-2001_111",
+    "EQ-2002_112",
+    "EQ-2003_113",
+    "EQ-2004_114",
+    "EQ-2005_115",
+    "EQ-2006_116",
+    "EQ-2007_117",
+    "EQ-2008_118",
+    "EQ-2009_119",
+    "EQ-2010_120",
+    "EQ-2001_121",
+    "EQ-2002_122",
+    "EQ-2003_123",
+    "EQ-2004_124",
+    "EQ-2005_125",
+    "EQ-2006_126",
+    "EQ-2007_127",
+    "EQ-2008_128",
+    "EQ-2009_129",
+    "EQ-2010_130",
+    "EQ-2001_131",
+    "EQ-2002_132",
+    "EQ-2003_133",
+    "EQ-2004_134",
+    "EQ-2005_135",
+    "EQ-2006_136",
+    "EQ-2007_137",
+    "EQ-2008_138",
+    "EQ-2009_139",
+    "EQ-2010_140",
+    "EQ-2001_141",
+    "EQ-2002_142",
+    "EQ-2003_143",
+    "EQ-2004_144",
+    "EQ-2005_145",
+    "EQ-2006_146",
+    "EQ-2007_147",
+    "EQ-2008_148",
+    "EQ-2009_149",
+    "EQ-2010_150",
+    "EQ-2001_151",
+    "EQ-2002_152",
+    "EQ-2003_153",
+    "EQ-2004_154",
+    "EQ-2005_155",
+    "EQ-2006_156",
+    "EQ-2007_157",
+    "EQ-2008_158",
+    "EQ-2009_159",
+    "EQ-2010_160",
+    "EQ-2001_161",
+    "EQ-2002_162",
+    "EQ-2003_163",
+    "EQ-2004_164",
+    "EQ-2005_165",
+    "EQ-2006_166",
+    "EQ-2007_167",
+    "EQ-2008_168",
+    "EQ-2009_169",
+    "EQ-2010_170",
+    "EQ-2001_171",
+    "EQ-2002_172",
+    "EQ-2003_173",
+    "EQ-2004_174",
+    "EQ-2005_175",
+    "EQ-2006_176",
+    "EQ-2007_177",
+    "EQ-2008_178",
+    "EQ-2009_179",
+    "EQ-2010_180",
+    "EQ-2001_181",
+    "EQ-2002_182",
+    "EQ-2003_183",
+    "EQ-2004_184",
+    "EQ-2005_185",
+    "EQ-2006_186",
+    "EQ-2007_187",
+    "EQ-2008_188",
+    "EQ-2009_189",
+    "EQ-2010_190",
+    "EQ-2001_191",
+    "EQ-2002_192",
+    "EQ-2003_193",
+    "EQ-2004_194",
+    "EQ-2005_195",
+    "EQ-2006_196",
+    "EQ-2007_197",
+    "EQ-2008_198",
+    "EQ-2009_199",
+    "EQ-2010_200",
+    "06a0276b_spare_parts_inventory_1_001",
+    "06a0276b_spare_parts_inventory_1_002",
+    "06a0276b_spare_parts_inventory_1_003",
+    "06a0276b_spare_parts_inventory_1_004",
+    "06a0276b_spare_parts_inventory_1_005",
+    "06a0276b_spare_parts_inventory_1_006",
+    "06a0276b_spare_parts_inventory_1_007",
+    "06a0276b_spare_parts_inventory_1_008",
+    "06a0276b_spare_parts_inventory_1_009",
+    "06a0276b_spare_parts_inventory_1_010",
+    "06a0276b_spare_parts_inventory_1_011",
+    "06a0276b_spare_parts_inventory_1_012",
+    "06a0276b_spare_parts_inventory_1_013",
+    "06a0276b_spare_parts_inventory_1_014",
+    "06a0276b_spare_parts_inventory_1_015",
+    "06a0276b_spare_parts_inventory_1_016",
+    "06a0276b_spare_parts_inventory_1_017",
+    "06a0276b_spare_parts_inventory_1_018",
+    "06a0276b_spare_parts_inventory_1_019",
+    "06a0276b_spare_parts_inventory_1_020",
+    "06a0276b_spare_parts_inventory_1_021",
+    "06a0276b_spare_parts_inventory_1_022",
+    "06a0276b_spare_parts_inventory_1_023",
+    "06a0276b_spare_parts_inventory_1_024",
+    "06a0276b_spare_parts_inventory_1_025",
+    "06a0276b_spare_parts_inventory_1_026",
+    "06a0276b_spare_parts_inventory_1_027",
+    "06a0276b_spare_parts_inventory_1_028",
+    "06a0276b_spare_parts_inventory_1_029",
+    "06a0276b_spare_parts_inventory_1_030",
+    "06a0276b_spare_parts_inventory_1_031",
+    "06a0276b_spare_parts_inventory_1_032",
+    "06a0276b_spare_parts_inventory_1_033",
+    "06a0276b_spare_parts_inventory_1_034",
+    "06a0276b_spare_parts_inventory_1_035",
+    "06a0276b_spare_parts_inventory_1_036",
+    "06a0276b_spare_parts_inventory_1_037",
+    "06a0276b_spare_parts_inventory_1_038",
+    "06a0276b_spare_parts_inventory_1_039",
+    "06a0276b_spare_parts_inventory_1_040",
+    "06a0276b_spare_parts_inventory_1_041",
+    "06a0276b_spare_parts_inventory_1_042",
+    "06a0276b_spare_parts_inventory_1_043",
+    "06a0276b_spare_parts_inventory_1_044",
+    "06a0276b_spare_parts_inventory_1_045",
+    "06a0276b_spare_parts_inventory_1_046",
+    "06a0276b_spare_parts_inventory_1_047",
+    "06a0276b_spare_parts_inventory_1_048",
+    "06a0276b_spare_parts_inventory_1_049",
+    "06a0276b_spare_parts_inventory_1_050"
+  ],
+  "chunks": {
+    "PMP-KS-01_001": {
+      "chunk_id": "PMP-KS-01_001",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 1,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: PMP-KS-01\nManufacturer: KSB\nModel_Number: Omega-125\nCategory: Pump\nSpecification: 45 m\u00b3/h, 40m\nLocation: Zone Alpha\nInstallation_Date: 2024-03-26\nCriticality: Medium",
+      "metadata": {
+        "asset_id": "PMP-KS-01"
+      },
+      "word_count": 19
+    },
+    "MTR-AB-02_002": {
+      "chunk_id": "MTR-AB-02_002",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 2,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: MTR-AB-02\nManufacturer: ABB\nModel_Number: M3BP-160\nCategory: Motor\nSpecification: 11 kW, 1450 RPM\nLocation: Zone Alpha\nInstallation_Date: 2024-02-27\nCriticality: Critical",
+      "metadata": {
+        "asset_id": "MTR-AB-02"
+      },
+      "word_count": 20
+    },
+    "MTR-SI-03_003": {
+      "chunk_id": "MTR-SI-03_003",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 3,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: MTR-SI-03\nManufacturer: Siemens\nModel_Number: 1LE1001-2A\nCategory: Motor\nSpecification: 22 kW, 1450 RPM\nLocation: Zone Alpha\nInstallation_Date: 2022-01-27\nCriticality: Medium",
+      "metadata": {
+        "asset_id": "MTR-SI-03"
+      },
+      "word_count": 20
+    },
+    "PMP-GR-04_004": {
+      "chunk_id": "PMP-GR-04_004",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 4,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: PMP-GR-04\nManufacturer: Grundfos\nModel_Number: CR-10\nCategory: Pump\nSpecification: 30 m\u00b3/h, 40m\nLocation: Zone Beta\nInstallation_Date: 2021-08-19\nCriticality: High",
+      "metadata": {
+        "asset_id": "PMP-GR-04"
+      },
+      "word_count": 19
+    },
+    "PMP-KS-05_005": {
+      "chunk_id": "PMP-KS-05_005",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 5,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: PMP-KS-05\nManufacturer: KSB\nModel_Number: Omega-125\nCategory: Pump\nSpecification: 30 m\u00b3/h, 40m\nLocation: Zone Utility\nInstallation_Date: 2023-02-19\nCriticality: High",
+      "metadata": {
+        "asset_id": "PMP-KS-05"
+      },
+      "word_count": 19
+    },
+    "MTR-AB-06_006": {
+      "chunk_id": "MTR-AB-06_006",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 6,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: MTR-AB-06\nManufacturer: ABB\nModel_Number: M3BP-225\nCategory: Motor\nSpecification: 55 kW, 1450 RPM\nLocation: Zone Utility\nInstallation_Date: 2022-12-27\nCriticality: Medium",
+      "metadata": {
+        "asset_id": "MTR-AB-06"
+      },
+      "word_count": 20
+    },
+    "MTR-SI-07_007": {
+      "chunk_id": "MTR-SI-07_007",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 7,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: MTR-SI-07\nManufacturer: Siemens\nModel_Number: 1LE1001-1A\nCategory: Motor\nSpecification: 22 kW, 1450 RPM\nLocation: Zone Gamma\nInstallation_Date: 2022-10-05\nCriticality: Medium",
+      "metadata": {
+        "asset_id": "MTR-SI-07"
+      },
+      "word_count": 20
+    },
+    "PMP-GR-08_008": {
+      "chunk_id": "PMP-GR-08_008",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 8,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: PMP-GR-08\nManufacturer: Grundfos\nModel_Number: CR-15\nCategory: Pump\nSpecification: 30 m\u00b3/h, 80m\nLocation: Zone Beta\nInstallation_Date: 2023-05-21\nCriticality: Critical",
+      "metadata": {
+        "asset_id": "PMP-GR-08"
+      },
+      "word_count": 19
+    },
+    "PMP-KS-09_009": {
+      "chunk_id": "PMP-KS-09_009",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 9,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: PMP-KS-09\nManufacturer: KSB\nModel_Number: Omega-100\nCategory: Pump\nSpecification: 30 m\u00b3/h, 60m\nLocation: Zone Beta\nInstallation_Date: 2023-06-11\nCriticality: Critical",
+      "metadata": {
+        "asset_id": "PMP-KS-09"
+      },
+      "word_count": 19
+    },
+    "MTR-AB-10_010": {
+      "chunk_id": "MTR-AB-10_010",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 10,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: MTR-AB-10\nManufacturer: ABB\nModel_Number: M3BP-200\nCategory: Motor\nSpecification: 11 kW, 2950 RPM\nLocation: Zone Alpha\nInstallation_Date: 2021-04-06\nCriticality: High",
+      "metadata": {
+        "asset_id": "MTR-AB-10"
+      },
+      "word_count": 20
+    },
+    "MTR-SI-11_011": {
+      "chunk_id": "MTR-SI-11_011",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 11,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: MTR-SI-11\nManufacturer: Siemens\nModel_Number: 1LE1001-1A\nCategory: Motor\nSpecification: 55 kW, 1450 RPM\nLocation: Zone Gamma\nInstallation_Date: 2022-06-25\nCriticality: High",
+      "metadata": {
+        "asset_id": "MTR-SI-11"
+      },
+      "word_count": 20
+    },
+    "PMP-GR-12_012": {
+      "chunk_id": "PMP-GR-12_012",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 12,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: PMP-GR-12\nManufacturer: Grundfos\nModel_Number: CR-32\nCategory: Pump\nSpecification: 30 m\u00b3/h, 60m\nLocation: Zone Utility\nInstallation_Date: 2022-08-01\nCriticality: High",
+      "metadata": {
+        "asset_id": "PMP-GR-12"
+      },
+      "word_count": 19
+    },
+    "PMP-KS-13_013": {
+      "chunk_id": "PMP-KS-13_013",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 13,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: PMP-KS-13\nManufacturer: KSB\nModel_Number: Omega-80\nCategory: Pump\nSpecification: 15 m\u00b3/h, 40m\nLocation: Zone Beta\nInstallation_Date: 2023-03-07\nCriticality: Medium",
+      "metadata": {
+        "asset_id": "PMP-KS-13"
+      },
+      "word_count": 19
+    },
+    "MTR-AB-14_014": {
+      "chunk_id": "MTR-AB-14_014",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 14,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: MTR-AB-14\nManufacturer: ABB\nModel_Number: M3BP-225\nCategory: Motor\nSpecification: 37 kW, 2950 RPM\nLocation: Zone Beta\nInstallation_Date: 2021-07-09\nCriticality: Critical",
+      "metadata": {
+        "asset_id": "MTR-AB-14"
+      },
+      "word_count": 20
+    },
+    "MTR-SI-15_015": {
+      "chunk_id": "MTR-SI-15_015",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 15,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: MTR-SI-15\nManufacturer: Siemens\nModel_Number: 1LE1001-1A\nCategory: Motor\nSpecification: 22 kW, 2950 RPM\nLocation: Zone Alpha\nInstallation_Date: 2022-09-20\nCriticality: High",
+      "metadata": {
+        "asset_id": "MTR-SI-15"
+      },
+      "word_count": 20
+    },
+    "PMP-GR-16_016": {
+      "chunk_id": "PMP-GR-16_016",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 16,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: PMP-GR-16\nManufacturer: Grundfos\nModel_Number: CR-32\nCategory: Pump\nSpecification: 30 m\u00b3/h, 60m\nLocation: Zone Utility\nInstallation_Date: 2022-10-11\nCriticality: High",
+      "metadata": {
+        "asset_id": "PMP-GR-16"
+      },
+      "word_count": 19
+    },
+    "PMP-KS-17_017": {
+      "chunk_id": "PMP-KS-17_017",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 17,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: PMP-KS-17\nManufacturer: KSB\nModel_Number: Omega-50\nCategory: Pump\nSpecification: 30 m\u00b3/h, 60m\nLocation: Zone Utility\nInstallation_Date: 2022-10-26\nCriticality: Medium",
+      "metadata": {
+        "asset_id": "PMP-KS-17"
+      },
+      "word_count": 19
+    },
+    "MTR-AB-18_018": {
+      "chunk_id": "MTR-AB-18_018",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 18,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: MTR-AB-18\nManufacturer: ABB\nModel_Number: M3BP-180\nCategory: Motor\nSpecification: 11 kW, 2950 RPM\nLocation: Zone Alpha\nInstallation_Date: 2022-03-18\nCriticality: Medium",
+      "metadata": {
+        "asset_id": "MTR-AB-18"
+      },
+      "word_count": 20
+    },
+    "MTR-SI-19_019": {
+      "chunk_id": "MTR-SI-19_019",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 19,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: MTR-SI-19\nManufacturer: Siemens\nModel_Number: 1LE1001-1B\nCategory: Motor\nSpecification: 15 kW, 1450 RPM\nLocation: Zone Alpha\nInstallation_Date: 2023-08-10\nCriticality: Critical",
+      "metadata": {
+        "asset_id": "MTR-SI-19"
+      },
+      "word_count": 20
+    },
+    "PMP-GR-20_020": {
+      "chunk_id": "PMP-GR-20_020",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 20,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: PMP-GR-20\nManufacturer: Grundfos\nModel_Number: CR-10\nCategory: Pump\nSpecification: 22 m\u00b3/h, 60m\nLocation: Zone Utility\nInstallation_Date: 2023-05-05\nCriticality: High",
+      "metadata": {
+        "asset_id": "PMP-GR-20"
+      },
+      "word_count": 19
+    },
+    "PMP-KS-21_021": {
+      "chunk_id": "PMP-KS-21_021",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 21,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: PMP-KS-21\nManufacturer: KSB\nModel_Number: Omega-50\nCategory: Pump\nSpecification: 15 m\u00b3/h, 80m\nLocation: Zone Beta\nInstallation_Date: 2024-02-28\nCriticality: High",
+      "metadata": {
+        "asset_id": "PMP-KS-21"
+      },
+      "word_count": 19
+    },
+    "MTR-AB-22_022": {
+      "chunk_id": "MTR-AB-22_022",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 22,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: MTR-AB-22\nManufacturer: ABB\nModel_Number: M3BP-180\nCategory: Motor\nSpecification: 37 kW, 1450 RPM\nLocation: Zone Gamma\nInstallation_Date: 2021-05-03\nCriticality: High",
+      "metadata": {
+        "asset_id": "MTR-AB-22"
+      },
+      "word_count": 20
+    },
+    "MTR-SI-23_023": {
+      "chunk_id": "MTR-SI-23_023",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 23,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: MTR-SI-23\nManufacturer: Siemens\nModel_Number: 1LE1001-1B\nCategory: Motor\nSpecification: 55 kW, 2950 RPM\nLocation: Zone Beta\nInstallation_Date: 2021-07-17\nCriticality: High",
+      "metadata": {
+        "asset_id": "MTR-SI-23"
+      },
+      "word_count": 20
+    },
+    "PMP-GR-24_024": {
+      "chunk_id": "PMP-GR-24_024",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 24,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: PMP-GR-24\nManufacturer: Grundfos\nModel_Number: CR-10\nCategory: Pump\nSpecification: 15 m\u00b3/h, 80m\nLocation: Zone Beta\nInstallation_Date: 2022-04-09\nCriticality: Critical",
+      "metadata": {
+        "asset_id": "PMP-GR-24"
+      },
+      "word_count": 19
+    },
+    "PMP-KS-25_025": {
+      "chunk_id": "PMP-KS-25_025",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 25,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: PMP-KS-25\nManufacturer: KSB\nModel_Number: Omega-125\nCategory: Pump\nSpecification: 45 m\u00b3/h, 80m\nLocation: Zone Utility\nInstallation_Date: 2022-02-07\nCriticality: Medium",
+      "metadata": {
+        "asset_id": "PMP-KS-25"
+      },
+      "word_count": 19
+    },
+    "MTR-AB-26_026": {
+      "chunk_id": "MTR-AB-26_026",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 26,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: MTR-AB-26\nManufacturer: ABB\nModel_Number: M3BP-200\nCategory: Motor\nSpecification: 22 kW, 2950 RPM\nLocation: Zone Utility\nInstallation_Date: 2022-05-04\nCriticality: High",
+      "metadata": {
+        "asset_id": "MTR-AB-26"
+      },
+      "word_count": 20
+    },
+    "MTR-SI-27_027": {
+      "chunk_id": "MTR-SI-27_027",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 27,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: MTR-SI-27\nManufacturer: Siemens\nModel_Number: 1LE1001-2A\nCategory: Motor\nSpecification: 15 kW, 2950 RPM\nLocation: Zone Alpha\nInstallation_Date: 2022-04-18\nCriticality: High",
+      "metadata": {
+        "asset_id": "MTR-SI-27"
+      },
+      "word_count": 20
+    },
+    "PMP-GR-28_028": {
+      "chunk_id": "PMP-GR-28_028",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 28,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: PMP-GR-28\nManufacturer: Grundfos\nModel_Number: CR-15\nCategory: Pump\nSpecification: 30 m\u00b3/h, 80m\nLocation: Zone Utility\nInstallation_Date: 2021-05-24\nCriticality: Medium",
+      "metadata": {
+        "asset_id": "PMP-GR-28"
+      },
+      "word_count": 19
+    },
+    "PMP-KS-29_029": {
+      "chunk_id": "PMP-KS-29_029",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 29,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: PMP-KS-29\nManufacturer: KSB\nModel_Number: Omega-50\nCategory: Pump\nSpecification: 45 m\u00b3/h, 40m\nLocation: Zone Beta\nInstallation_Date: 2023-06-16\nCriticality: Critical",
+      "metadata": {
+        "asset_id": "PMP-KS-29"
+      },
+      "word_count": 19
+    },
+    "MTR-AB-30_030": {
+      "chunk_id": "MTR-AB-30_030",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 30,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: MTR-AB-30\nManufacturer: ABB\nModel_Number: M3BP-225\nCategory: Motor\nSpecification: 55 kW, 1450 RPM\nLocation: Zone Utility\nInstallation_Date: 2023-10-12\nCriticality: High",
+      "metadata": {
+        "asset_id": "MTR-AB-30"
+      },
+      "word_count": 20
+    },
+    "MTR-SI-31_031": {
+      "chunk_id": "MTR-SI-31_031",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 31,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: MTR-SI-31\nManufacturer: Siemens\nModel_Number: 1LE1001-1C\nCategory: Motor\nSpecification: 22 kW, 2950 RPM\nLocation: Zone Utility\nInstallation_Date: 2024-02-29\nCriticality: Medium",
+      "metadata": {
+        "asset_id": "MTR-SI-31"
+      },
+      "word_count": 20
+    },
+    "PMP-GR-32_032": {
+      "chunk_id": "PMP-GR-32_032",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 32,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: PMP-GR-32\nManufacturer: Grundfos\nModel_Number: CR-10\nCategory: Pump\nSpecification: 45 m\u00b3/h, 80m\nLocation: Zone Alpha\nInstallation_Date: 2021-04-14\nCriticality: High",
+      "metadata": {
+        "asset_id": "PMP-GR-32"
+      },
+      "word_count": 19
+    },
+    "PMP-KS-33_033": {
+      "chunk_id": "PMP-KS-33_033",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 33,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: PMP-KS-33\nManufacturer: KSB\nModel_Number: Omega-100\nCategory: Pump\nSpecification: 45 m\u00b3/h, 60m\nLocation: Zone Alpha\nInstallation_Date: 2021-04-09\nCriticality: Medium",
+      "metadata": {
+        "asset_id": "PMP-KS-33"
+      },
+      "word_count": 19
+    },
+    "MTR-AB-34_034": {
+      "chunk_id": "MTR-AB-34_034",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 34,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: MTR-AB-34\nManufacturer: ABB\nModel_Number: M3BP-180\nCategory: Motor\nSpecification: 15 kW, 2950 RPM\nLocation: Zone Beta\nInstallation_Date: 2024-04-01\nCriticality: High",
+      "metadata": {
+        "asset_id": "MTR-AB-34"
+      },
+      "word_count": 20
+    },
+    "MTR-SI-35_035": {
+      "chunk_id": "MTR-SI-35_035",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 35,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: MTR-SI-35\nManufacturer: Siemens\nModel_Number: 1LE1001-1A\nCategory: Motor\nSpecification: 37 kW, 1450 RPM\nLocation: Zone Utility\nInstallation_Date: 2023-03-12\nCriticality: High",
+      "metadata": {
+        "asset_id": "MTR-SI-35"
+      },
+      "word_count": 20
+    },
+    "PMP-GR-36_036": {
+      "chunk_id": "PMP-GR-36_036",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 36,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: PMP-GR-36\nManufacturer: Grundfos\nModel_Number: CR-45\nCategory: Pump\nSpecification: 45 m\u00b3/h, 80m\nLocation: Zone Gamma\nInstallation_Date: 2022-02-05\nCriticality: High",
+      "metadata": {
+        "asset_id": "PMP-GR-36"
+      },
+      "word_count": 19
+    },
+    "PMP-KS-37_037": {
+      "chunk_id": "PMP-KS-37_037",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 37,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: PMP-KS-37\nManufacturer: KSB\nModel_Number: Omega-125\nCategory: Pump\nSpecification: 45 m\u00b3/h, 80m\nLocation: Zone Gamma\nInstallation_Date: 2022-04-15\nCriticality: High",
+      "metadata": {
+        "asset_id": "PMP-KS-37"
+      },
+      "word_count": 19
+    },
+    "MTR-AB-38_038": {
+      "chunk_id": "MTR-AB-38_038",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 38,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: MTR-AB-38\nManufacturer: ABB\nModel_Number: M3BP-180\nCategory: Motor\nSpecification: 55 kW, 1450 RPM\nLocation: Zone Beta\nInstallation_Date: 2021-01-27\nCriticality: Medium",
+      "metadata": {
+        "asset_id": "MTR-AB-38"
+      },
+      "word_count": 20
+    },
+    "MTR-SI-39_039": {
+      "chunk_id": "MTR-SI-39_039",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 39,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: MTR-SI-39\nManufacturer: Siemens\nModel_Number: 1LE1001-1B\nCategory: Motor\nSpecification: 11 kW, 2950 RPM\nLocation: Zone Gamma\nInstallation_Date: 2023-08-18\nCriticality: Medium",
+      "metadata": {
+        "asset_id": "MTR-SI-39"
+      },
+      "word_count": 20
+    },
+    "PMP-GR-40_040": {
+      "chunk_id": "PMP-GR-40_040",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 40,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: PMP-GR-40\nManufacturer: Grundfos\nModel_Number: CR-45\nCategory: Pump\nSpecification: 15 m\u00b3/h, 80m\nLocation: Zone Utility\nInstallation_Date: 2022-07-01\nCriticality: Medium",
+      "metadata": {
+        "asset_id": "PMP-GR-40"
+      },
+      "word_count": 19
+    },
+    "PMP-KS-41_041": {
+      "chunk_id": "PMP-KS-41_041",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 41,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: PMP-KS-41\nManufacturer: KSB\nModel_Number: Omega-125\nCategory: Pump\nSpecification: 15 m\u00b3/h, 60m\nLocation: Zone Alpha\nInstallation_Date: 2023-12-06\nCriticality: Medium",
+      "metadata": {
+        "asset_id": "PMP-KS-41"
+      },
+      "word_count": 19
+    },
+    "MTR-AB-42_042": {
+      "chunk_id": "MTR-AB-42_042",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 42,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: MTR-AB-42\nManufacturer: ABB\nModel_Number: M3BP-200\nCategory: Motor\nSpecification: 37 kW, 1450 RPM\nLocation: Zone Alpha\nInstallation_Date: 2021-10-07\nCriticality: High",
+      "metadata": {
+        "asset_id": "MTR-AB-42"
+      },
+      "word_count": 20
+    },
+    "MTR-SI-43_043": {
+      "chunk_id": "MTR-SI-43_043",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 43,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: MTR-SI-43\nManufacturer: Siemens\nModel_Number: 1LE1001-1B\nCategory: Motor\nSpecification: 55 kW, 1450 RPM\nLocation: Zone Gamma\nInstallation_Date: 2022-12-01\nCriticality: Medium",
+      "metadata": {
+        "asset_id": "MTR-SI-43"
+      },
+      "word_count": 20
+    },
+    "PMP-GR-44_044": {
+      "chunk_id": "PMP-GR-44_044",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 44,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: PMP-GR-44\nManufacturer: Grundfos\nModel_Number: CR-64\nCategory: Pump\nSpecification: 15 m\u00b3/h, 80m\nLocation: Zone Alpha\nInstallation_Date: 2021-05-08\nCriticality: High",
+      "metadata": {
+        "asset_id": "PMP-GR-44"
+      },
+      "word_count": 19
+    },
+    "PMP-KS-45_045": {
+      "chunk_id": "PMP-KS-45_045",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 45,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: PMP-KS-45\nManufacturer: KSB\nModel_Number: Omega-80\nCategory: Pump\nSpecification: 30 m\u00b3/h, 60m\nLocation: Zone Beta\nInstallation_Date: 2022-11-17\nCriticality: Critical",
+      "metadata": {
+        "asset_id": "PMP-KS-45"
+      },
+      "word_count": 19
+    },
+    "MTR-AB-46_046": {
+      "chunk_id": "MTR-AB-46_046",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 46,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: MTR-AB-46\nManufacturer: ABB\nModel_Number: M3BP-225\nCategory: Motor\nSpecification: 15 kW, 1450 RPM\nLocation: Zone Gamma\nInstallation_Date: 2022-05-05\nCriticality: Medium",
+      "metadata": {
+        "asset_id": "MTR-AB-46"
+      },
+      "word_count": 20
+    },
+    "MTR-SI-47_047": {
+      "chunk_id": "MTR-SI-47_047",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 47,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: MTR-SI-47\nManufacturer: Siemens\nModel_Number: 1LE1001-1A\nCategory: Motor\nSpecification: 11 kW, 1450 RPM\nLocation: Zone Gamma\nInstallation_Date: 2021-09-03\nCriticality: High",
+      "metadata": {
+        "asset_id": "MTR-SI-47"
+      },
+      "word_count": 20
+    },
+    "PMP-GR-48_048": {
+      "chunk_id": "PMP-GR-48_048",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 48,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: PMP-GR-48\nManufacturer: Grundfos\nModel_Number: CR-64\nCategory: Pump\nSpecification: 22 m\u00b3/h, 80m\nLocation: Zone Beta\nInstallation_Date: 2023-07-10\nCriticality: High",
+      "metadata": {
+        "asset_id": "PMP-GR-48"
+      },
+      "word_count": 19
+    },
+    "PMP-KS-49_049": {
+      "chunk_id": "PMP-KS-49_049",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 49,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: PMP-KS-49\nManufacturer: KSB\nModel_Number: Omega-125\nCategory: Pump\nSpecification: 22 m\u00b3/h, 80m\nLocation: Zone Alpha\nInstallation_Date: 2021-02-05\nCriticality: Medium",
+      "metadata": {
+        "asset_id": "PMP-KS-49"
+      },
+      "word_count": 19
+    },
+    "MTR-AB-50_050": {
+      "chunk_id": "MTR-AB-50_050",
+      "document_name": "Asset_Register.xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 50,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Asset_ID: MTR-AB-50\nManufacturer: ABB\nModel_Number: M3BP-160\nCategory: Motor\nSpecification: 37 kW, 1450 RPM\nLocation: Zone Gamma\nInstallation_Date: 2024-03-12\nCriticality: High",
+      "metadata": {
+        "asset_id": "MTR-AB-50"
+      },
+      "word_count": 20
+    },
+    "EQ-2001_001": {
+      "chunk_id": "EQ-2001_001",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 1,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0001\nEquipment_ID: EQ-2001\nEquipment_Name: Grundfos CR45 Pump\nDate: 2026-07-01\nTemperature_\u00b0C: 60\nPressure_bar: 4.8\nVibration_mms: 0.8\nRunning_Hours: 16\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR45 Pump",
+        "asset_id": "EQ-2001",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2002_002": {
+      "chunk_id": "EQ-2002_002",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 2,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0002\nEquipment_ID: EQ-2002\nEquipment_Name: Grundfos CR32 Pump\nDate: 2026-07-01\nTemperature_\u00b0C: 63\nPressure_bar: 5.1\nVibration_mms: 1.3\nRunning_Hours: 17\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR32 Pump",
+        "asset_id": "EQ-2002",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2003_003": {
+      "chunk_id": "EQ-2003_003",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 3,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0003\nEquipment_ID: EQ-2003\nEquipment_Name: ABB Motor M3BP\nDate: 2026-07-01\nTemperature_\u00b0C: 66\nPressure_bar: 5.4\nVibration_mms: 1.8\nRunning_Hours: 18\nStatus: Normal",
+      "metadata": {
+        "equipment": "ABB Motor M3BP",
+        "asset_id": "EQ-2003",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2004_004": {
+      "chunk_id": "EQ-2004_004",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 4,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0004\nEquipment_ID: EQ-2004\nEquipment_Name: Siemens SIMOTICS Motor\nDate: 2026-07-01\nTemperature_\u00b0C: 69\nPressure_bar: 5.7\nVibration_mms: 2.3\nRunning_Hours: 19\nStatus: Normal",
+      "metadata": {
+        "equipment": "Siemens SIMOTICS Motor",
+        "asset_id": "EQ-2004",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2005_005": {
+      "chunk_id": "EQ-2005_005",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 5,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0005\nEquipment_ID: EQ-2005\nEquipment_Name: Air Compressor\nDate: 2026-07-01\nTemperature_\u00b0C: 72\nPressure_bar: 6\nVibration_mms: 2.8\nRunning_Hours: 20\nStatus: Normal",
+      "metadata": {
+        "equipment": "Air Compressor",
+        "asset_id": "EQ-2005",
+        "status": "Normal",
+        "equipment_type": "Compressor"
+      },
+      "word_count": 19
+    },
+    "EQ-2006_006": {
+      "chunk_id": "EQ-2006_006",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 6,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0006\nEquipment_ID: EQ-2006\nEquipment_Name: Boiler Unit\nDate: 2026-07-01\nTemperature_\u00b0C: 75\nPressure_bar: 4.8\nVibration_mms: 3.3\nRunning_Hours: 21\nStatus: Warning",
+      "metadata": {
+        "equipment": "Boiler Unit",
+        "asset_id": "EQ-2006",
+        "status": "Warning",
+        "equipment_type": "Boiler"
+      },
+      "word_count": 19
+    },
+    "EQ-2007_007": {
+      "chunk_id": "EQ-2007_007",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 7,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0007\nEquipment_ID: EQ-2007\nEquipment_Name: Conveyor Belt\nDate: 2026-07-01\nTemperature_\u00b0C: 78\nPressure_bar: 5.1\nVibration_mms: 0.8\nRunning_Hours: 22\nStatus: Warning",
+      "metadata": {
+        "equipment": "Conveyor Belt",
+        "asset_id": "EQ-2007",
+        "status": "Warning",
+        "equipment_type": "Conveyor"
+      },
+      "word_count": 19
+    },
+    "EQ-2008_008": {
+      "chunk_id": "EQ-2008_008",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 8,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0008\nEquipment_ID: EQ-2008\nEquipment_Name: Cooling Tower\nDate: 2026-07-01\nTemperature_\u00b0C: 81\nPressure_bar: 5.4\nVibration_mms: 1.3\nRunning_Hours: 23\nStatus: Warning",
+      "metadata": {
+        "equipment": "Cooling Tower",
+        "asset_id": "EQ-2008",
+        "status": "Warning"
+      },
+      "word_count": 19
+    },
+    "EQ-2009_009": {
+      "chunk_id": "EQ-2009_009",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 9,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0009\nEquipment_ID: EQ-2009\nEquipment_Name: Hydraulic Press\nDate: 2026-07-01\nTemperature_\u00b0C: 84\nPressure_bar: 5.7\nVibration_mms: 1.8\nRunning_Hours: 16\nStatus: Critical",
+      "metadata": {
+        "equipment": "Hydraulic Press",
+        "asset_id": "EQ-2009",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2010_010": {
+      "chunk_id": "EQ-2010_010",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 10,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0010\nEquipment_ID: EQ-2010\nEquipment_Name: Diesel Generator\nDate: 2026-07-01\nTemperature_\u00b0C: 87\nPressure_bar: 6\nVibration_mms: 2.3\nRunning_Hours: 17\nStatus: Critical",
+      "metadata": {
+        "equipment": "Diesel Generator",
+        "asset_id": "EQ-2010",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2001_011": {
+      "chunk_id": "EQ-2001_011",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 11,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0011\nEquipment_ID: EQ-2001\nEquipment_Name: Grundfos CR45 Pump\nDate: 2026-07-02\nTemperature_\u00b0C: 60\nPressure_bar: 4.8\nVibration_mms: 2.8\nRunning_Hours: 18\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR45 Pump",
+        "asset_id": "EQ-2001",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2002_012": {
+      "chunk_id": "EQ-2002_012",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 12,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0012\nEquipment_ID: EQ-2002\nEquipment_Name: Grundfos CR32 Pump\nDate: 2026-07-02\nTemperature_\u00b0C: 63\nPressure_bar: 5.1\nVibration_mms: 3.3\nRunning_Hours: 19\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR32 Pump",
+        "asset_id": "EQ-2002",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2003_013": {
+      "chunk_id": "EQ-2003_013",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 13,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0013\nEquipment_ID: EQ-2003\nEquipment_Name: ABB Motor M3BP\nDate: 2026-07-02\nTemperature_\u00b0C: 66\nPressure_bar: 5.4\nVibration_mms: 0.8\nRunning_Hours: 20\nStatus: Normal",
+      "metadata": {
+        "equipment": "ABB Motor M3BP",
+        "asset_id": "EQ-2003",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2004_014": {
+      "chunk_id": "EQ-2004_014",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 14,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0014\nEquipment_ID: EQ-2004\nEquipment_Name: Siemens SIMOTICS Motor\nDate: 2026-07-02\nTemperature_\u00b0C: 69\nPressure_bar: 5.7\nVibration_mms: 1.3\nRunning_Hours: 21\nStatus: Normal",
+      "metadata": {
+        "equipment": "Siemens SIMOTICS Motor",
+        "asset_id": "EQ-2004",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2005_015": {
+      "chunk_id": "EQ-2005_015",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 15,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0015\nEquipment_ID: EQ-2005\nEquipment_Name: Air Compressor\nDate: 2026-07-02\nTemperature_\u00b0C: 72\nPressure_bar: 6\nVibration_mms: 1.8\nRunning_Hours: 22\nStatus: Normal",
+      "metadata": {
+        "equipment": "Air Compressor",
+        "asset_id": "EQ-2005",
+        "status": "Normal",
+        "equipment_type": "Compressor"
+      },
+      "word_count": 19
+    },
+    "EQ-2006_016": {
+      "chunk_id": "EQ-2006_016",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 16,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0016\nEquipment_ID: EQ-2006\nEquipment_Name: Boiler Unit\nDate: 2026-07-02\nTemperature_\u00b0C: 75\nPressure_bar: 4.8\nVibration_mms: 2.3\nRunning_Hours: 23\nStatus: Warning",
+      "metadata": {
+        "equipment": "Boiler Unit",
+        "asset_id": "EQ-2006",
+        "status": "Warning",
+        "equipment_type": "Boiler"
+      },
+      "word_count": 19
+    },
+    "EQ-2007_017": {
+      "chunk_id": "EQ-2007_017",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 17,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0017\nEquipment_ID: EQ-2007\nEquipment_Name: Conveyor Belt\nDate: 2026-07-02\nTemperature_\u00b0C: 78\nPressure_bar: 5.1\nVibration_mms: 2.8\nRunning_Hours: 16\nStatus: Warning",
+      "metadata": {
+        "equipment": "Conveyor Belt",
+        "asset_id": "EQ-2007",
+        "status": "Warning",
+        "equipment_type": "Conveyor"
+      },
+      "word_count": 19
+    },
+    "EQ-2008_018": {
+      "chunk_id": "EQ-2008_018",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 18,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0018\nEquipment_ID: EQ-2008\nEquipment_Name: Cooling Tower\nDate: 2026-07-02\nTemperature_\u00b0C: 81\nPressure_bar: 5.4\nVibration_mms: 3.3\nRunning_Hours: 17\nStatus: Warning",
+      "metadata": {
+        "equipment": "Cooling Tower",
+        "asset_id": "EQ-2008",
+        "status": "Warning"
+      },
+      "word_count": 19
+    },
+    "EQ-2009_019": {
+      "chunk_id": "EQ-2009_019",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 19,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0019\nEquipment_ID: EQ-2009\nEquipment_Name: Hydraulic Press\nDate: 2026-07-02\nTemperature_\u00b0C: 84\nPressure_bar: 5.7\nVibration_mms: 0.8\nRunning_Hours: 18\nStatus: Critical",
+      "metadata": {
+        "equipment": "Hydraulic Press",
+        "asset_id": "EQ-2009",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2010_020": {
+      "chunk_id": "EQ-2010_020",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 20,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0020\nEquipment_ID: EQ-2010\nEquipment_Name: Diesel Generator\nDate: 2026-07-02\nTemperature_\u00b0C: 87\nPressure_bar: 6\nVibration_mms: 1.3\nRunning_Hours: 19\nStatus: Critical",
+      "metadata": {
+        "equipment": "Diesel Generator",
+        "asset_id": "EQ-2010",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2001_021": {
+      "chunk_id": "EQ-2001_021",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 21,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0021\nEquipment_ID: EQ-2001\nEquipment_Name: Grundfos CR45 Pump\nDate: 2026-07-03\nTemperature_\u00b0C: 60\nPressure_bar: 4.8\nVibration_mms: 1.8\nRunning_Hours: 20\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR45 Pump",
+        "asset_id": "EQ-2001",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2002_022": {
+      "chunk_id": "EQ-2002_022",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 22,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0022\nEquipment_ID: EQ-2002\nEquipment_Name: Grundfos CR32 Pump\nDate: 2026-07-03\nTemperature_\u00b0C: 63\nPressure_bar: 5.1\nVibration_mms: 2.3\nRunning_Hours: 21\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR32 Pump",
+        "asset_id": "EQ-2002",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2003_023": {
+      "chunk_id": "EQ-2003_023",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 23,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0023\nEquipment_ID: EQ-2003\nEquipment_Name: ABB Motor M3BP\nDate: 2026-07-03\nTemperature_\u00b0C: 66\nPressure_bar: 5.4\nVibration_mms: 2.8\nRunning_Hours: 22\nStatus: Normal",
+      "metadata": {
+        "equipment": "ABB Motor M3BP",
+        "asset_id": "EQ-2003",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2004_024": {
+      "chunk_id": "EQ-2004_024",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 24,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0024\nEquipment_ID: EQ-2004\nEquipment_Name: Siemens SIMOTICS Motor\nDate: 2026-07-03\nTemperature_\u00b0C: 69\nPressure_bar: 5.7\nVibration_mms: 3.3\nRunning_Hours: 23\nStatus: Normal",
+      "metadata": {
+        "equipment": "Siemens SIMOTICS Motor",
+        "asset_id": "EQ-2004",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2005_025": {
+      "chunk_id": "EQ-2005_025",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 25,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0025\nEquipment_ID: EQ-2005\nEquipment_Name: Air Compressor\nDate: 2026-07-03\nTemperature_\u00b0C: 72\nPressure_bar: 6\nVibration_mms: 0.8\nRunning_Hours: 16\nStatus: Normal",
+      "metadata": {
+        "equipment": "Air Compressor",
+        "asset_id": "EQ-2005",
+        "status": "Normal",
+        "equipment_type": "Compressor"
+      },
+      "word_count": 19
+    },
+    "EQ-2006_026": {
+      "chunk_id": "EQ-2006_026",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 26,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0026\nEquipment_ID: EQ-2006\nEquipment_Name: Boiler Unit\nDate: 2026-07-03\nTemperature_\u00b0C: 75\nPressure_bar: 4.8\nVibration_mms: 1.3\nRunning_Hours: 17\nStatus: Warning",
+      "metadata": {
+        "equipment": "Boiler Unit",
+        "asset_id": "EQ-2006",
+        "status": "Warning",
+        "equipment_type": "Boiler"
+      },
+      "word_count": 19
+    },
+    "EQ-2007_027": {
+      "chunk_id": "EQ-2007_027",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 27,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0027\nEquipment_ID: EQ-2007\nEquipment_Name: Conveyor Belt\nDate: 2026-07-03\nTemperature_\u00b0C: 78\nPressure_bar: 5.1\nVibration_mms: 1.8\nRunning_Hours: 18\nStatus: Warning",
+      "metadata": {
+        "equipment": "Conveyor Belt",
+        "asset_id": "EQ-2007",
+        "status": "Warning",
+        "equipment_type": "Conveyor"
+      },
+      "word_count": 19
+    },
+    "EQ-2008_028": {
+      "chunk_id": "EQ-2008_028",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 28,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0028\nEquipment_ID: EQ-2008\nEquipment_Name: Cooling Tower\nDate: 2026-07-03\nTemperature_\u00b0C: 81\nPressure_bar: 5.4\nVibration_mms: 2.3\nRunning_Hours: 19\nStatus: Warning",
+      "metadata": {
+        "equipment": "Cooling Tower",
+        "asset_id": "EQ-2008",
+        "status": "Warning"
+      },
+      "word_count": 19
+    },
+    "EQ-2009_029": {
+      "chunk_id": "EQ-2009_029",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 29,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0029\nEquipment_ID: EQ-2009\nEquipment_Name: Hydraulic Press\nDate: 2026-07-03\nTemperature_\u00b0C: 84\nPressure_bar: 5.7\nVibration_mms: 2.8\nRunning_Hours: 20\nStatus: Critical",
+      "metadata": {
+        "equipment": "Hydraulic Press",
+        "asset_id": "EQ-2009",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2010_030": {
+      "chunk_id": "EQ-2010_030",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 30,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0030\nEquipment_ID: EQ-2010\nEquipment_Name: Diesel Generator\nDate: 2026-07-03\nTemperature_\u00b0C: 87\nPressure_bar: 6\nVibration_mms: 3.3\nRunning_Hours: 21\nStatus: Critical",
+      "metadata": {
+        "equipment": "Diesel Generator",
+        "asset_id": "EQ-2010",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2001_031": {
+      "chunk_id": "EQ-2001_031",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 31,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0031\nEquipment_ID: EQ-2001\nEquipment_Name: Grundfos CR45 Pump\nDate: 2026-07-04\nTemperature_\u00b0C: 60\nPressure_bar: 4.8\nVibration_mms: 0.8\nRunning_Hours: 22\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR45 Pump",
+        "asset_id": "EQ-2001",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2002_032": {
+      "chunk_id": "EQ-2002_032",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 32,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0032\nEquipment_ID: EQ-2002\nEquipment_Name: Grundfos CR32 Pump\nDate: 2026-07-04\nTemperature_\u00b0C: 63\nPressure_bar: 5.1\nVibration_mms: 1.3\nRunning_Hours: 23\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR32 Pump",
+        "asset_id": "EQ-2002",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2003_033": {
+      "chunk_id": "EQ-2003_033",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 33,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0033\nEquipment_ID: EQ-2003\nEquipment_Name: ABB Motor M3BP\nDate: 2026-07-04\nTemperature_\u00b0C: 66\nPressure_bar: 5.4\nVibration_mms: 1.8\nRunning_Hours: 16\nStatus: Normal",
+      "metadata": {
+        "equipment": "ABB Motor M3BP",
+        "asset_id": "EQ-2003",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2004_034": {
+      "chunk_id": "EQ-2004_034",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 34,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0034\nEquipment_ID: EQ-2004\nEquipment_Name: Siemens SIMOTICS Motor\nDate: 2026-07-04\nTemperature_\u00b0C: 69\nPressure_bar: 5.7\nVibration_mms: 2.3\nRunning_Hours: 17\nStatus: Normal",
+      "metadata": {
+        "equipment": "Siemens SIMOTICS Motor",
+        "asset_id": "EQ-2004",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2005_035": {
+      "chunk_id": "EQ-2005_035",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 35,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0035\nEquipment_ID: EQ-2005\nEquipment_Name: Air Compressor\nDate: 2026-07-04\nTemperature_\u00b0C: 72\nPressure_bar: 6\nVibration_mms: 2.8\nRunning_Hours: 18\nStatus: Normal",
+      "metadata": {
+        "equipment": "Air Compressor",
+        "asset_id": "EQ-2005",
+        "status": "Normal",
+        "equipment_type": "Compressor"
+      },
+      "word_count": 19
+    },
+    "EQ-2006_036": {
+      "chunk_id": "EQ-2006_036",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 36,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0036\nEquipment_ID: EQ-2006\nEquipment_Name: Boiler Unit\nDate: 2026-07-04\nTemperature_\u00b0C: 75\nPressure_bar: 4.8\nVibration_mms: 3.3\nRunning_Hours: 19\nStatus: Warning",
+      "metadata": {
+        "equipment": "Boiler Unit",
+        "asset_id": "EQ-2006",
+        "status": "Warning",
+        "equipment_type": "Boiler"
+      },
+      "word_count": 19
+    },
+    "EQ-2007_037": {
+      "chunk_id": "EQ-2007_037",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 37,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0037\nEquipment_ID: EQ-2007\nEquipment_Name: Conveyor Belt\nDate: 2026-07-04\nTemperature_\u00b0C: 78\nPressure_bar: 5.1\nVibration_mms: 0.8\nRunning_Hours: 20\nStatus: Warning",
+      "metadata": {
+        "equipment": "Conveyor Belt",
+        "asset_id": "EQ-2007",
+        "status": "Warning",
+        "equipment_type": "Conveyor"
+      },
+      "word_count": 19
+    },
+    "EQ-2008_038": {
+      "chunk_id": "EQ-2008_038",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 38,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0038\nEquipment_ID: EQ-2008\nEquipment_Name: Cooling Tower\nDate: 2026-07-04\nTemperature_\u00b0C: 81\nPressure_bar: 5.4\nVibration_mms: 1.3\nRunning_Hours: 21\nStatus: Warning",
+      "metadata": {
+        "equipment": "Cooling Tower",
+        "asset_id": "EQ-2008",
+        "status": "Warning"
+      },
+      "word_count": 19
+    },
+    "EQ-2009_039": {
+      "chunk_id": "EQ-2009_039",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 39,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0039\nEquipment_ID: EQ-2009\nEquipment_Name: Hydraulic Press\nDate: 2026-07-04\nTemperature_\u00b0C: 84\nPressure_bar: 5.7\nVibration_mms: 1.8\nRunning_Hours: 22\nStatus: Critical",
+      "metadata": {
+        "equipment": "Hydraulic Press",
+        "asset_id": "EQ-2009",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2010_040": {
+      "chunk_id": "EQ-2010_040",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 40,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0040\nEquipment_ID: EQ-2010\nEquipment_Name: Diesel Generator\nDate: 2026-07-04\nTemperature_\u00b0C: 87\nPressure_bar: 6\nVibration_mms: 2.3\nRunning_Hours: 23\nStatus: Critical",
+      "metadata": {
+        "equipment": "Diesel Generator",
+        "asset_id": "EQ-2010",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2001_041": {
+      "chunk_id": "EQ-2001_041",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 41,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0041\nEquipment_ID: EQ-2001\nEquipment_Name: Grundfos CR45 Pump\nDate: 2026-07-05\nTemperature_\u00b0C: 60\nPressure_bar: 4.8\nVibration_mms: 2.8\nRunning_Hours: 16\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR45 Pump",
+        "asset_id": "EQ-2001",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2002_042": {
+      "chunk_id": "EQ-2002_042",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 42,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0042\nEquipment_ID: EQ-2002\nEquipment_Name: Grundfos CR32 Pump\nDate: 2026-07-05\nTemperature_\u00b0C: 63\nPressure_bar: 5.1\nVibration_mms: 3.3\nRunning_Hours: 17\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR32 Pump",
+        "asset_id": "EQ-2002",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2003_043": {
+      "chunk_id": "EQ-2003_043",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 43,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0043\nEquipment_ID: EQ-2003\nEquipment_Name: ABB Motor M3BP\nDate: 2026-07-05\nTemperature_\u00b0C: 66\nPressure_bar: 5.4\nVibration_mms: 0.8\nRunning_Hours: 18\nStatus: Normal",
+      "metadata": {
+        "equipment": "ABB Motor M3BP",
+        "asset_id": "EQ-2003",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2004_044": {
+      "chunk_id": "EQ-2004_044",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 44,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0044\nEquipment_ID: EQ-2004\nEquipment_Name: Siemens SIMOTICS Motor\nDate: 2026-07-05\nTemperature_\u00b0C: 69\nPressure_bar: 5.7\nVibration_mms: 1.3\nRunning_Hours: 19\nStatus: Normal",
+      "metadata": {
+        "equipment": "Siemens SIMOTICS Motor",
+        "asset_id": "EQ-2004",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2005_045": {
+      "chunk_id": "EQ-2005_045",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 45,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0045\nEquipment_ID: EQ-2005\nEquipment_Name: Air Compressor\nDate: 2026-07-05\nTemperature_\u00b0C: 72\nPressure_bar: 6\nVibration_mms: 1.8\nRunning_Hours: 20\nStatus: Normal",
+      "metadata": {
+        "equipment": "Air Compressor",
+        "asset_id": "EQ-2005",
+        "status": "Normal",
+        "equipment_type": "Compressor"
+      },
+      "word_count": 19
+    },
+    "EQ-2006_046": {
+      "chunk_id": "EQ-2006_046",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 46,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0046\nEquipment_ID: EQ-2006\nEquipment_Name: Boiler Unit\nDate: 2026-07-05\nTemperature_\u00b0C: 75\nPressure_bar: 4.8\nVibration_mms: 2.3\nRunning_Hours: 21\nStatus: Warning",
+      "metadata": {
+        "equipment": "Boiler Unit",
+        "asset_id": "EQ-2006",
+        "status": "Warning",
+        "equipment_type": "Boiler"
+      },
+      "word_count": 19
+    },
+    "EQ-2007_047": {
+      "chunk_id": "EQ-2007_047",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 47,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0047\nEquipment_ID: EQ-2007\nEquipment_Name: Conveyor Belt\nDate: 2026-07-05\nTemperature_\u00b0C: 78\nPressure_bar: 5.1\nVibration_mms: 2.8\nRunning_Hours: 22\nStatus: Warning",
+      "metadata": {
+        "equipment": "Conveyor Belt",
+        "asset_id": "EQ-2007",
+        "status": "Warning",
+        "equipment_type": "Conveyor"
+      },
+      "word_count": 19
+    },
+    "EQ-2008_048": {
+      "chunk_id": "EQ-2008_048",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 48,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0048\nEquipment_ID: EQ-2008\nEquipment_Name: Cooling Tower\nDate: 2026-07-05\nTemperature_\u00b0C: 81\nPressure_bar: 5.4\nVibration_mms: 3.3\nRunning_Hours: 23\nStatus: Warning",
+      "metadata": {
+        "equipment": "Cooling Tower",
+        "asset_id": "EQ-2008",
+        "status": "Warning"
+      },
+      "word_count": 19
+    },
+    "EQ-2009_049": {
+      "chunk_id": "EQ-2009_049",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 49,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0049\nEquipment_ID: EQ-2009\nEquipment_Name: Hydraulic Press\nDate: 2026-07-05\nTemperature_\u00b0C: 84\nPressure_bar: 5.7\nVibration_mms: 0.8\nRunning_Hours: 16\nStatus: Critical",
+      "metadata": {
+        "equipment": "Hydraulic Press",
+        "asset_id": "EQ-2009",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2010_050": {
+      "chunk_id": "EQ-2010_050",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 50,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0050\nEquipment_ID: EQ-2010\nEquipment_Name: Diesel Generator\nDate: 2026-07-05\nTemperature_\u00b0C: 87\nPressure_bar: 6\nVibration_mms: 1.3\nRunning_Hours: 17\nStatus: Critical",
+      "metadata": {
+        "equipment": "Diesel Generator",
+        "asset_id": "EQ-2010",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2001_051": {
+      "chunk_id": "EQ-2001_051",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 51,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0051\nEquipment_ID: EQ-2001\nEquipment_Name: Grundfos CR45 Pump\nDate: 2026-07-06\nTemperature_\u00b0C: 60\nPressure_bar: 4.8\nVibration_mms: 1.8\nRunning_Hours: 18\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR45 Pump",
+        "asset_id": "EQ-2001",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2002_052": {
+      "chunk_id": "EQ-2002_052",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 52,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0052\nEquipment_ID: EQ-2002\nEquipment_Name: Grundfos CR32 Pump\nDate: 2026-07-06\nTemperature_\u00b0C: 63\nPressure_bar: 5.1\nVibration_mms: 2.3\nRunning_Hours: 19\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR32 Pump",
+        "asset_id": "EQ-2002",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2003_053": {
+      "chunk_id": "EQ-2003_053",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 53,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0053\nEquipment_ID: EQ-2003\nEquipment_Name: ABB Motor M3BP\nDate: 2026-07-06\nTemperature_\u00b0C: 66\nPressure_bar: 5.4\nVibration_mms: 2.8\nRunning_Hours: 20\nStatus: Normal",
+      "metadata": {
+        "equipment": "ABB Motor M3BP",
+        "asset_id": "EQ-2003",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2004_054": {
+      "chunk_id": "EQ-2004_054",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 54,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0054\nEquipment_ID: EQ-2004\nEquipment_Name: Siemens SIMOTICS Motor\nDate: 2026-07-06\nTemperature_\u00b0C: 69\nPressure_bar: 5.7\nVibration_mms: 3.3\nRunning_Hours: 21\nStatus: Normal",
+      "metadata": {
+        "equipment": "Siemens SIMOTICS Motor",
+        "asset_id": "EQ-2004",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2005_055": {
+      "chunk_id": "EQ-2005_055",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 55,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0055\nEquipment_ID: EQ-2005\nEquipment_Name: Air Compressor\nDate: 2026-07-06\nTemperature_\u00b0C: 72\nPressure_bar: 6\nVibration_mms: 0.8\nRunning_Hours: 22\nStatus: Normal",
+      "metadata": {
+        "equipment": "Air Compressor",
+        "asset_id": "EQ-2005",
+        "status": "Normal",
+        "equipment_type": "Compressor"
+      },
+      "word_count": 19
+    },
+    "EQ-2006_056": {
+      "chunk_id": "EQ-2006_056",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 56,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0056\nEquipment_ID: EQ-2006\nEquipment_Name: Boiler Unit\nDate: 2026-07-06\nTemperature_\u00b0C: 75\nPressure_bar: 4.8\nVibration_mms: 1.3\nRunning_Hours: 23\nStatus: Warning",
+      "metadata": {
+        "equipment": "Boiler Unit",
+        "asset_id": "EQ-2006",
+        "status": "Warning",
+        "equipment_type": "Boiler"
+      },
+      "word_count": 19
+    },
+    "EQ-2007_057": {
+      "chunk_id": "EQ-2007_057",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 57,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0057\nEquipment_ID: EQ-2007\nEquipment_Name: Conveyor Belt\nDate: 2026-07-06\nTemperature_\u00b0C: 78\nPressure_bar: 5.1\nVibration_mms: 1.8\nRunning_Hours: 16\nStatus: Warning",
+      "metadata": {
+        "equipment": "Conveyor Belt",
+        "asset_id": "EQ-2007",
+        "status": "Warning",
+        "equipment_type": "Conveyor"
+      },
+      "word_count": 19
+    },
+    "EQ-2008_058": {
+      "chunk_id": "EQ-2008_058",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 58,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0058\nEquipment_ID: EQ-2008\nEquipment_Name: Cooling Tower\nDate: 2026-07-06\nTemperature_\u00b0C: 81\nPressure_bar: 5.4\nVibration_mms: 2.3\nRunning_Hours: 17\nStatus: Warning",
+      "metadata": {
+        "equipment": "Cooling Tower",
+        "asset_id": "EQ-2008",
+        "status": "Warning"
+      },
+      "word_count": 19
+    },
+    "EQ-2009_059": {
+      "chunk_id": "EQ-2009_059",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 59,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0059\nEquipment_ID: EQ-2009\nEquipment_Name: Hydraulic Press\nDate: 2026-07-06\nTemperature_\u00b0C: 84\nPressure_bar: 5.7\nVibration_mms: 2.8\nRunning_Hours: 18\nStatus: Critical",
+      "metadata": {
+        "equipment": "Hydraulic Press",
+        "asset_id": "EQ-2009",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2010_060": {
+      "chunk_id": "EQ-2010_060",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 60,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0060\nEquipment_ID: EQ-2010\nEquipment_Name: Diesel Generator\nDate: 2026-07-06\nTemperature_\u00b0C: 87\nPressure_bar: 6\nVibration_mms: 3.3\nRunning_Hours: 19\nStatus: Critical",
+      "metadata": {
+        "equipment": "Diesel Generator",
+        "asset_id": "EQ-2010",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2001_061": {
+      "chunk_id": "EQ-2001_061",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 61,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0061\nEquipment_ID: EQ-2001\nEquipment_Name: Grundfos CR45 Pump\nDate: 2026-07-07\nTemperature_\u00b0C: 60\nPressure_bar: 4.8\nVibration_mms: 0.8\nRunning_Hours: 20\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR45 Pump",
+        "asset_id": "EQ-2001",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2002_062": {
+      "chunk_id": "EQ-2002_062",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 62,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0062\nEquipment_ID: EQ-2002\nEquipment_Name: Grundfos CR32 Pump\nDate: 2026-07-07\nTemperature_\u00b0C: 63\nPressure_bar: 5.1\nVibration_mms: 1.3\nRunning_Hours: 21\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR32 Pump",
+        "asset_id": "EQ-2002",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2003_063": {
+      "chunk_id": "EQ-2003_063",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 63,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0063\nEquipment_ID: EQ-2003\nEquipment_Name: ABB Motor M3BP\nDate: 2026-07-07\nTemperature_\u00b0C: 66\nPressure_bar: 5.4\nVibration_mms: 1.8\nRunning_Hours: 22\nStatus: Normal",
+      "metadata": {
+        "equipment": "ABB Motor M3BP",
+        "asset_id": "EQ-2003",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2004_064": {
+      "chunk_id": "EQ-2004_064",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 64,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0064\nEquipment_ID: EQ-2004\nEquipment_Name: Siemens SIMOTICS Motor\nDate: 2026-07-07\nTemperature_\u00b0C: 69\nPressure_bar: 5.7\nVibration_mms: 2.3\nRunning_Hours: 23\nStatus: Normal",
+      "metadata": {
+        "equipment": "Siemens SIMOTICS Motor",
+        "asset_id": "EQ-2004",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2005_065": {
+      "chunk_id": "EQ-2005_065",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 65,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0065\nEquipment_ID: EQ-2005\nEquipment_Name: Air Compressor\nDate: 2026-07-07\nTemperature_\u00b0C: 72\nPressure_bar: 6\nVibration_mms: 2.8\nRunning_Hours: 16\nStatus: Normal",
+      "metadata": {
+        "equipment": "Air Compressor",
+        "asset_id": "EQ-2005",
+        "status": "Normal",
+        "equipment_type": "Compressor"
+      },
+      "word_count": 19
+    },
+    "EQ-2006_066": {
+      "chunk_id": "EQ-2006_066",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 66,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0066\nEquipment_ID: EQ-2006\nEquipment_Name: Boiler Unit\nDate: 2026-07-07\nTemperature_\u00b0C: 75\nPressure_bar: 4.8\nVibration_mms: 3.3\nRunning_Hours: 17\nStatus: Warning",
+      "metadata": {
+        "equipment": "Boiler Unit",
+        "asset_id": "EQ-2006",
+        "status": "Warning",
+        "equipment_type": "Boiler"
+      },
+      "word_count": 19
+    },
+    "EQ-2007_067": {
+      "chunk_id": "EQ-2007_067",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 67,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0067\nEquipment_ID: EQ-2007\nEquipment_Name: Conveyor Belt\nDate: 2026-07-07\nTemperature_\u00b0C: 78\nPressure_bar: 5.1\nVibration_mms: 0.8\nRunning_Hours: 18\nStatus: Warning",
+      "metadata": {
+        "equipment": "Conveyor Belt",
+        "asset_id": "EQ-2007",
+        "status": "Warning",
+        "equipment_type": "Conveyor"
+      },
+      "word_count": 19
+    },
+    "EQ-2008_068": {
+      "chunk_id": "EQ-2008_068",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 68,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0068\nEquipment_ID: EQ-2008\nEquipment_Name: Cooling Tower\nDate: 2026-07-07\nTemperature_\u00b0C: 81\nPressure_bar: 5.4\nVibration_mms: 1.3\nRunning_Hours: 19\nStatus: Warning",
+      "metadata": {
+        "equipment": "Cooling Tower",
+        "asset_id": "EQ-2008",
+        "status": "Warning"
+      },
+      "word_count": 19
+    },
+    "EQ-2009_069": {
+      "chunk_id": "EQ-2009_069",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 69,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0069\nEquipment_ID: EQ-2009\nEquipment_Name: Hydraulic Press\nDate: 2026-07-07\nTemperature_\u00b0C: 84\nPressure_bar: 5.7\nVibration_mms: 1.8\nRunning_Hours: 20\nStatus: Critical",
+      "metadata": {
+        "equipment": "Hydraulic Press",
+        "asset_id": "EQ-2009",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2010_070": {
+      "chunk_id": "EQ-2010_070",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 70,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0070\nEquipment_ID: EQ-2010\nEquipment_Name: Diesel Generator\nDate: 2026-07-07\nTemperature_\u00b0C: 87\nPressure_bar: 6\nVibration_mms: 2.3\nRunning_Hours: 21\nStatus: Critical",
+      "metadata": {
+        "equipment": "Diesel Generator",
+        "asset_id": "EQ-2010",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2001_071": {
+      "chunk_id": "EQ-2001_071",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 71,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0071\nEquipment_ID: EQ-2001\nEquipment_Name: Grundfos CR45 Pump\nDate: 2026-07-08\nTemperature_\u00b0C: 60\nPressure_bar: 4.8\nVibration_mms: 2.8\nRunning_Hours: 22\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR45 Pump",
+        "asset_id": "EQ-2001",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2002_072": {
+      "chunk_id": "EQ-2002_072",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 72,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0072\nEquipment_ID: EQ-2002\nEquipment_Name: Grundfos CR32 Pump\nDate: 2026-07-08\nTemperature_\u00b0C: 63\nPressure_bar: 5.1\nVibration_mms: 3.3\nRunning_Hours: 23\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR32 Pump",
+        "asset_id": "EQ-2002",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2003_073": {
+      "chunk_id": "EQ-2003_073",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 73,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0073\nEquipment_ID: EQ-2003\nEquipment_Name: ABB Motor M3BP\nDate: 2026-07-08\nTemperature_\u00b0C: 66\nPressure_bar: 5.4\nVibration_mms: 0.8\nRunning_Hours: 16\nStatus: Normal",
+      "metadata": {
+        "equipment": "ABB Motor M3BP",
+        "asset_id": "EQ-2003",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2004_074": {
+      "chunk_id": "EQ-2004_074",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 74,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0074\nEquipment_ID: EQ-2004\nEquipment_Name: Siemens SIMOTICS Motor\nDate: 2026-07-08\nTemperature_\u00b0C: 69\nPressure_bar: 5.7\nVibration_mms: 1.3\nRunning_Hours: 17\nStatus: Normal",
+      "metadata": {
+        "equipment": "Siemens SIMOTICS Motor",
+        "asset_id": "EQ-2004",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2005_075": {
+      "chunk_id": "EQ-2005_075",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 75,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0075\nEquipment_ID: EQ-2005\nEquipment_Name: Air Compressor\nDate: 2026-07-08\nTemperature_\u00b0C: 72\nPressure_bar: 6\nVibration_mms: 1.8\nRunning_Hours: 18\nStatus: Normal",
+      "metadata": {
+        "equipment": "Air Compressor",
+        "asset_id": "EQ-2005",
+        "status": "Normal",
+        "equipment_type": "Compressor"
+      },
+      "word_count": 19
+    },
+    "EQ-2006_076": {
+      "chunk_id": "EQ-2006_076",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 76,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0076\nEquipment_ID: EQ-2006\nEquipment_Name: Boiler Unit\nDate: 2026-07-08\nTemperature_\u00b0C: 75\nPressure_bar: 4.8\nVibration_mms: 2.3\nRunning_Hours: 19\nStatus: Warning",
+      "metadata": {
+        "equipment": "Boiler Unit",
+        "asset_id": "EQ-2006",
+        "status": "Warning",
+        "equipment_type": "Boiler"
+      },
+      "word_count": 19
+    },
+    "EQ-2007_077": {
+      "chunk_id": "EQ-2007_077",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 77,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0077\nEquipment_ID: EQ-2007\nEquipment_Name: Conveyor Belt\nDate: 2026-07-08\nTemperature_\u00b0C: 78\nPressure_bar: 5.1\nVibration_mms: 2.8\nRunning_Hours: 20\nStatus: Warning",
+      "metadata": {
+        "equipment": "Conveyor Belt",
+        "asset_id": "EQ-2007",
+        "status": "Warning",
+        "equipment_type": "Conveyor"
+      },
+      "word_count": 19
+    },
+    "EQ-2008_078": {
+      "chunk_id": "EQ-2008_078",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 78,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0078\nEquipment_ID: EQ-2008\nEquipment_Name: Cooling Tower\nDate: 2026-07-08\nTemperature_\u00b0C: 81\nPressure_bar: 5.4\nVibration_mms: 3.3\nRunning_Hours: 21\nStatus: Warning",
+      "metadata": {
+        "equipment": "Cooling Tower",
+        "asset_id": "EQ-2008",
+        "status": "Warning"
+      },
+      "word_count": 19
+    },
+    "EQ-2009_079": {
+      "chunk_id": "EQ-2009_079",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 79,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0079\nEquipment_ID: EQ-2009\nEquipment_Name: Hydraulic Press\nDate: 2026-07-08\nTemperature_\u00b0C: 84\nPressure_bar: 5.7\nVibration_mms: 0.8\nRunning_Hours: 22\nStatus: Critical",
+      "metadata": {
+        "equipment": "Hydraulic Press",
+        "asset_id": "EQ-2009",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2010_080": {
+      "chunk_id": "EQ-2010_080",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 80,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0080\nEquipment_ID: EQ-2010\nEquipment_Name: Diesel Generator\nDate: 2026-07-08\nTemperature_\u00b0C: 87\nPressure_bar: 6\nVibration_mms: 1.3\nRunning_Hours: 23\nStatus: Critical",
+      "metadata": {
+        "equipment": "Diesel Generator",
+        "asset_id": "EQ-2010",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2001_081": {
+      "chunk_id": "EQ-2001_081",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 81,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0081\nEquipment_ID: EQ-2001\nEquipment_Name: Grundfos CR45 Pump\nDate: 2026-07-09\nTemperature_\u00b0C: 60\nPressure_bar: 4.8\nVibration_mms: 1.8\nRunning_Hours: 16\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR45 Pump",
+        "asset_id": "EQ-2001",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2002_082": {
+      "chunk_id": "EQ-2002_082",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 82,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0082\nEquipment_ID: EQ-2002\nEquipment_Name: Grundfos CR32 Pump\nDate: 2026-07-09\nTemperature_\u00b0C: 63\nPressure_bar: 5.1\nVibration_mms: 2.3\nRunning_Hours: 17\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR32 Pump",
+        "asset_id": "EQ-2002",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2003_083": {
+      "chunk_id": "EQ-2003_083",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 83,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0083\nEquipment_ID: EQ-2003\nEquipment_Name: ABB Motor M3BP\nDate: 2026-07-09\nTemperature_\u00b0C: 66\nPressure_bar: 5.4\nVibration_mms: 2.8\nRunning_Hours: 18\nStatus: Normal",
+      "metadata": {
+        "equipment": "ABB Motor M3BP",
+        "asset_id": "EQ-2003",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2004_084": {
+      "chunk_id": "EQ-2004_084",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 84,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0084\nEquipment_ID: EQ-2004\nEquipment_Name: Siemens SIMOTICS Motor\nDate: 2026-07-09\nTemperature_\u00b0C: 69\nPressure_bar: 5.7\nVibration_mms: 3.3\nRunning_Hours: 19\nStatus: Normal",
+      "metadata": {
+        "equipment": "Siemens SIMOTICS Motor",
+        "asset_id": "EQ-2004",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2005_085": {
+      "chunk_id": "EQ-2005_085",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 85,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0085\nEquipment_ID: EQ-2005\nEquipment_Name: Air Compressor\nDate: 2026-07-09\nTemperature_\u00b0C: 72\nPressure_bar: 6\nVibration_mms: 0.8\nRunning_Hours: 20\nStatus: Normal",
+      "metadata": {
+        "equipment": "Air Compressor",
+        "asset_id": "EQ-2005",
+        "status": "Normal",
+        "equipment_type": "Compressor"
+      },
+      "word_count": 19
+    },
+    "EQ-2006_086": {
+      "chunk_id": "EQ-2006_086",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 86,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0086\nEquipment_ID: EQ-2006\nEquipment_Name: Boiler Unit\nDate: 2026-07-09\nTemperature_\u00b0C: 75\nPressure_bar: 4.8\nVibration_mms: 1.3\nRunning_Hours: 21\nStatus: Warning",
+      "metadata": {
+        "equipment": "Boiler Unit",
+        "asset_id": "EQ-2006",
+        "status": "Warning",
+        "equipment_type": "Boiler"
+      },
+      "word_count": 19
+    },
+    "EQ-2007_087": {
+      "chunk_id": "EQ-2007_087",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 87,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0087\nEquipment_ID: EQ-2007\nEquipment_Name: Conveyor Belt\nDate: 2026-07-09\nTemperature_\u00b0C: 78\nPressure_bar: 5.1\nVibration_mms: 1.8\nRunning_Hours: 22\nStatus: Warning",
+      "metadata": {
+        "equipment": "Conveyor Belt",
+        "asset_id": "EQ-2007",
+        "status": "Warning",
+        "equipment_type": "Conveyor"
+      },
+      "word_count": 19
+    },
+    "EQ-2008_088": {
+      "chunk_id": "EQ-2008_088",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 88,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0088\nEquipment_ID: EQ-2008\nEquipment_Name: Cooling Tower\nDate: 2026-07-09\nTemperature_\u00b0C: 81\nPressure_bar: 5.4\nVibration_mms: 2.3\nRunning_Hours: 23\nStatus: Warning",
+      "metadata": {
+        "equipment": "Cooling Tower",
+        "asset_id": "EQ-2008",
+        "status": "Warning"
+      },
+      "word_count": 19
+    },
+    "EQ-2009_089": {
+      "chunk_id": "EQ-2009_089",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 89,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0089\nEquipment_ID: EQ-2009\nEquipment_Name: Hydraulic Press\nDate: 2026-07-09\nTemperature_\u00b0C: 84\nPressure_bar: 5.7\nVibration_mms: 2.8\nRunning_Hours: 16\nStatus: Critical",
+      "metadata": {
+        "equipment": "Hydraulic Press",
+        "asset_id": "EQ-2009",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2010_090": {
+      "chunk_id": "EQ-2010_090",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 90,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0090\nEquipment_ID: EQ-2010\nEquipment_Name: Diesel Generator\nDate: 2026-07-09\nTemperature_\u00b0C: 87\nPressure_bar: 6\nVibration_mms: 3.3\nRunning_Hours: 17\nStatus: Critical",
+      "metadata": {
+        "equipment": "Diesel Generator",
+        "asset_id": "EQ-2010",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2001_091": {
+      "chunk_id": "EQ-2001_091",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 91,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0091\nEquipment_ID: EQ-2001\nEquipment_Name: Grundfos CR45 Pump\nDate: 2026-07-10\nTemperature_\u00b0C: 60\nPressure_bar: 4.8\nVibration_mms: 0.8\nRunning_Hours: 18\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR45 Pump",
+        "asset_id": "EQ-2001",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2002_092": {
+      "chunk_id": "EQ-2002_092",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 92,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0092\nEquipment_ID: EQ-2002\nEquipment_Name: Grundfos CR32 Pump\nDate: 2026-07-10\nTemperature_\u00b0C: 63\nPressure_bar: 5.1\nVibration_mms: 1.3\nRunning_Hours: 19\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR32 Pump",
+        "asset_id": "EQ-2002",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2003_093": {
+      "chunk_id": "EQ-2003_093",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 93,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0093\nEquipment_ID: EQ-2003\nEquipment_Name: ABB Motor M3BP\nDate: 2026-07-10\nTemperature_\u00b0C: 66\nPressure_bar: 5.4\nVibration_mms: 1.8\nRunning_Hours: 20\nStatus: Normal",
+      "metadata": {
+        "equipment": "ABB Motor M3BP",
+        "asset_id": "EQ-2003",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2004_094": {
+      "chunk_id": "EQ-2004_094",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 94,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0094\nEquipment_ID: EQ-2004\nEquipment_Name: Siemens SIMOTICS Motor\nDate: 2026-07-10\nTemperature_\u00b0C: 69\nPressure_bar: 5.7\nVibration_mms: 2.3\nRunning_Hours: 21\nStatus: Normal",
+      "metadata": {
+        "equipment": "Siemens SIMOTICS Motor",
+        "asset_id": "EQ-2004",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2005_095": {
+      "chunk_id": "EQ-2005_095",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 95,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0095\nEquipment_ID: EQ-2005\nEquipment_Name: Air Compressor\nDate: 2026-07-10\nTemperature_\u00b0C: 72\nPressure_bar: 6\nVibration_mms: 2.8\nRunning_Hours: 22\nStatus: Normal",
+      "metadata": {
+        "equipment": "Air Compressor",
+        "asset_id": "EQ-2005",
+        "status": "Normal",
+        "equipment_type": "Compressor"
+      },
+      "word_count": 19
+    },
+    "EQ-2006_096": {
+      "chunk_id": "EQ-2006_096",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 96,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0096\nEquipment_ID: EQ-2006\nEquipment_Name: Boiler Unit\nDate: 2026-07-10\nTemperature_\u00b0C: 75\nPressure_bar: 4.8\nVibration_mms: 3.3\nRunning_Hours: 23\nStatus: Warning",
+      "metadata": {
+        "equipment": "Boiler Unit",
+        "asset_id": "EQ-2006",
+        "status": "Warning",
+        "equipment_type": "Boiler"
+      },
+      "word_count": 19
+    },
+    "EQ-2007_097": {
+      "chunk_id": "EQ-2007_097",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 97,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0097\nEquipment_ID: EQ-2007\nEquipment_Name: Conveyor Belt\nDate: 2026-07-10\nTemperature_\u00b0C: 78\nPressure_bar: 5.1\nVibration_mms: 0.8\nRunning_Hours: 16\nStatus: Warning",
+      "metadata": {
+        "equipment": "Conveyor Belt",
+        "asset_id": "EQ-2007",
+        "status": "Warning",
+        "equipment_type": "Conveyor"
+      },
+      "word_count": 19
+    },
+    "EQ-2008_098": {
+      "chunk_id": "EQ-2008_098",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 98,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0098\nEquipment_ID: EQ-2008\nEquipment_Name: Cooling Tower\nDate: 2026-07-10\nTemperature_\u00b0C: 81\nPressure_bar: 5.4\nVibration_mms: 1.3\nRunning_Hours: 17\nStatus: Warning",
+      "metadata": {
+        "equipment": "Cooling Tower",
+        "asset_id": "EQ-2008",
+        "status": "Warning"
+      },
+      "word_count": 19
+    },
+    "EQ-2009_099": {
+      "chunk_id": "EQ-2009_099",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 99,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0099\nEquipment_ID: EQ-2009\nEquipment_Name: Hydraulic Press\nDate: 2026-07-10\nTemperature_\u00b0C: 84\nPressure_bar: 5.7\nVibration_mms: 1.8\nRunning_Hours: 18\nStatus: Critical",
+      "metadata": {
+        "equipment": "Hydraulic Press",
+        "asset_id": "EQ-2009",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2010_100": {
+      "chunk_id": "EQ-2010_100",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 100,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0100\nEquipment_ID: EQ-2010\nEquipment_Name: Diesel Generator\nDate: 2026-07-10\nTemperature_\u00b0C: 87\nPressure_bar: 6\nVibration_mms: 2.3\nRunning_Hours: 19\nStatus: Critical",
+      "metadata": {
+        "equipment": "Diesel Generator",
+        "asset_id": "EQ-2010",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2001_101": {
+      "chunk_id": "EQ-2001_101",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 101,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0101\nEquipment_ID: EQ-2001\nEquipment_Name: Grundfos CR45 Pump\nDate: 2026-07-11\nTemperature_\u00b0C: 60\nPressure_bar: 4.8\nVibration_mms: 2.8\nRunning_Hours: 20\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR45 Pump",
+        "asset_id": "EQ-2001",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2002_102": {
+      "chunk_id": "EQ-2002_102",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 102,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0102\nEquipment_ID: EQ-2002\nEquipment_Name: Grundfos CR32 Pump\nDate: 2026-07-11\nTemperature_\u00b0C: 63\nPressure_bar: 5.1\nVibration_mms: 3.3\nRunning_Hours: 21\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR32 Pump",
+        "asset_id": "EQ-2002",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2003_103": {
+      "chunk_id": "EQ-2003_103",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 103,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0103\nEquipment_ID: EQ-2003\nEquipment_Name: ABB Motor M3BP\nDate: 2026-07-11\nTemperature_\u00b0C: 66\nPressure_bar: 5.4\nVibration_mms: 0.8\nRunning_Hours: 22\nStatus: Normal",
+      "metadata": {
+        "equipment": "ABB Motor M3BP",
+        "asset_id": "EQ-2003",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2004_104": {
+      "chunk_id": "EQ-2004_104",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 104,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0104\nEquipment_ID: EQ-2004\nEquipment_Name: Siemens SIMOTICS Motor\nDate: 2026-07-11\nTemperature_\u00b0C: 69\nPressure_bar: 5.7\nVibration_mms: 1.3\nRunning_Hours: 23\nStatus: Normal",
+      "metadata": {
+        "equipment": "Siemens SIMOTICS Motor",
+        "asset_id": "EQ-2004",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2005_105": {
+      "chunk_id": "EQ-2005_105",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 105,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0105\nEquipment_ID: EQ-2005\nEquipment_Name: Air Compressor\nDate: 2026-07-11\nTemperature_\u00b0C: 72\nPressure_bar: 6\nVibration_mms: 1.8\nRunning_Hours: 16\nStatus: Normal",
+      "metadata": {
+        "equipment": "Air Compressor",
+        "asset_id": "EQ-2005",
+        "status": "Normal",
+        "equipment_type": "Compressor"
+      },
+      "word_count": 19
+    },
+    "EQ-2006_106": {
+      "chunk_id": "EQ-2006_106",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 106,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0106\nEquipment_ID: EQ-2006\nEquipment_Name: Boiler Unit\nDate: 2026-07-11\nTemperature_\u00b0C: 75\nPressure_bar: 4.8\nVibration_mms: 2.3\nRunning_Hours: 17\nStatus: Warning",
+      "metadata": {
+        "equipment": "Boiler Unit",
+        "asset_id": "EQ-2006",
+        "status": "Warning",
+        "equipment_type": "Boiler"
+      },
+      "word_count": 19
+    },
+    "EQ-2007_107": {
+      "chunk_id": "EQ-2007_107",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 107,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0107\nEquipment_ID: EQ-2007\nEquipment_Name: Conveyor Belt\nDate: 2026-07-11\nTemperature_\u00b0C: 78\nPressure_bar: 5.1\nVibration_mms: 2.8\nRunning_Hours: 18\nStatus: Warning",
+      "metadata": {
+        "equipment": "Conveyor Belt",
+        "asset_id": "EQ-2007",
+        "status": "Warning",
+        "equipment_type": "Conveyor"
+      },
+      "word_count": 19
+    },
+    "EQ-2008_108": {
+      "chunk_id": "EQ-2008_108",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 108,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0108\nEquipment_ID: EQ-2008\nEquipment_Name: Cooling Tower\nDate: 2026-07-11\nTemperature_\u00b0C: 81\nPressure_bar: 5.4\nVibration_mms: 3.3\nRunning_Hours: 19\nStatus: Warning",
+      "metadata": {
+        "equipment": "Cooling Tower",
+        "asset_id": "EQ-2008",
+        "status": "Warning"
+      },
+      "word_count": 19
+    },
+    "EQ-2009_109": {
+      "chunk_id": "EQ-2009_109",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 109,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0109\nEquipment_ID: EQ-2009\nEquipment_Name: Hydraulic Press\nDate: 2026-07-11\nTemperature_\u00b0C: 84\nPressure_bar: 5.7\nVibration_mms: 0.8\nRunning_Hours: 20\nStatus: Critical",
+      "metadata": {
+        "equipment": "Hydraulic Press",
+        "asset_id": "EQ-2009",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2010_110": {
+      "chunk_id": "EQ-2010_110",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 110,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0110\nEquipment_ID: EQ-2010\nEquipment_Name: Diesel Generator\nDate: 2026-07-11\nTemperature_\u00b0C: 87\nPressure_bar: 6\nVibration_mms: 1.3\nRunning_Hours: 21\nStatus: Critical",
+      "metadata": {
+        "equipment": "Diesel Generator",
+        "asset_id": "EQ-2010",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2001_111": {
+      "chunk_id": "EQ-2001_111",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 111,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0111\nEquipment_ID: EQ-2001\nEquipment_Name: Grundfos CR45 Pump\nDate: 2026-07-12\nTemperature_\u00b0C: 60\nPressure_bar: 4.8\nVibration_mms: 1.8\nRunning_Hours: 22\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR45 Pump",
+        "asset_id": "EQ-2001",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2002_112": {
+      "chunk_id": "EQ-2002_112",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 112,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0112\nEquipment_ID: EQ-2002\nEquipment_Name: Grundfos CR32 Pump\nDate: 2026-07-12\nTemperature_\u00b0C: 63\nPressure_bar: 5.1\nVibration_mms: 2.3\nRunning_Hours: 23\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR32 Pump",
+        "asset_id": "EQ-2002",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2003_113": {
+      "chunk_id": "EQ-2003_113",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 113,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0113\nEquipment_ID: EQ-2003\nEquipment_Name: ABB Motor M3BP\nDate: 2026-07-12\nTemperature_\u00b0C: 66\nPressure_bar: 5.4\nVibration_mms: 2.8\nRunning_Hours: 16\nStatus: Normal",
+      "metadata": {
+        "equipment": "ABB Motor M3BP",
+        "asset_id": "EQ-2003",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2004_114": {
+      "chunk_id": "EQ-2004_114",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 114,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0114\nEquipment_ID: EQ-2004\nEquipment_Name: Siemens SIMOTICS Motor\nDate: 2026-07-12\nTemperature_\u00b0C: 69\nPressure_bar: 5.7\nVibration_mms: 3.3\nRunning_Hours: 17\nStatus: Normal",
+      "metadata": {
+        "equipment": "Siemens SIMOTICS Motor",
+        "asset_id": "EQ-2004",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2005_115": {
+      "chunk_id": "EQ-2005_115",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 115,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0115\nEquipment_ID: EQ-2005\nEquipment_Name: Air Compressor\nDate: 2026-07-12\nTemperature_\u00b0C: 72\nPressure_bar: 6\nVibration_mms: 0.8\nRunning_Hours: 18\nStatus: Normal",
+      "metadata": {
+        "equipment": "Air Compressor",
+        "asset_id": "EQ-2005",
+        "status": "Normal",
+        "equipment_type": "Compressor"
+      },
+      "word_count": 19
+    },
+    "EQ-2006_116": {
+      "chunk_id": "EQ-2006_116",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 116,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0116\nEquipment_ID: EQ-2006\nEquipment_Name: Boiler Unit\nDate: 2026-07-12\nTemperature_\u00b0C: 75\nPressure_bar: 4.8\nVibration_mms: 1.3\nRunning_Hours: 19\nStatus: Warning",
+      "metadata": {
+        "equipment": "Boiler Unit",
+        "asset_id": "EQ-2006",
+        "status": "Warning",
+        "equipment_type": "Boiler"
+      },
+      "word_count": 19
+    },
+    "EQ-2007_117": {
+      "chunk_id": "EQ-2007_117",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 117,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0117\nEquipment_ID: EQ-2007\nEquipment_Name: Conveyor Belt\nDate: 2026-07-12\nTemperature_\u00b0C: 78\nPressure_bar: 5.1\nVibration_mms: 1.8\nRunning_Hours: 20\nStatus: Warning",
+      "metadata": {
+        "equipment": "Conveyor Belt",
+        "asset_id": "EQ-2007",
+        "status": "Warning",
+        "equipment_type": "Conveyor"
+      },
+      "word_count": 19
+    },
+    "EQ-2008_118": {
+      "chunk_id": "EQ-2008_118",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 118,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0118\nEquipment_ID: EQ-2008\nEquipment_Name: Cooling Tower\nDate: 2026-07-12\nTemperature_\u00b0C: 81\nPressure_bar: 5.4\nVibration_mms: 2.3\nRunning_Hours: 21\nStatus: Warning",
+      "metadata": {
+        "equipment": "Cooling Tower",
+        "asset_id": "EQ-2008",
+        "status": "Warning"
+      },
+      "word_count": 19
+    },
+    "EQ-2009_119": {
+      "chunk_id": "EQ-2009_119",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 119,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0119\nEquipment_ID: EQ-2009\nEquipment_Name: Hydraulic Press\nDate: 2026-07-12\nTemperature_\u00b0C: 84\nPressure_bar: 5.7\nVibration_mms: 2.8\nRunning_Hours: 22\nStatus: Critical",
+      "metadata": {
+        "equipment": "Hydraulic Press",
+        "asset_id": "EQ-2009",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2010_120": {
+      "chunk_id": "EQ-2010_120",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 120,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0120\nEquipment_ID: EQ-2010\nEquipment_Name: Diesel Generator\nDate: 2026-07-12\nTemperature_\u00b0C: 87\nPressure_bar: 6\nVibration_mms: 3.3\nRunning_Hours: 23\nStatus: Critical",
+      "metadata": {
+        "equipment": "Diesel Generator",
+        "asset_id": "EQ-2010",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2001_121": {
+      "chunk_id": "EQ-2001_121",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 121,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0121\nEquipment_ID: EQ-2001\nEquipment_Name: Grundfos CR45 Pump\nDate: 2026-07-13\nTemperature_\u00b0C: 60\nPressure_bar: 4.8\nVibration_mms: 0.8\nRunning_Hours: 16\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR45 Pump",
+        "asset_id": "EQ-2001",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2002_122": {
+      "chunk_id": "EQ-2002_122",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 122,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0122\nEquipment_ID: EQ-2002\nEquipment_Name: Grundfos CR32 Pump\nDate: 2026-07-13\nTemperature_\u00b0C: 63\nPressure_bar: 5.1\nVibration_mms: 1.3\nRunning_Hours: 17\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR32 Pump",
+        "asset_id": "EQ-2002",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2003_123": {
+      "chunk_id": "EQ-2003_123",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 123,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0123\nEquipment_ID: EQ-2003\nEquipment_Name: ABB Motor M3BP\nDate: 2026-07-13\nTemperature_\u00b0C: 66\nPressure_bar: 5.4\nVibration_mms: 1.8\nRunning_Hours: 18\nStatus: Normal",
+      "metadata": {
+        "equipment": "ABB Motor M3BP",
+        "asset_id": "EQ-2003",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2004_124": {
+      "chunk_id": "EQ-2004_124",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 124,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0124\nEquipment_ID: EQ-2004\nEquipment_Name: Siemens SIMOTICS Motor\nDate: 2026-07-13\nTemperature_\u00b0C: 69\nPressure_bar: 5.7\nVibration_mms: 2.3\nRunning_Hours: 19\nStatus: Normal",
+      "metadata": {
+        "equipment": "Siemens SIMOTICS Motor",
+        "asset_id": "EQ-2004",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2005_125": {
+      "chunk_id": "EQ-2005_125",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 125,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0125\nEquipment_ID: EQ-2005\nEquipment_Name: Air Compressor\nDate: 2026-07-13\nTemperature_\u00b0C: 72\nPressure_bar: 6\nVibration_mms: 2.8\nRunning_Hours: 20\nStatus: Normal",
+      "metadata": {
+        "equipment": "Air Compressor",
+        "asset_id": "EQ-2005",
+        "status": "Normal",
+        "equipment_type": "Compressor"
+      },
+      "word_count": 19
+    },
+    "EQ-2006_126": {
+      "chunk_id": "EQ-2006_126",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 126,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0126\nEquipment_ID: EQ-2006\nEquipment_Name: Boiler Unit\nDate: 2026-07-13\nTemperature_\u00b0C: 75\nPressure_bar: 4.8\nVibration_mms: 3.3\nRunning_Hours: 21\nStatus: Warning",
+      "metadata": {
+        "equipment": "Boiler Unit",
+        "asset_id": "EQ-2006",
+        "status": "Warning",
+        "equipment_type": "Boiler"
+      },
+      "word_count": 19
+    },
+    "EQ-2007_127": {
+      "chunk_id": "EQ-2007_127",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 127,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0127\nEquipment_ID: EQ-2007\nEquipment_Name: Conveyor Belt\nDate: 2026-07-13\nTemperature_\u00b0C: 78\nPressure_bar: 5.1\nVibration_mms: 0.8\nRunning_Hours: 22\nStatus: Warning",
+      "metadata": {
+        "equipment": "Conveyor Belt",
+        "asset_id": "EQ-2007",
+        "status": "Warning",
+        "equipment_type": "Conveyor"
+      },
+      "word_count": 19
+    },
+    "EQ-2008_128": {
+      "chunk_id": "EQ-2008_128",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 128,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0128\nEquipment_ID: EQ-2008\nEquipment_Name: Cooling Tower\nDate: 2026-07-13\nTemperature_\u00b0C: 81\nPressure_bar: 5.4\nVibration_mms: 1.3\nRunning_Hours: 23\nStatus: Warning",
+      "metadata": {
+        "equipment": "Cooling Tower",
+        "asset_id": "EQ-2008",
+        "status": "Warning"
+      },
+      "word_count": 19
+    },
+    "EQ-2009_129": {
+      "chunk_id": "EQ-2009_129",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 129,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0129\nEquipment_ID: EQ-2009\nEquipment_Name: Hydraulic Press\nDate: 2026-07-13\nTemperature_\u00b0C: 84\nPressure_bar: 5.7\nVibration_mms: 1.8\nRunning_Hours: 16\nStatus: Critical",
+      "metadata": {
+        "equipment": "Hydraulic Press",
+        "asset_id": "EQ-2009",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2010_130": {
+      "chunk_id": "EQ-2010_130",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 130,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0130\nEquipment_ID: EQ-2010\nEquipment_Name: Diesel Generator\nDate: 2026-07-13\nTemperature_\u00b0C: 87\nPressure_bar: 6\nVibration_mms: 2.3\nRunning_Hours: 17\nStatus: Critical",
+      "metadata": {
+        "equipment": "Diesel Generator",
+        "asset_id": "EQ-2010",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2001_131": {
+      "chunk_id": "EQ-2001_131",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 131,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0131\nEquipment_ID: EQ-2001\nEquipment_Name: Grundfos CR45 Pump\nDate: 2026-07-14\nTemperature_\u00b0C: 60\nPressure_bar: 4.8\nVibration_mms: 2.8\nRunning_Hours: 18\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR45 Pump",
+        "asset_id": "EQ-2001",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2002_132": {
+      "chunk_id": "EQ-2002_132",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 132,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0132\nEquipment_ID: EQ-2002\nEquipment_Name: Grundfos CR32 Pump\nDate: 2026-07-14\nTemperature_\u00b0C: 63\nPressure_bar: 5.1\nVibration_mms: 3.3\nRunning_Hours: 19\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR32 Pump",
+        "asset_id": "EQ-2002",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2003_133": {
+      "chunk_id": "EQ-2003_133",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 133,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0133\nEquipment_ID: EQ-2003\nEquipment_Name: ABB Motor M3BP\nDate: 2026-07-14\nTemperature_\u00b0C: 66\nPressure_bar: 5.4\nVibration_mms: 0.8\nRunning_Hours: 20\nStatus: Normal",
+      "metadata": {
+        "equipment": "ABB Motor M3BP",
+        "asset_id": "EQ-2003",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2004_134": {
+      "chunk_id": "EQ-2004_134",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 134,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0134\nEquipment_ID: EQ-2004\nEquipment_Name: Siemens SIMOTICS Motor\nDate: 2026-07-14\nTemperature_\u00b0C: 69\nPressure_bar: 5.7\nVibration_mms: 1.3\nRunning_Hours: 21\nStatus: Normal",
+      "metadata": {
+        "equipment": "Siemens SIMOTICS Motor",
+        "asset_id": "EQ-2004",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2005_135": {
+      "chunk_id": "EQ-2005_135",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 135,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0135\nEquipment_ID: EQ-2005\nEquipment_Name: Air Compressor\nDate: 2026-07-14\nTemperature_\u00b0C: 72\nPressure_bar: 6\nVibration_mms: 1.8\nRunning_Hours: 22\nStatus: Normal",
+      "metadata": {
+        "equipment": "Air Compressor",
+        "asset_id": "EQ-2005",
+        "status": "Normal",
+        "equipment_type": "Compressor"
+      },
+      "word_count": 19
+    },
+    "EQ-2006_136": {
+      "chunk_id": "EQ-2006_136",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 136,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0136\nEquipment_ID: EQ-2006\nEquipment_Name: Boiler Unit\nDate: 2026-07-14\nTemperature_\u00b0C: 75\nPressure_bar: 4.8\nVibration_mms: 2.3\nRunning_Hours: 23\nStatus: Warning",
+      "metadata": {
+        "equipment": "Boiler Unit",
+        "asset_id": "EQ-2006",
+        "status": "Warning",
+        "equipment_type": "Boiler"
+      },
+      "word_count": 19
+    },
+    "EQ-2007_137": {
+      "chunk_id": "EQ-2007_137",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 137,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0137\nEquipment_ID: EQ-2007\nEquipment_Name: Conveyor Belt\nDate: 2026-07-14\nTemperature_\u00b0C: 78\nPressure_bar: 5.1\nVibration_mms: 2.8\nRunning_Hours: 16\nStatus: Warning",
+      "metadata": {
+        "equipment": "Conveyor Belt",
+        "asset_id": "EQ-2007",
+        "status": "Warning",
+        "equipment_type": "Conveyor"
+      },
+      "word_count": 19
+    },
+    "EQ-2008_138": {
+      "chunk_id": "EQ-2008_138",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 138,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0138\nEquipment_ID: EQ-2008\nEquipment_Name: Cooling Tower\nDate: 2026-07-14\nTemperature_\u00b0C: 81\nPressure_bar: 5.4\nVibration_mms: 3.3\nRunning_Hours: 17\nStatus: Warning",
+      "metadata": {
+        "equipment": "Cooling Tower",
+        "asset_id": "EQ-2008",
+        "status": "Warning"
+      },
+      "word_count": 19
+    },
+    "EQ-2009_139": {
+      "chunk_id": "EQ-2009_139",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 139,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0139\nEquipment_ID: EQ-2009\nEquipment_Name: Hydraulic Press\nDate: 2026-07-14\nTemperature_\u00b0C: 84\nPressure_bar: 5.7\nVibration_mms: 0.8\nRunning_Hours: 18\nStatus: Critical",
+      "metadata": {
+        "equipment": "Hydraulic Press",
+        "asset_id": "EQ-2009",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2010_140": {
+      "chunk_id": "EQ-2010_140",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 140,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0140\nEquipment_ID: EQ-2010\nEquipment_Name: Diesel Generator\nDate: 2026-07-14\nTemperature_\u00b0C: 87\nPressure_bar: 6\nVibration_mms: 1.3\nRunning_Hours: 19\nStatus: Critical",
+      "metadata": {
+        "equipment": "Diesel Generator",
+        "asset_id": "EQ-2010",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2001_141": {
+      "chunk_id": "EQ-2001_141",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 141,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0141\nEquipment_ID: EQ-2001\nEquipment_Name: Grundfos CR45 Pump\nDate: 2026-07-15\nTemperature_\u00b0C: 60\nPressure_bar: 4.8\nVibration_mms: 1.8\nRunning_Hours: 20\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR45 Pump",
+        "asset_id": "EQ-2001",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2002_142": {
+      "chunk_id": "EQ-2002_142",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 142,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0142\nEquipment_ID: EQ-2002\nEquipment_Name: Grundfos CR32 Pump\nDate: 2026-07-15\nTemperature_\u00b0C: 63\nPressure_bar: 5.1\nVibration_mms: 2.3\nRunning_Hours: 21\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR32 Pump",
+        "asset_id": "EQ-2002",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2003_143": {
+      "chunk_id": "EQ-2003_143",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 143,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0143\nEquipment_ID: EQ-2003\nEquipment_Name: ABB Motor M3BP\nDate: 2026-07-15\nTemperature_\u00b0C: 66\nPressure_bar: 5.4\nVibration_mms: 2.8\nRunning_Hours: 22\nStatus: Normal",
+      "metadata": {
+        "equipment": "ABB Motor M3BP",
+        "asset_id": "EQ-2003",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2004_144": {
+      "chunk_id": "EQ-2004_144",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 144,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0144\nEquipment_ID: EQ-2004\nEquipment_Name: Siemens SIMOTICS Motor\nDate: 2026-07-15\nTemperature_\u00b0C: 69\nPressure_bar: 5.7\nVibration_mms: 3.3\nRunning_Hours: 23\nStatus: Normal",
+      "metadata": {
+        "equipment": "Siemens SIMOTICS Motor",
+        "asset_id": "EQ-2004",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2005_145": {
+      "chunk_id": "EQ-2005_145",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 145,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0145\nEquipment_ID: EQ-2005\nEquipment_Name: Air Compressor\nDate: 2026-07-15\nTemperature_\u00b0C: 72\nPressure_bar: 6\nVibration_mms: 0.8\nRunning_Hours: 16\nStatus: Normal",
+      "metadata": {
+        "equipment": "Air Compressor",
+        "asset_id": "EQ-2005",
+        "status": "Normal",
+        "equipment_type": "Compressor"
+      },
+      "word_count": 19
+    },
+    "EQ-2006_146": {
+      "chunk_id": "EQ-2006_146",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 146,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0146\nEquipment_ID: EQ-2006\nEquipment_Name: Boiler Unit\nDate: 2026-07-15\nTemperature_\u00b0C: 75\nPressure_bar: 4.8\nVibration_mms: 1.3\nRunning_Hours: 17\nStatus: Warning",
+      "metadata": {
+        "equipment": "Boiler Unit",
+        "asset_id": "EQ-2006",
+        "status": "Warning",
+        "equipment_type": "Boiler"
+      },
+      "word_count": 19
+    },
+    "EQ-2007_147": {
+      "chunk_id": "EQ-2007_147",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 147,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0147\nEquipment_ID: EQ-2007\nEquipment_Name: Conveyor Belt\nDate: 2026-07-15\nTemperature_\u00b0C: 78\nPressure_bar: 5.1\nVibration_mms: 1.8\nRunning_Hours: 18\nStatus: Warning",
+      "metadata": {
+        "equipment": "Conveyor Belt",
+        "asset_id": "EQ-2007",
+        "status": "Warning",
+        "equipment_type": "Conveyor"
+      },
+      "word_count": 19
+    },
+    "EQ-2008_148": {
+      "chunk_id": "EQ-2008_148",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 148,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0148\nEquipment_ID: EQ-2008\nEquipment_Name: Cooling Tower\nDate: 2026-07-15\nTemperature_\u00b0C: 81\nPressure_bar: 5.4\nVibration_mms: 2.3\nRunning_Hours: 19\nStatus: Warning",
+      "metadata": {
+        "equipment": "Cooling Tower",
+        "asset_id": "EQ-2008",
+        "status": "Warning"
+      },
+      "word_count": 19
+    },
+    "EQ-2009_149": {
+      "chunk_id": "EQ-2009_149",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 149,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0149\nEquipment_ID: EQ-2009\nEquipment_Name: Hydraulic Press\nDate: 2026-07-15\nTemperature_\u00b0C: 84\nPressure_bar: 5.7\nVibration_mms: 2.8\nRunning_Hours: 20\nStatus: Critical",
+      "metadata": {
+        "equipment": "Hydraulic Press",
+        "asset_id": "EQ-2009",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2010_150": {
+      "chunk_id": "EQ-2010_150",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 150,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0150\nEquipment_ID: EQ-2010\nEquipment_Name: Diesel Generator\nDate: 2026-07-15\nTemperature_\u00b0C: 87\nPressure_bar: 6\nVibration_mms: 3.3\nRunning_Hours: 21\nStatus: Critical",
+      "metadata": {
+        "equipment": "Diesel Generator",
+        "asset_id": "EQ-2010",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2001_151": {
+      "chunk_id": "EQ-2001_151",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 151,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0151\nEquipment_ID: EQ-2001\nEquipment_Name: Grundfos CR45 Pump\nDate: 2026-07-16\nTemperature_\u00b0C: 60\nPressure_bar: 4.8\nVibration_mms: 0.8\nRunning_Hours: 22\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR45 Pump",
+        "asset_id": "EQ-2001",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2002_152": {
+      "chunk_id": "EQ-2002_152",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 152,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0152\nEquipment_ID: EQ-2002\nEquipment_Name: Grundfos CR32 Pump\nDate: 2026-07-16\nTemperature_\u00b0C: 63\nPressure_bar: 5.1\nVibration_mms: 1.3\nRunning_Hours: 23\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR32 Pump",
+        "asset_id": "EQ-2002",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2003_153": {
+      "chunk_id": "EQ-2003_153",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 153,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0153\nEquipment_ID: EQ-2003\nEquipment_Name: ABB Motor M3BP\nDate: 2026-07-16\nTemperature_\u00b0C: 66\nPressure_bar: 5.4\nVibration_mms: 1.8\nRunning_Hours: 16\nStatus: Normal",
+      "metadata": {
+        "equipment": "ABB Motor M3BP",
+        "asset_id": "EQ-2003",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2004_154": {
+      "chunk_id": "EQ-2004_154",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 154,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0154\nEquipment_ID: EQ-2004\nEquipment_Name: Siemens SIMOTICS Motor\nDate: 2026-07-16\nTemperature_\u00b0C: 69\nPressure_bar: 5.7\nVibration_mms: 2.3\nRunning_Hours: 17\nStatus: Normal",
+      "metadata": {
+        "equipment": "Siemens SIMOTICS Motor",
+        "asset_id": "EQ-2004",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2005_155": {
+      "chunk_id": "EQ-2005_155",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 155,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0155\nEquipment_ID: EQ-2005\nEquipment_Name: Air Compressor\nDate: 2026-07-16\nTemperature_\u00b0C: 72\nPressure_bar: 6\nVibration_mms: 2.8\nRunning_Hours: 18\nStatus: Normal",
+      "metadata": {
+        "equipment": "Air Compressor",
+        "asset_id": "EQ-2005",
+        "status": "Normal",
+        "equipment_type": "Compressor"
+      },
+      "word_count": 19
+    },
+    "EQ-2006_156": {
+      "chunk_id": "EQ-2006_156",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 156,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0156\nEquipment_ID: EQ-2006\nEquipment_Name: Boiler Unit\nDate: 2026-07-16\nTemperature_\u00b0C: 75\nPressure_bar: 4.8\nVibration_mms: 3.3\nRunning_Hours: 19\nStatus: Warning",
+      "metadata": {
+        "equipment": "Boiler Unit",
+        "asset_id": "EQ-2006",
+        "status": "Warning",
+        "equipment_type": "Boiler"
+      },
+      "word_count": 19
+    },
+    "EQ-2007_157": {
+      "chunk_id": "EQ-2007_157",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 157,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0157\nEquipment_ID: EQ-2007\nEquipment_Name: Conveyor Belt\nDate: 2026-07-16\nTemperature_\u00b0C: 78\nPressure_bar: 5.1\nVibration_mms: 0.8\nRunning_Hours: 20\nStatus: Warning",
+      "metadata": {
+        "equipment": "Conveyor Belt",
+        "asset_id": "EQ-2007",
+        "status": "Warning",
+        "equipment_type": "Conveyor"
+      },
+      "word_count": 19
+    },
+    "EQ-2008_158": {
+      "chunk_id": "EQ-2008_158",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 158,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0158\nEquipment_ID: EQ-2008\nEquipment_Name: Cooling Tower\nDate: 2026-07-16\nTemperature_\u00b0C: 81\nPressure_bar: 5.4\nVibration_mms: 1.3\nRunning_Hours: 21\nStatus: Warning",
+      "metadata": {
+        "equipment": "Cooling Tower",
+        "asset_id": "EQ-2008",
+        "status": "Warning"
+      },
+      "word_count": 19
+    },
+    "EQ-2009_159": {
+      "chunk_id": "EQ-2009_159",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 159,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0159\nEquipment_ID: EQ-2009\nEquipment_Name: Hydraulic Press\nDate: 2026-07-16\nTemperature_\u00b0C: 84\nPressure_bar: 5.7\nVibration_mms: 1.8\nRunning_Hours: 22\nStatus: Critical",
+      "metadata": {
+        "equipment": "Hydraulic Press",
+        "asset_id": "EQ-2009",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2010_160": {
+      "chunk_id": "EQ-2010_160",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 160,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0160\nEquipment_ID: EQ-2010\nEquipment_Name: Diesel Generator\nDate: 2026-07-16\nTemperature_\u00b0C: 87\nPressure_bar: 6\nVibration_mms: 2.3\nRunning_Hours: 23\nStatus: Critical",
+      "metadata": {
+        "equipment": "Diesel Generator",
+        "asset_id": "EQ-2010",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2001_161": {
+      "chunk_id": "EQ-2001_161",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 161,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0161\nEquipment_ID: EQ-2001\nEquipment_Name: Grundfos CR45 Pump\nDate: 2026-07-17\nTemperature_\u00b0C: 60\nPressure_bar: 4.8\nVibration_mms: 2.8\nRunning_Hours: 16\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR45 Pump",
+        "asset_id": "EQ-2001",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2002_162": {
+      "chunk_id": "EQ-2002_162",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 162,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0162\nEquipment_ID: EQ-2002\nEquipment_Name: Grundfos CR32 Pump\nDate: 2026-07-17\nTemperature_\u00b0C: 63\nPressure_bar: 5.1\nVibration_mms: 3.3\nRunning_Hours: 17\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR32 Pump",
+        "asset_id": "EQ-2002",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2003_163": {
+      "chunk_id": "EQ-2003_163",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 163,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0163\nEquipment_ID: EQ-2003\nEquipment_Name: ABB Motor M3BP\nDate: 2026-07-17\nTemperature_\u00b0C: 66\nPressure_bar: 5.4\nVibration_mms: 0.8\nRunning_Hours: 18\nStatus: Normal",
+      "metadata": {
+        "equipment": "ABB Motor M3BP",
+        "asset_id": "EQ-2003",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2004_164": {
+      "chunk_id": "EQ-2004_164",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 164,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0164\nEquipment_ID: EQ-2004\nEquipment_Name: Siemens SIMOTICS Motor\nDate: 2026-07-17\nTemperature_\u00b0C: 69\nPressure_bar: 5.7\nVibration_mms: 1.3\nRunning_Hours: 19\nStatus: Normal",
+      "metadata": {
+        "equipment": "Siemens SIMOTICS Motor",
+        "asset_id": "EQ-2004",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2005_165": {
+      "chunk_id": "EQ-2005_165",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 165,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0165\nEquipment_ID: EQ-2005\nEquipment_Name: Air Compressor\nDate: 2026-07-17\nTemperature_\u00b0C: 72\nPressure_bar: 6\nVibration_mms: 1.8\nRunning_Hours: 20\nStatus: Normal",
+      "metadata": {
+        "equipment": "Air Compressor",
+        "asset_id": "EQ-2005",
+        "status": "Normal",
+        "equipment_type": "Compressor"
+      },
+      "word_count": 19
+    },
+    "EQ-2006_166": {
+      "chunk_id": "EQ-2006_166",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 166,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0166\nEquipment_ID: EQ-2006\nEquipment_Name: Boiler Unit\nDate: 2026-07-17\nTemperature_\u00b0C: 75\nPressure_bar: 4.8\nVibration_mms: 2.3\nRunning_Hours: 21\nStatus: Warning",
+      "metadata": {
+        "equipment": "Boiler Unit",
+        "asset_id": "EQ-2006",
+        "status": "Warning",
+        "equipment_type": "Boiler"
+      },
+      "word_count": 19
+    },
+    "EQ-2007_167": {
+      "chunk_id": "EQ-2007_167",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 167,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0167\nEquipment_ID: EQ-2007\nEquipment_Name: Conveyor Belt\nDate: 2026-07-17\nTemperature_\u00b0C: 78\nPressure_bar: 5.1\nVibration_mms: 2.8\nRunning_Hours: 22\nStatus: Warning",
+      "metadata": {
+        "equipment": "Conveyor Belt",
+        "asset_id": "EQ-2007",
+        "status": "Warning",
+        "equipment_type": "Conveyor"
+      },
+      "word_count": 19
+    },
+    "EQ-2008_168": {
+      "chunk_id": "EQ-2008_168",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 168,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0168\nEquipment_ID: EQ-2008\nEquipment_Name: Cooling Tower\nDate: 2026-07-17\nTemperature_\u00b0C: 81\nPressure_bar: 5.4\nVibration_mms: 3.3\nRunning_Hours: 23\nStatus: Warning",
+      "metadata": {
+        "equipment": "Cooling Tower",
+        "asset_id": "EQ-2008",
+        "status": "Warning"
+      },
+      "word_count": 19
+    },
+    "EQ-2009_169": {
+      "chunk_id": "EQ-2009_169",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 169,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0169\nEquipment_ID: EQ-2009\nEquipment_Name: Hydraulic Press\nDate: 2026-07-17\nTemperature_\u00b0C: 84\nPressure_bar: 5.7\nVibration_mms: 0.8\nRunning_Hours: 16\nStatus: Critical",
+      "metadata": {
+        "equipment": "Hydraulic Press",
+        "asset_id": "EQ-2009",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2010_170": {
+      "chunk_id": "EQ-2010_170",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 170,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0170\nEquipment_ID: EQ-2010\nEquipment_Name: Diesel Generator\nDate: 2026-07-17\nTemperature_\u00b0C: 87\nPressure_bar: 6\nVibration_mms: 1.3\nRunning_Hours: 17\nStatus: Critical",
+      "metadata": {
+        "equipment": "Diesel Generator",
+        "asset_id": "EQ-2010",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2001_171": {
+      "chunk_id": "EQ-2001_171",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 171,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0171\nEquipment_ID: EQ-2001\nEquipment_Name: Grundfos CR45 Pump\nDate: 2026-07-18\nTemperature_\u00b0C: 60\nPressure_bar: 4.8\nVibration_mms: 1.8\nRunning_Hours: 18\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR45 Pump",
+        "asset_id": "EQ-2001",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2002_172": {
+      "chunk_id": "EQ-2002_172",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 172,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0172\nEquipment_ID: EQ-2002\nEquipment_Name: Grundfos CR32 Pump\nDate: 2026-07-18\nTemperature_\u00b0C: 63\nPressure_bar: 5.1\nVibration_mms: 2.3\nRunning_Hours: 19\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR32 Pump",
+        "asset_id": "EQ-2002",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2003_173": {
+      "chunk_id": "EQ-2003_173",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 173,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0173\nEquipment_ID: EQ-2003\nEquipment_Name: ABB Motor M3BP\nDate: 2026-07-18\nTemperature_\u00b0C: 66\nPressure_bar: 5.4\nVibration_mms: 2.8\nRunning_Hours: 20\nStatus: Normal",
+      "metadata": {
+        "equipment": "ABB Motor M3BP",
+        "asset_id": "EQ-2003",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2004_174": {
+      "chunk_id": "EQ-2004_174",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 174,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0174\nEquipment_ID: EQ-2004\nEquipment_Name: Siemens SIMOTICS Motor\nDate: 2026-07-18\nTemperature_\u00b0C: 69\nPressure_bar: 5.7\nVibration_mms: 3.3\nRunning_Hours: 21\nStatus: Normal",
+      "metadata": {
+        "equipment": "Siemens SIMOTICS Motor",
+        "asset_id": "EQ-2004",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2005_175": {
+      "chunk_id": "EQ-2005_175",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 175,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0175\nEquipment_ID: EQ-2005\nEquipment_Name: Air Compressor\nDate: 2026-07-18\nTemperature_\u00b0C: 72\nPressure_bar: 6\nVibration_mms: 0.8\nRunning_Hours: 22\nStatus: Normal",
+      "metadata": {
+        "equipment": "Air Compressor",
+        "asset_id": "EQ-2005",
+        "status": "Normal",
+        "equipment_type": "Compressor"
+      },
+      "word_count": 19
+    },
+    "EQ-2006_176": {
+      "chunk_id": "EQ-2006_176",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 176,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0176\nEquipment_ID: EQ-2006\nEquipment_Name: Boiler Unit\nDate: 2026-07-18\nTemperature_\u00b0C: 75\nPressure_bar: 4.8\nVibration_mms: 1.3\nRunning_Hours: 23\nStatus: Warning",
+      "metadata": {
+        "equipment": "Boiler Unit",
+        "asset_id": "EQ-2006",
+        "status": "Warning",
+        "equipment_type": "Boiler"
+      },
+      "word_count": 19
+    },
+    "EQ-2007_177": {
+      "chunk_id": "EQ-2007_177",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 177,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0177\nEquipment_ID: EQ-2007\nEquipment_Name: Conveyor Belt\nDate: 2026-07-18\nTemperature_\u00b0C: 78\nPressure_bar: 5.1\nVibration_mms: 1.8\nRunning_Hours: 16\nStatus: Warning",
+      "metadata": {
+        "equipment": "Conveyor Belt",
+        "asset_id": "EQ-2007",
+        "status": "Warning",
+        "equipment_type": "Conveyor"
+      },
+      "word_count": 19
+    },
+    "EQ-2008_178": {
+      "chunk_id": "EQ-2008_178",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 178,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0178\nEquipment_ID: EQ-2008\nEquipment_Name: Cooling Tower\nDate: 2026-07-18\nTemperature_\u00b0C: 81\nPressure_bar: 5.4\nVibration_mms: 2.3\nRunning_Hours: 17\nStatus: Warning",
+      "metadata": {
+        "equipment": "Cooling Tower",
+        "asset_id": "EQ-2008",
+        "status": "Warning"
+      },
+      "word_count": 19
+    },
+    "EQ-2009_179": {
+      "chunk_id": "EQ-2009_179",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 179,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0179\nEquipment_ID: EQ-2009\nEquipment_Name: Hydraulic Press\nDate: 2026-07-18\nTemperature_\u00b0C: 84\nPressure_bar: 5.7\nVibration_mms: 2.8\nRunning_Hours: 18\nStatus: Critical",
+      "metadata": {
+        "equipment": "Hydraulic Press",
+        "asset_id": "EQ-2009",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2010_180": {
+      "chunk_id": "EQ-2010_180",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 180,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0180\nEquipment_ID: EQ-2010\nEquipment_Name: Diesel Generator\nDate: 2026-07-18\nTemperature_\u00b0C: 87\nPressure_bar: 6\nVibration_mms: 3.3\nRunning_Hours: 19\nStatus: Critical",
+      "metadata": {
+        "equipment": "Diesel Generator",
+        "asset_id": "EQ-2010",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2001_181": {
+      "chunk_id": "EQ-2001_181",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 181,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0181\nEquipment_ID: EQ-2001\nEquipment_Name: Grundfos CR45 Pump\nDate: 2026-07-19\nTemperature_\u00b0C: 60\nPressure_bar: 4.8\nVibration_mms: 0.8\nRunning_Hours: 20\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR45 Pump",
+        "asset_id": "EQ-2001",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2002_182": {
+      "chunk_id": "EQ-2002_182",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 182,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0182\nEquipment_ID: EQ-2002\nEquipment_Name: Grundfos CR32 Pump\nDate: 2026-07-19\nTemperature_\u00b0C: 63\nPressure_bar: 5.1\nVibration_mms: 1.3\nRunning_Hours: 21\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR32 Pump",
+        "asset_id": "EQ-2002",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2003_183": {
+      "chunk_id": "EQ-2003_183",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 183,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0183\nEquipment_ID: EQ-2003\nEquipment_Name: ABB Motor M3BP\nDate: 2026-07-19\nTemperature_\u00b0C: 66\nPressure_bar: 5.4\nVibration_mms: 1.8\nRunning_Hours: 22\nStatus: Normal",
+      "metadata": {
+        "equipment": "ABB Motor M3BP",
+        "asset_id": "EQ-2003",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2004_184": {
+      "chunk_id": "EQ-2004_184",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 184,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0184\nEquipment_ID: EQ-2004\nEquipment_Name: Siemens SIMOTICS Motor\nDate: 2026-07-19\nTemperature_\u00b0C: 69\nPressure_bar: 5.7\nVibration_mms: 2.3\nRunning_Hours: 23\nStatus: Normal",
+      "metadata": {
+        "equipment": "Siemens SIMOTICS Motor",
+        "asset_id": "EQ-2004",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2005_185": {
+      "chunk_id": "EQ-2005_185",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 185,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0185\nEquipment_ID: EQ-2005\nEquipment_Name: Air Compressor\nDate: 2026-07-19\nTemperature_\u00b0C: 72\nPressure_bar: 6\nVibration_mms: 2.8\nRunning_Hours: 16\nStatus: Normal",
+      "metadata": {
+        "equipment": "Air Compressor",
+        "asset_id": "EQ-2005",
+        "status": "Normal",
+        "equipment_type": "Compressor"
+      },
+      "word_count": 19
+    },
+    "EQ-2006_186": {
+      "chunk_id": "EQ-2006_186",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 186,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0186\nEquipment_ID: EQ-2006\nEquipment_Name: Boiler Unit\nDate: 2026-07-19\nTemperature_\u00b0C: 75\nPressure_bar: 4.8\nVibration_mms: 3.3\nRunning_Hours: 17\nStatus: Warning",
+      "metadata": {
+        "equipment": "Boiler Unit",
+        "asset_id": "EQ-2006",
+        "status": "Warning",
+        "equipment_type": "Boiler"
+      },
+      "word_count": 19
+    },
+    "EQ-2007_187": {
+      "chunk_id": "EQ-2007_187",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 187,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0187\nEquipment_ID: EQ-2007\nEquipment_Name: Conveyor Belt\nDate: 2026-07-19\nTemperature_\u00b0C: 78\nPressure_bar: 5.1\nVibration_mms: 0.8\nRunning_Hours: 18\nStatus: Warning",
+      "metadata": {
+        "equipment": "Conveyor Belt",
+        "asset_id": "EQ-2007",
+        "status": "Warning",
+        "equipment_type": "Conveyor"
+      },
+      "word_count": 19
+    },
+    "EQ-2008_188": {
+      "chunk_id": "EQ-2008_188",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 188,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0188\nEquipment_ID: EQ-2008\nEquipment_Name: Cooling Tower\nDate: 2026-07-19\nTemperature_\u00b0C: 81\nPressure_bar: 5.4\nVibration_mms: 1.3\nRunning_Hours: 19\nStatus: Warning",
+      "metadata": {
+        "equipment": "Cooling Tower",
+        "asset_id": "EQ-2008",
+        "status": "Warning"
+      },
+      "word_count": 19
+    },
+    "EQ-2009_189": {
+      "chunk_id": "EQ-2009_189",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 189,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0189\nEquipment_ID: EQ-2009\nEquipment_Name: Hydraulic Press\nDate: 2026-07-19\nTemperature_\u00b0C: 84\nPressure_bar: 5.7\nVibration_mms: 1.8\nRunning_Hours: 20\nStatus: Critical",
+      "metadata": {
+        "equipment": "Hydraulic Press",
+        "asset_id": "EQ-2009",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2010_190": {
+      "chunk_id": "EQ-2010_190",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 190,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0190\nEquipment_ID: EQ-2010\nEquipment_Name: Diesel Generator\nDate: 2026-07-19\nTemperature_\u00b0C: 87\nPressure_bar: 6\nVibration_mms: 2.3\nRunning_Hours: 21\nStatus: Critical",
+      "metadata": {
+        "equipment": "Diesel Generator",
+        "asset_id": "EQ-2010",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2001_191": {
+      "chunk_id": "EQ-2001_191",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 191,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0191\nEquipment_ID: EQ-2001\nEquipment_Name: Grundfos CR45 Pump\nDate: 2026-07-20\nTemperature_\u00b0C: 60\nPressure_bar: 4.8\nVibration_mms: 2.8\nRunning_Hours: 22\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR45 Pump",
+        "asset_id": "EQ-2001",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2002_192": {
+      "chunk_id": "EQ-2002_192",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 192,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0192\nEquipment_ID: EQ-2002\nEquipment_Name: Grundfos CR32 Pump\nDate: 2026-07-20\nTemperature_\u00b0C: 63\nPressure_bar: 5.1\nVibration_mms: 3.3\nRunning_Hours: 23\nStatus: Normal",
+      "metadata": {
+        "equipment": "Grundfos CR32 Pump",
+        "asset_id": "EQ-2002",
+        "status": "Normal",
+        "equipment_type": "Pump"
+      },
+      "word_count": 20
+    },
+    "EQ-2003_193": {
+      "chunk_id": "EQ-2003_193",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 193,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0193\nEquipment_ID: EQ-2003\nEquipment_Name: ABB Motor M3BP\nDate: 2026-07-20\nTemperature_\u00b0C: 66\nPressure_bar: 5.4\nVibration_mms: 0.8\nRunning_Hours: 16\nStatus: Normal",
+      "metadata": {
+        "equipment": "ABB Motor M3BP",
+        "asset_id": "EQ-2003",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2004_194": {
+      "chunk_id": "EQ-2004_194",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 194,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0194\nEquipment_ID: EQ-2004\nEquipment_Name: Siemens SIMOTICS Motor\nDate: 2026-07-20\nTemperature_\u00b0C: 69\nPressure_bar: 5.7\nVibration_mms: 1.3\nRunning_Hours: 17\nStatus: Normal",
+      "metadata": {
+        "equipment": "Siemens SIMOTICS Motor",
+        "asset_id": "EQ-2004",
+        "status": "Normal",
+        "equipment_type": "Motor"
+      },
+      "word_count": 20
+    },
+    "EQ-2005_195": {
+      "chunk_id": "EQ-2005_195",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 195,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0195\nEquipment_ID: EQ-2005\nEquipment_Name: Air Compressor\nDate: 2026-07-20\nTemperature_\u00b0C: 72\nPressure_bar: 6\nVibration_mms: 1.8\nRunning_Hours: 18\nStatus: Normal",
+      "metadata": {
+        "equipment": "Air Compressor",
+        "asset_id": "EQ-2005",
+        "status": "Normal",
+        "equipment_type": "Compressor"
+      },
+      "word_count": 19
+    },
+    "EQ-2006_196": {
+      "chunk_id": "EQ-2006_196",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 196,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0196\nEquipment_ID: EQ-2006\nEquipment_Name: Boiler Unit\nDate: 2026-07-20\nTemperature_\u00b0C: 75\nPressure_bar: 4.8\nVibration_mms: 2.3\nRunning_Hours: 19\nStatus: Warning",
+      "metadata": {
+        "equipment": "Boiler Unit",
+        "asset_id": "EQ-2006",
+        "status": "Warning",
+        "equipment_type": "Boiler"
+      },
+      "word_count": 19
+    },
+    "EQ-2007_197": {
+      "chunk_id": "EQ-2007_197",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 197,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0197\nEquipment_ID: EQ-2007\nEquipment_Name: Conveyor Belt\nDate: 2026-07-20\nTemperature_\u00b0C: 78\nPressure_bar: 5.1\nVibration_mms: 2.8\nRunning_Hours: 20\nStatus: Warning",
+      "metadata": {
+        "equipment": "Conveyor Belt",
+        "asset_id": "EQ-2007",
+        "status": "Warning",
+        "equipment_type": "Conveyor"
+      },
+      "word_count": 19
+    },
+    "EQ-2008_198": {
+      "chunk_id": "EQ-2008_198",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 198,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0198\nEquipment_ID: EQ-2008\nEquipment_Name: Cooling Tower\nDate: 2026-07-20\nTemperature_\u00b0C: 81\nPressure_bar: 5.4\nVibration_mms: 3.3\nRunning_Hours: 21\nStatus: Warning",
+      "metadata": {
+        "equipment": "Cooling Tower",
+        "asset_id": "EQ-2008",
+        "status": "Warning"
+      },
+      "word_count": 19
+    },
+    "EQ-2009_199": {
+      "chunk_id": "EQ-2009_199",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 199,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0199\nEquipment_ID: EQ-2009\nEquipment_Name: Hydraulic Press\nDate: 2026-07-20\nTemperature_\u00b0C: 84\nPressure_bar: 5.7\nVibration_mms: 0.8\nRunning_Hours: 22\nStatus: Critical",
+      "metadata": {
+        "equipment": "Hydraulic Press",
+        "asset_id": "EQ-2009",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "EQ-2010_200": {
+      "chunk_id": "EQ-2010_200",
+      "document_name": "Daily_Operating_Log (1).csv",
+      "document_type": "Maintenance Log",
+      "chunk_number": 200,
+      "section_title": null,
+      "source_page": null,
+      "text": "Log_ID: LOG0200\nEquipment_ID: EQ-2010\nEquipment_Name: Diesel Generator\nDate: 2026-07-20\nTemperature_\u00b0C: 87\nPressure_bar: 6\nVibration_mms: 1.3\nRunning_Hours: 23\nStatus: Critical",
+      "metadata": {
+        "equipment": "Diesel Generator",
+        "asset_id": "EQ-2010",
+        "status": "Critical"
+      },
+      "word_count": 19
+    },
+    "06a0276b_spare_parts_inventory_1_001": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_001",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 1,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30000\nPart_Name: Stainless Steel Impeller V3\nCompatible_Asset_ID: PMP-KS-01\nTarget_Equipment_Model: KSB Omega-125\nQuantity_On_Hand: 40\nMinimum_Required_Stock: 8\nUnit_Price: 480\nTotal_Inventory_Value: 19200\nSupplier_Name: Industrial Parts Corp (KSB Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    },
+    "06a0276b_spare_parts_inventory_1_002": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_002",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 2,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30001\nPart_Name: SKF Deep Groove Ball Bearing\nCompatible_Asset_ID: MTR-AB-02\nTarget_Equipment_Model: ABB M3BP-160\nQuantity_On_Hand: 30\nMinimum_Required_Stock: 9\nUnit_Price: 85\nTotal_Inventory_Value: 2550\nSupplier_Name: Industrial Parts Corp (ABB Authorized Partner)",
+      "metadata": {},
+      "word_count": 28
+    },
+    "06a0276b_spare_parts_inventory_1_003": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_003",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 3,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30002\nPart_Name: SKF Deep Groove Ball Bearing\nCompatible_Asset_ID: MTR-SI-03\nTarget_Equipment_Model: Siemens 1LE1001-2A\nQuantity_On_Hand: 17\nMinimum_Required_Stock: 12\nUnit_Price: 85\nTotal_Inventory_Value: 1445\nSupplier_Name: Industrial Parts Corp (Siemens Authorized Partner)",
+      "metadata": {},
+      "word_count": 28
+    },
+    "06a0276b_spare_parts_inventory_1_004": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_004",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 4,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30003\nPart_Name: Stainless Steel Impeller V3\nCompatible_Asset_ID: PMP-GR-04\nTarget_Equipment_Model: Grundfos CR-10\nQuantity_On_Hand: 11\nMinimum_Required_Stock: 13\nUnit_Price: 480\nTotal_Inventory_Value: 5280\nSupplier_Name: Industrial Parts Corp (Grundfos Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    },
+    "06a0276b_spare_parts_inventory_1_005": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_005",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 5,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30004\nPart_Name: Stainless Steel Impeller V3\nCompatible_Asset_ID: PMP-KS-05\nTarget_Equipment_Model: KSB Omega-125\nQuantity_On_Hand: 40\nMinimum_Required_Stock: 8\nUnit_Price: 480\nTotal_Inventory_Value: 19200\nSupplier_Name: Industrial Parts Corp (KSB Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    },
+    "06a0276b_spare_parts_inventory_1_006": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_006",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 6,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30005\nPart_Name: SKF Deep Groove Ball Bearing\nCompatible_Asset_ID: MTR-AB-06\nTarget_Equipment_Model: ABB M3BP-225\nQuantity_On_Hand: 2\nMinimum_Required_Stock: 5\nUnit_Price: 85\nTotal_Inventory_Value: 170\nSupplier_Name: Industrial Parts Corp (ABB Authorized Partner)",
+      "metadata": {},
+      "word_count": 28
+    },
+    "06a0276b_spare_parts_inventory_1_007": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_007",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 7,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30006\nPart_Name: Cooling Fan Shroud and Blades\nCompatible_Asset_ID: MTR-SI-07\nTarget_Equipment_Model: Siemens 1LE1001-1A\nQuantity_On_Hand: 15\nMinimum_Required_Stock: 12\nUnit_Price: 115\nTotal_Inventory_Value: 1725\nSupplier_Name: Industrial Parts Corp (Siemens Authorized Partner)",
+      "metadata": {},
+      "word_count": 28
+    },
+    "06a0276b_spare_parts_inventory_1_008": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_008",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 8,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30007\nPart_Name: EPDM O-Ring Replacement Pack\nCompatible_Asset_ID: PMP-GR-08\nTarget_Equipment_Model: Grundfos CR-15\nQuantity_On_Hand: 5\nMinimum_Required_Stock: 6\nUnit_Price: 24.5\nTotal_Inventory_Value: 122.5\nSupplier_Name: Industrial Parts Corp (Grundfos Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    },
+    "06a0276b_spare_parts_inventory_1_009": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_009",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 9,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30008\nPart_Name: EPDM O-Ring Replacement Pack\nCompatible_Asset_ID: PMP-KS-09\nTarget_Equipment_Model: KSB Omega-100\nQuantity_On_Hand: 38\nMinimum_Required_Stock: 13\nUnit_Price: 24.5\nTotal_Inventory_Value: 931\nSupplier_Name: Industrial Parts Corp (KSB Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    },
+    "06a0276b_spare_parts_inventory_1_010": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_010",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 10,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30009\nPart_Name: SKF Deep Groove Ball Bearing\nCompatible_Asset_ID: MTR-AB-10\nTarget_Equipment_Model: ABB M3BP-200\nQuantity_On_Hand: 16\nMinimum_Required_Stock: 13\nUnit_Price: 85\nTotal_Inventory_Value: 1360\nSupplier_Name: Industrial Parts Corp (ABB Authorized Partner)",
+      "metadata": {},
+      "word_count": 28
+    },
+    "06a0276b_spare_parts_inventory_1_011": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_011",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 11,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30010\nPart_Name: Cooling Fan Shroud and Blades\nCompatible_Asset_ID: MTR-SI-11\nTarget_Equipment_Model: Siemens 1LE1001-1A\nQuantity_On_Hand: 25\nMinimum_Required_Stock: 8\nUnit_Price: 115\nTotal_Inventory_Value: 2875\nSupplier_Name: Industrial Parts Corp (Siemens Authorized Partner)",
+      "metadata": {},
+      "word_count": 28
+    },
+    "06a0276b_spare_parts_inventory_1_012": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_012",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 12,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30011\nPart_Name: Stainless Steel Impeller V3\nCompatible_Asset_ID: PMP-GR-12\nTarget_Equipment_Model: Grundfos CR-32\nQuantity_On_Hand: 38\nMinimum_Required_Stock: 9\nUnit_Price: 480\nTotal_Inventory_Value: 18240\nSupplier_Name: Industrial Parts Corp (Grundfos Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    },
+    "06a0276b_spare_parts_inventory_1_013": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_013",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 13,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30012\nPart_Name: Stainless Steel Impeller V3\nCompatible_Asset_ID: PMP-KS-13\nTarget_Equipment_Model: KSB Omega-80\nQuantity_On_Hand: 7\nMinimum_Required_Stock: 11\nUnit_Price: 480\nTotal_Inventory_Value: 3360\nSupplier_Name: Industrial Parts Corp (KSB Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    },
+    "06a0276b_spare_parts_inventory_1_014": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_014",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 14,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30013\nPart_Name: Cooling Fan Shroud and Blades\nCompatible_Asset_ID: MTR-AB-14\nTarget_Equipment_Model: ABB M3BP-225\nQuantity_On_Hand: 25\nMinimum_Required_Stock: 6\nUnit_Price: 115\nTotal_Inventory_Value: 2875\nSupplier_Name: Industrial Parts Corp (ABB Authorized Partner)",
+      "metadata": {},
+      "word_count": 28
+    },
+    "06a0276b_spare_parts_inventory_1_015": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_015",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 15,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30014\nPart_Name: SKF Deep Groove Ball Bearing\nCompatible_Asset_ID: MTR-SI-15\nTarget_Equipment_Model: Siemens 1LE1001-1A\nQuantity_On_Hand: 8\nMinimum_Required_Stock: 8\nUnit_Price: 85\nTotal_Inventory_Value: 680\nSupplier_Name: Industrial Parts Corp (Siemens Authorized Partner)",
+      "metadata": {},
+      "word_count": 28
+    },
+    "06a0276b_spare_parts_inventory_1_016": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_016",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 16,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30015\nPart_Name: Stainless Steel Impeller V3\nCompatible_Asset_ID: PMP-GR-16\nTarget_Equipment_Model: Grundfos CR-32\nQuantity_On_Hand: 9\nMinimum_Required_Stock: 8\nUnit_Price: 480\nTotal_Inventory_Value: 4320\nSupplier_Name: Industrial Parts Corp (Grundfos Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    },
+    "06a0276b_spare_parts_inventory_1_017": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_017",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 17,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30016\nPart_Name: Mechanical Seal Kit 32mm\nCompatible_Asset_ID: PMP-KS-17\nTarget_Equipment_Model: KSB Omega-50\nQuantity_On_Hand: 11\nMinimum_Required_Stock: 6\nUnit_Price: 145\nTotal_Inventory_Value: 1595\nSupplier_Name: Industrial Parts Corp (KSB Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    },
+    "06a0276b_spare_parts_inventory_1_018": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_018",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 18,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30017\nPart_Name: SKF Deep Groove Ball Bearing\nCompatible_Asset_ID: MTR-AB-18\nTarget_Equipment_Model: ABB M3BP-180\nQuantity_On_Hand: 27\nMinimum_Required_Stock: 13\nUnit_Price: 85\nTotal_Inventory_Value: 2295\nSupplier_Name: Industrial Parts Corp (ABB Authorized Partner)",
+      "metadata": {},
+      "word_count": 28
+    },
+    "06a0276b_spare_parts_inventory_1_019": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_019",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 19,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30018\nPart_Name: SKF Deep Groove Ball Bearing\nCompatible_Asset_ID: MTR-SI-19\nTarget_Equipment_Model: Siemens 1LE1001-1B\nQuantity_On_Hand: 4\nMinimum_Required_Stock: 12\nUnit_Price: 85\nTotal_Inventory_Value: 340\nSupplier_Name: Industrial Parts Corp (Siemens Authorized Partner)",
+      "metadata": {},
+      "word_count": 28
+    },
+    "06a0276b_spare_parts_inventory_1_020": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_020",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 20,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30019\nPart_Name: EPDM O-Ring Replacement Pack\nCompatible_Asset_ID: PMP-GR-20\nTarget_Equipment_Model: Grundfos CR-10\nQuantity_On_Hand: 6\nMinimum_Required_Stock: 9\nUnit_Price: 24.5\nTotal_Inventory_Value: 147\nSupplier_Name: Industrial Parts Corp (Grundfos Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    },
+    "06a0276b_spare_parts_inventory_1_021": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_021",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 21,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30020\nPart_Name: EPDM O-Ring Replacement Pack\nCompatible_Asset_ID: PMP-KS-21\nTarget_Equipment_Model: KSB Omega-50\nQuantity_On_Hand: 24\nMinimum_Required_Stock: 5\nUnit_Price: 24.5\nTotal_Inventory_Value: 588\nSupplier_Name: Industrial Parts Corp (KSB Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    },
+    "06a0276b_spare_parts_inventory_1_022": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_022",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 22,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30021\nPart_Name: SKF Deep Groove Ball Bearing\nCompatible_Asset_ID: MTR-AB-22\nTarget_Equipment_Model: ABB M3BP-180\nQuantity_On_Hand: 36\nMinimum_Required_Stock: 8\nUnit_Price: 85\nTotal_Inventory_Value: 3060\nSupplier_Name: Industrial Parts Corp (ABB Authorized Partner)",
+      "metadata": {},
+      "word_count": 28
+    },
+    "06a0276b_spare_parts_inventory_1_023": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_023",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 23,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30022\nPart_Name: Carbon Brush Replacement Set\nCompatible_Asset_ID: MTR-SI-23\nTarget_Equipment_Model: Siemens 1LE1001-1B\nQuantity_On_Hand: 43\nMinimum_Required_Stock: 7\nUnit_Price: 35\nTotal_Inventory_Value: 1505\nSupplier_Name: Industrial Parts Corp (Siemens Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    },
+    "06a0276b_spare_parts_inventory_1_024": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_024",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 24,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30023\nPart_Name: EPDM O-Ring Replacement Pack\nCompatible_Asset_ID: PMP-GR-24\nTarget_Equipment_Model: Grundfos CR-10\nQuantity_On_Hand: 19\nMinimum_Required_Stock: 5\nUnit_Price: 24.5\nTotal_Inventory_Value: 465.5\nSupplier_Name: Industrial Parts Corp (Grundfos Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    },
+    "06a0276b_spare_parts_inventory_1_025": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_025",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 25,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30024\nPart_Name: Stainless Steel Impeller V3\nCompatible_Asset_ID: PMP-KS-25\nTarget_Equipment_Model: KSB Omega-125\nQuantity_On_Hand: 33\nMinimum_Required_Stock: 7\nUnit_Price: 480\nTotal_Inventory_Value: 15840\nSupplier_Name: Industrial Parts Corp (KSB Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    },
+    "06a0276b_spare_parts_inventory_1_026": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_026",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 26,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30025\nPart_Name: Carbon Brush Replacement Set\nCompatible_Asset_ID: MTR-AB-26\nTarget_Equipment_Model: ABB M3BP-200\nQuantity_On_Hand: 14\nMinimum_Required_Stock: 12\nUnit_Price: 35\nTotal_Inventory_Value: 490\nSupplier_Name: Industrial Parts Corp (ABB Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    },
+    "06a0276b_spare_parts_inventory_1_027": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_027",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 27,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30026\nPart_Name: SKF Deep Groove Ball Bearing\nCompatible_Asset_ID: MTR-SI-27\nTarget_Equipment_Model: Siemens 1LE1001-2A\nQuantity_On_Hand: 26\nMinimum_Required_Stock: 13\nUnit_Price: 85\nTotal_Inventory_Value: 2210\nSupplier_Name: Industrial Parts Corp (Siemens Authorized Partner)",
+      "metadata": {},
+      "word_count": 28
+    },
+    "06a0276b_spare_parts_inventory_1_028": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_028",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 28,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30027\nPart_Name: EPDM O-Ring Replacement Pack\nCompatible_Asset_ID: PMP-GR-28\nTarget_Equipment_Model: Grundfos CR-15\nQuantity_On_Hand: 38\nMinimum_Required_Stock: 6\nUnit_Price: 24.5\nTotal_Inventory_Value: 931\nSupplier_Name: Industrial Parts Corp (Grundfos Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    },
+    "06a0276b_spare_parts_inventory_1_029": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_029",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 29,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30028\nPart_Name: Stainless Steel Impeller V3\nCompatible_Asset_ID: PMP-KS-29\nTarget_Equipment_Model: KSB Omega-50\nQuantity_On_Hand: 42\nMinimum_Required_Stock: 12\nUnit_Price: 480\nTotal_Inventory_Value: 20160\nSupplier_Name: Industrial Parts Corp (KSB Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    },
+    "06a0276b_spare_parts_inventory_1_030": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_030",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 30,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30029\nPart_Name: Cooling Fan Shroud and Blades\nCompatible_Asset_ID: MTR-AB-30\nTarget_Equipment_Model: ABB M3BP-225\nQuantity_On_Hand: 29\nMinimum_Required_Stock: 13\nUnit_Price: 115\nTotal_Inventory_Value: 3335\nSupplier_Name: Industrial Parts Corp (ABB Authorized Partner)",
+      "metadata": {},
+      "word_count": 28
+    },
+    "06a0276b_spare_parts_inventory_1_031": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_031",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 31,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30030\nPart_Name: Cooling Fan Shroud and Blades\nCompatible_Asset_ID: MTR-SI-31\nTarget_Equipment_Model: Siemens 1LE1001-1C\nQuantity_On_Hand: 26\nMinimum_Required_Stock: 6\nUnit_Price: 115\nTotal_Inventory_Value: 2990\nSupplier_Name: Industrial Parts Corp (Siemens Authorized Partner)",
+      "metadata": {},
+      "word_count": 28
+    },
+    "06a0276b_spare_parts_inventory_1_032": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_032",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 32,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30031\nPart_Name: EPDM O-Ring Replacement Pack\nCompatible_Asset_ID: PMP-GR-32\nTarget_Equipment_Model: Grundfos CR-10\nQuantity_On_Hand: 10\nMinimum_Required_Stock: 12\nUnit_Price: 24.5\nTotal_Inventory_Value: 245\nSupplier_Name: Industrial Parts Corp (Grundfos Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    },
+    "06a0276b_spare_parts_inventory_1_033": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_033",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 33,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30032\nPart_Name: Mechanical Seal Kit 32mm\nCompatible_Asset_ID: PMP-KS-33\nTarget_Equipment_Model: KSB Omega-100\nQuantity_On_Hand: 6\nMinimum_Required_Stock: 6\nUnit_Price: 145\nTotal_Inventory_Value: 870\nSupplier_Name: Industrial Parts Corp (KSB Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    },
+    "06a0276b_spare_parts_inventory_1_034": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_034",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 34,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30033\nPart_Name: Cooling Fan Shroud and Blades\nCompatible_Asset_ID: MTR-AB-34\nTarget_Equipment_Model: ABB M3BP-180\nQuantity_On_Hand: 39\nMinimum_Required_Stock: 12\nUnit_Price: 115\nTotal_Inventory_Value: 4485\nSupplier_Name: Industrial Parts Corp (ABB Authorized Partner)",
+      "metadata": {},
+      "word_count": 28
+    },
+    "06a0276b_spare_parts_inventory_1_035": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_035",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 35,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30034\nPart_Name: Cooling Fan Shroud and Blades\nCompatible_Asset_ID: MTR-SI-35\nTarget_Equipment_Model: Siemens 1LE1001-1A\nQuantity_On_Hand: 6\nMinimum_Required_Stock: 14\nUnit_Price: 115\nTotal_Inventory_Value: 690\nSupplier_Name: Industrial Parts Corp (Siemens Authorized Partner)",
+      "metadata": {},
+      "word_count": 28
+    },
+    "06a0276b_spare_parts_inventory_1_036": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_036",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 36,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30035\nPart_Name: EPDM O-Ring Replacement Pack\nCompatible_Asset_ID: PMP-GR-36\nTarget_Equipment_Model: Grundfos CR-45\nQuantity_On_Hand: 7\nMinimum_Required_Stock: 9\nUnit_Price: 24.5\nTotal_Inventory_Value: 171.5\nSupplier_Name: Industrial Parts Corp (Grundfos Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    },
+    "06a0276b_spare_parts_inventory_1_037": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_037",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 37,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30036\nPart_Name: Mechanical Seal Kit 32mm\nCompatible_Asset_ID: PMP-KS-37\nTarget_Equipment_Model: KSB Omega-125\nQuantity_On_Hand: 29\nMinimum_Required_Stock: 9\nUnit_Price: 145\nTotal_Inventory_Value: 4205\nSupplier_Name: Industrial Parts Corp (KSB Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    },
+    "06a0276b_spare_parts_inventory_1_038": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_038",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 38,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30037\nPart_Name: SKF Deep Groove Ball Bearing\nCompatible_Asset_ID: MTR-AB-38\nTarget_Equipment_Model: ABB M3BP-180\nQuantity_On_Hand: 18\nMinimum_Required_Stock: 6\nUnit_Price: 85\nTotal_Inventory_Value: 1530\nSupplier_Name: Industrial Parts Corp (ABB Authorized Partner)",
+      "metadata": {},
+      "word_count": 28
+    },
+    "06a0276b_spare_parts_inventory_1_039": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_039",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 39,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30038\nPart_Name: SKF Deep Groove Ball Bearing\nCompatible_Asset_ID: MTR-SI-39\nTarget_Equipment_Model: Siemens 1LE1001-1B\nQuantity_On_Hand: 33\nMinimum_Required_Stock: 7\nUnit_Price: 85\nTotal_Inventory_Value: 2805\nSupplier_Name: Industrial Parts Corp (Siemens Authorized Partner)",
+      "metadata": {},
+      "word_count": 28
+    },
+    "06a0276b_spare_parts_inventory_1_040": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_040",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 40,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30039\nPart_Name: EPDM O-Ring Replacement Pack\nCompatible_Asset_ID: PMP-GR-40\nTarget_Equipment_Model: Grundfos CR-45\nQuantity_On_Hand: 4\nMinimum_Required_Stock: 12\nUnit_Price: 24.5\nTotal_Inventory_Value: 98\nSupplier_Name: Industrial Parts Corp (Grundfos Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    },
+    "06a0276b_spare_parts_inventory_1_041": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_041",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 41,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30040\nPart_Name: EPDM O-Ring Replacement Pack\nCompatible_Asset_ID: PMP-KS-41\nTarget_Equipment_Model: KSB Omega-125\nQuantity_On_Hand: 41\nMinimum_Required_Stock: 5\nUnit_Price: 24.5\nTotal_Inventory_Value: 1004.5\nSupplier_Name: Industrial Parts Corp (KSB Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    },
+    "06a0276b_spare_parts_inventory_1_042": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_042",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 42,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30041\nPart_Name: Carbon Brush Replacement Set\nCompatible_Asset_ID: MTR-AB-42\nTarget_Equipment_Model: ABB M3BP-200\nQuantity_On_Hand: 25\nMinimum_Required_Stock: 7\nUnit_Price: 35\nTotal_Inventory_Value: 875\nSupplier_Name: Industrial Parts Corp (ABB Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    },
+    "06a0276b_spare_parts_inventory_1_043": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_043",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 43,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30042\nPart_Name: SKF Deep Groove Ball Bearing\nCompatible_Asset_ID: MTR-SI-43\nTarget_Equipment_Model: Siemens 1LE1001-1B\nQuantity_On_Hand: 42\nMinimum_Required_Stock: 13\nUnit_Price: 85\nTotal_Inventory_Value: 3570\nSupplier_Name: Industrial Parts Corp (Siemens Authorized Partner)",
+      "metadata": {},
+      "word_count": 28
+    },
+    "06a0276b_spare_parts_inventory_1_044": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_044",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 44,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30043\nPart_Name: Mechanical Seal Kit 32mm\nCompatible_Asset_ID: PMP-GR-44\nTarget_Equipment_Model: Grundfos CR-64\nQuantity_On_Hand: 43\nMinimum_Required_Stock: 8\nUnit_Price: 145\nTotal_Inventory_Value: 6235\nSupplier_Name: Industrial Parts Corp (Grundfos Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    },
+    "06a0276b_spare_parts_inventory_1_045": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_045",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 45,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30044\nPart_Name: Stainless Steel Impeller V3\nCompatible_Asset_ID: PMP-KS-45\nTarget_Equipment_Model: KSB Omega-80\nQuantity_On_Hand: 28\nMinimum_Required_Stock: 10\nUnit_Price: 480\nTotal_Inventory_Value: 13440\nSupplier_Name: Industrial Parts Corp (KSB Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    },
+    "06a0276b_spare_parts_inventory_1_046": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_046",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 46,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30045\nPart_Name: Cooling Fan Shroud and Blades\nCompatible_Asset_ID: MTR-AB-46\nTarget_Equipment_Model: ABB M3BP-225\nQuantity_On_Hand: 6\nMinimum_Required_Stock: 14\nUnit_Price: 115\nTotal_Inventory_Value: 690\nSupplier_Name: Industrial Parts Corp (ABB Authorized Partner)",
+      "metadata": {},
+      "word_count": 28
+    },
+    "06a0276b_spare_parts_inventory_1_047": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_047",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 47,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30046\nPart_Name: SKF Deep Groove Ball Bearing\nCompatible_Asset_ID: MTR-SI-47\nTarget_Equipment_Model: Siemens 1LE1001-1A\nQuantity_On_Hand: 32\nMinimum_Required_Stock: 11\nUnit_Price: 85\nTotal_Inventory_Value: 2720\nSupplier_Name: Industrial Parts Corp (Siemens Authorized Partner)",
+      "metadata": {},
+      "word_count": 28
+    },
+    "06a0276b_spare_parts_inventory_1_048": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_048",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 48,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30047\nPart_Name: EPDM O-Ring Replacement Pack\nCompatible_Asset_ID: PMP-GR-48\nTarget_Equipment_Model: Grundfos CR-64\nQuantity_On_Hand: 11\nMinimum_Required_Stock: 9\nUnit_Price: 24.5\nTotal_Inventory_Value: 269.5\nSupplier_Name: Industrial Parts Corp (Grundfos Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    },
+    "06a0276b_spare_parts_inventory_1_049": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_049",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 49,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30048\nPart_Name: EPDM O-Ring Replacement Pack\nCompatible_Asset_ID: PMP-KS-49\nTarget_Equipment_Model: KSB Omega-125\nQuantity_On_Hand: 40\nMinimum_Required_Stock: 6\nUnit_Price: 24.5\nTotal_Inventory_Value: 980\nSupplier_Name: Industrial Parts Corp (KSB Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    },
+    "06a0276b_spare_parts_inventory_1_050": {
+      "chunk_id": "06a0276b_spare_parts_inventory_1_050",
+      "document_name": "Spare_Parts_Inventory (1).xlsx",
+      "document_type": "Excel Record Set",
+      "chunk_number": 50,
+      "section_title": "Data",
+      "source_page": null,
+      "text": "Part_SKU: SKU-30049\nPart_Name: Carbon Brush Replacement Set\nCompatible_Asset_ID: MTR-AB-50\nTarget_Equipment_Model: ABB M3BP-160\nQuantity_On_Hand: 15\nMinimum_Required_Stock: 11\nUnit_Price: 35\nTotal_Inventory_Value: 525\nSupplier_Name: Industrial Parts Corp (ABB Authorized Partner)",
+      "metadata": {},
+      "word_count": 27
+    }
+  }
+}

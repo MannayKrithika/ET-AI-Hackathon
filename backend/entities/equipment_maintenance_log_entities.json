@@ -1,0 +1,506 @@
+{
+  "document": "Equipment_Maintenance_Log.xlsx",
+  "document_type": "Maintenance Log",
+  "entities": [
+    {
+      "Asset_ID": "AB-02",
+      "Equipment_Name": "ABB M3BP-160",
+      "Maintenance_Type": "Preventive",
+      "Maintenance_Date": "2025-08-25",
+      "Technician": "L. Rossi",
+      "Action_Taken": "Tested insulation resistance (Megger)",
+      "Downtime": "0",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "GR-32",
+      "Equipment_Name": "Grundfos CR-10",
+      "Maintenance_Type": "Preventive",
+      "Maintenance_Date": "2025-09-04",
+      "Technician": "A. Vance",
+      "Action_Taken": "Greased bearings and checked alignment",
+      "Downtime": "0",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "SI-23",
+      "Equipment_Name": "Siemens 1LE1001-1B",
+      "Maintenance_Type": "Preventive",
+      "Maintenance_Date": "2025-08-08",
+      "Technician": "T. Nguyen",
+      "Action_Taken": "Rewound stator windings",
+      "Downtime": "0",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "AB-22",
+      "Equipment_Name": "ABB M3BP-180",
+      "Maintenance_Type": "Preventive",
+      "Maintenance_Date": "2025-10-16",
+      "Technician": "M. Kumar",
+      "Action_Taken": "Rewound stator windings",
+      "Downtime": "0",
+      "Status": "In Progress"
+    },
+    {
+      "Asset_ID": "KS-25",
+      "Equipment_Name": "KSB Omega-125",
+      "Maintenance_Type": "Preventive",
+      "Maintenance_Date": "2025-04-10",
+      "Technician": "M. Kumar",
+      "Action_Taken": "Inspected impeller and cleared debris",
+      "Downtime": "0",
+      "Status": "In Progress"
+    },
+    {
+      "Asset_ID": "AB-22",
+      "Equipment_Name": "ABB M3BP-180",
+      "Maintenance_Type": "Corrective",
+      "Maintenance_Date": "2025-11-21",
+      "Technician": "M. Kumar",
+      "Action_Taken": "Tested insulation resistance (Megger)",
+      "Downtime": "0.6",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "AB-22",
+      "Equipment_Name": "ABB M3BP-180",
+      "Maintenance_Type": "Corrective",
+      "Maintenance_Date": "2025-12-06",
+      "Technician": "A. Vance",
+      "Action_Taken": "Replaced drive-end bearing",
+      "Downtime": "2.6",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "KS-49",
+      "Equipment_Name": "KSB Omega-125",
+      "Maintenance_Type": "Corrective",
+      "Maintenance_Date": "2025-04-11",
+      "Technician": "J. Smith",
+      "Action_Taken": "Replaced mechanical shaft seal",
+      "Downtime": "2.6",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "AB-42",
+      "Equipment_Name": "ABB M3BP-200",
+      "Maintenance_Type": "Preventive",
+      "Maintenance_Date": "2026-02-01",
+      "Technician": "M. Kumar",
+      "Action_Taken": "Replaced drive-end bearing",
+      "Downtime": "0",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "AB-06",
+      "Equipment_Name": "ABB M3BP-225",
+      "Maintenance_Type": "Preventive",
+      "Maintenance_Date": "2025-03-31",
+      "Technician": "M. Kumar",
+      "Action_Taken": "Replaced drive-end bearing",
+      "Downtime": "0",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "SI-15",
+      "Equipment_Name": "Siemens 1LE1001-1A",
+      "Maintenance_Type": "Preventive",
+      "Maintenance_Date": "2025-04-25",
+      "Technician": "M. Kumar",
+      "Action_Taken": "Tested insulation resistance (Megger)",
+      "Downtime": "0",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "SI-43",
+      "Equipment_Name": "Siemens 1LE1001-1B",
+      "Maintenance_Type": "Calibration",
+      "Maintenance_Date": "2026-01-11",
+      "Technician": "L. Rossi",
+      "Action_Taken": "Rewound stator windings",
+      "Downtime": "0",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "KS-37",
+      "Equipment_Name": "KSB Omega-125",
+      "Maintenance_Type": "Corrective",
+      "Maintenance_Date": "2025-07-11",
+      "Technician": "T. Nguyen",
+      "Action_Taken": "Inspected impeller and cleared debris",
+      "Downtime": "1.4",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "KS-33",
+      "Equipment_Name": "KSB Omega-100",
+      "Maintenance_Type": "Corrective",
+      "Maintenance_Date": "2025-07-09",
+      "Technician": "J. Smith",
+      "Action_Taken": "Replaced casing gasket",
+      "Downtime": "2.8",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "GR-08",
+      "Equipment_Name": "Grundfos CR-15",
+      "Maintenance_Type": "Preventive",
+      "Maintenance_Date": "2025-12-27",
+      "Technician": "T. Nguyen",
+      "Action_Taken": "Replaced mechanical shaft seal",
+      "Downtime": "0",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "GR-44",
+      "Equipment_Name": "Grundfos CR-64",
+      "Maintenance_Type": "Breakdown Repair",
+      "Maintenance_Date": "2026-02-01",
+      "Technician": "T. Nguyen",
+      "Action_Taken": "Replaced mechanical shaft seal",
+      "Downtime": "0.5",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "GR-44",
+      "Equipment_Name": "Grundfos CR-64",
+      "Maintenance_Type": "Breakdown Repair",
+      "Maintenance_Date": "2025-10-11",
+      "Technician": "T. Nguyen",
+      "Action_Taken": "Replaced casing gasket",
+      "Downtime": "2.2",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "KS-05",
+      "Equipment_Name": "KSB Omega-125",
+      "Maintenance_Type": "Corrective",
+      "Maintenance_Date": "2025-04-09",
+      "Technician": "A. Vance",
+      "Action_Taken": "Replaced casing gasket",
+      "Downtime": "1",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "SI-39",
+      "Equipment_Name": "Siemens 1LE1001-1B",
+      "Maintenance_Type": "Preventive",
+      "Maintenance_Date": "2025-06-30",
+      "Technician": "M. Kumar",
+      "Action_Taken": "Cleaned ventilation shroud",
+      "Downtime": "0",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "GR-04",
+      "Equipment_Name": "Grundfos CR-10",
+      "Maintenance_Type": "Preventive",
+      "Maintenance_Date": "2025-08-09",
+      "Technician": "T. Nguyen",
+      "Action_Taken": "Greased bearings and checked alignment",
+      "Downtime": "0",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "AB-06",
+      "Equipment_Name": "ABB M3BP-225",
+      "Maintenance_Type": "Breakdown Repair",
+      "Maintenance_Date": "2025-09-10",
+      "Technician": "L. Rossi",
+      "Action_Taken": "Replaced drive-end bearing",
+      "Downtime": "1",
+      "Status": "In Progress"
+    },
+    {
+      "Asset_ID": "KS-45",
+      "Equipment_Name": "KSB Omega-80",
+      "Maintenance_Type": "Preventive",
+      "Maintenance_Date": "2025-07-13",
+      "Technician": "A. Vance",
+      "Action_Taken": "Replaced mechanical shaft seal",
+      "Downtime": "0",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "GR-32",
+      "Equipment_Name": "Grundfos CR-10",
+      "Maintenance_Type": "Breakdown Repair",
+      "Maintenance_Date": "2025-11-17",
+      "Technician": "J. Smith",
+      "Action_Taken": "Replaced mechanical shaft seal",
+      "Downtime": "2.3",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "AB-30",
+      "Equipment_Name": "ABB M3BP-225",
+      "Maintenance_Type": "Calibration",
+      "Maintenance_Date": "2025-10-02",
+      "Technician": "A. Vance",
+      "Action_Taken": "Replaced drive-end bearing",
+      "Downtime": "0",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "SI-47",
+      "Equipment_Name": "Siemens 1LE1001-1A",
+      "Maintenance_Type": "Preventive",
+      "Maintenance_Date": "2025-05-06",
+      "Technician": "M. Kumar",
+      "Action_Taken": "Rewound stator windings",
+      "Downtime": "0",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "SI-35",
+      "Equipment_Name": "Siemens 1LE1001-1A",
+      "Maintenance_Type": "Breakdown Repair",
+      "Maintenance_Date": "2025-11-13",
+      "Technician": "J. Smith",
+      "Action_Taken": "Cleaned ventilation shroud",
+      "Downtime": "2.8",
+      "Status": "Pending"
+    },
+    {
+      "Asset_ID": "GR-40",
+      "Equipment_Name": "Grundfos CR-45",
+      "Maintenance_Type": "Preventive",
+      "Maintenance_Date": "2025-07-10",
+      "Technician": "J. Smith",
+      "Action_Taken": "Replaced mechanical shaft seal",
+      "Downtime": "0",
+      "Status": "Pending"
+    },
+    {
+      "Asset_ID": "GR-16",
+      "Equipment_Name": "Grundfos CR-32",
+      "Maintenance_Type": "Breakdown Repair",
+      "Maintenance_Date": "2025-02-13",
+      "Technician": "L. Rossi",
+      "Action_Taken": "Replaced mechanical shaft seal",
+      "Downtime": "1.3",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "KS-13",
+      "Equipment_Name": "KSB Omega-80",
+      "Maintenance_Type": "Breakdown Repair",
+      "Maintenance_Date": "2025-07-22",
+      "Technician": "A. Vance",
+      "Action_Taken": "Replaced casing gasket",
+      "Downtime": "2.9",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "AB-50",
+      "Equipment_Name": "ABB M3BP-160",
+      "Maintenance_Type": "Preventive",
+      "Maintenance_Date": "2025-01-14",
+      "Technician": "L. Rossi",
+      "Action_Taken": "Rewound stator windings",
+      "Downtime": "0",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "AB-42",
+      "Equipment_Name": "ABB M3BP-200",
+      "Maintenance_Type": "Calibration",
+      "Maintenance_Date": "2025-05-24",
+      "Technician": "T. Nguyen",
+      "Action_Taken": "Cleaned ventilation shroud",
+      "Downtime": "0",
+      "Status": "Pending"
+    },
+    {
+      "Asset_ID": "AB-30",
+      "Equipment_Name": "ABB M3BP-225",
+      "Maintenance_Type": "Preventive",
+      "Maintenance_Date": "2025-12-24",
+      "Technician": "L. Rossi",
+      "Action_Taken": "Tested insulation resistance (Megger)",
+      "Downtime": "0",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "SI-19",
+      "Equipment_Name": "Siemens 1LE1001-1B",
+      "Maintenance_Type": "Preventive",
+      "Maintenance_Date": "2025-06-13",
+      "Technician": "T. Nguyen",
+      "Action_Taken": "Replaced drive-end bearing",
+      "Downtime": "0",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "KS-17",
+      "Equipment_Name": "KSB Omega-50",
+      "Maintenance_Type": "Preventive",
+      "Maintenance_Date": "2025-02-10",
+      "Technician": "J. Smith",
+      "Action_Taken": "Inspected impeller and cleared debris",
+      "Downtime": "0",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "SI-19",
+      "Equipment_Name": "Siemens 1LE1001-1B",
+      "Maintenance_Type": "Breakdown Repair",
+      "Maintenance_Date": "2026-01-25",
+      "Technician": "L. Rossi",
+      "Action_Taken": "Tested insulation resistance (Megger)",
+      "Downtime": "2.4",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "GR-28",
+      "Equipment_Name": "Grundfos CR-15",
+      "Maintenance_Type": "Breakdown Repair",
+      "Maintenance_Date": "2025-10-13",
+      "Technician": "L. Rossi",
+      "Action_Taken": "Replaced mechanical shaft seal",
+      "Downtime": "0.6",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "AB-26",
+      "Equipment_Name": "ABB M3BP-200",
+      "Maintenance_Type": "Breakdown Repair",
+      "Maintenance_Date": "2025-08-12",
+      "Technician": "L. Rossi",
+      "Action_Taken": "Cleaned ventilation shroud",
+      "Downtime": "3.3",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "KS-37",
+      "Equipment_Name": "KSB Omega-125",
+      "Maintenance_Type": "Preventive",
+      "Maintenance_Date": "2025-04-08",
+      "Technician": "J. Smith",
+      "Action_Taken": "Inspected impeller and cleared debris",
+      "Downtime": "0",
+      "Status": "In Progress"
+    },
+    {
+      "Asset_ID": "AB-26",
+      "Equipment_Name": "ABB M3BP-200",
+      "Maintenance_Type": "Breakdown Repair",
+      "Maintenance_Date": "2025-07-16",
+      "Technician": "A. Vance",
+      "Action_Taken": "Replaced drive-end bearing",
+      "Downtime": "2.1",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "SI-23",
+      "Equipment_Name": "Siemens 1LE1001-1B",
+      "Maintenance_Type": "Breakdown Repair",
+      "Maintenance_Date": "2025-07-21",
+      "Technician": "L. Rossi",
+      "Action_Taken": "Rewound stator windings",
+      "Downtime": "1.7",
+      "Status": "Pending"
+    },
+    {
+      "Asset_ID": "KS-09",
+      "Equipment_Name": "KSB Omega-100",
+      "Maintenance_Type": "Preventive",
+      "Maintenance_Date": "2025-07-24",
+      "Technician": "J. Smith",
+      "Action_Taken": "Replaced mechanical shaft seal",
+      "Downtime": "0",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "GR-12",
+      "Equipment_Name": "Grundfos CR-32",
+      "Maintenance_Type": "Preventive",
+      "Maintenance_Date": "2025-04-05",
+      "Technician": "M. Kumar",
+      "Action_Taken": "Greased bearings and checked alignment",
+      "Downtime": "0",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "KS-01",
+      "Equipment_Name": "KSB Omega-125",
+      "Maintenance_Type": "Breakdown Repair",
+      "Maintenance_Date": "2025-11-02",
+      "Technician": "T. Nguyen",
+      "Action_Taken": "Greased bearings and checked alignment",
+      "Downtime": "2.1",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "KS-01",
+      "Equipment_Name": "KSB Omega-125",
+      "Maintenance_Type": "Preventive",
+      "Maintenance_Date": "2025-04-22",
+      "Technician": "L. Rossi",
+      "Action_Taken": "Inspected impeller and cleared debris",
+      "Downtime": "0",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "SI-47",
+      "Equipment_Name": "Siemens 1LE1001-1A",
+      "Maintenance_Type": "Preventive",
+      "Maintenance_Date": "2025-03-16",
+      "Technician": "T. Nguyen",
+      "Action_Taken": "Replaced drive-end bearing",
+      "Downtime": "0",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "AB-34",
+      "Equipment_Name": "ABB M3BP-180",
+      "Maintenance_Type": "Preventive",
+      "Maintenance_Date": "2025-12-04",
+      "Technician": "A. Vance",
+      "Action_Taken": "Cleaned ventilation shroud",
+      "Downtime": "0",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "GR-32",
+      "Equipment_Name": "Grundfos CR-10",
+      "Maintenance_Type": "Preventive",
+      "Maintenance_Date": "2025-12-01",
+      "Technician": "M. Kumar",
+      "Action_Taken": "Inspected impeller and cleared debris",
+      "Downtime": "0",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "GR-48",
+      "Equipment_Name": "Grundfos CR-64",
+      "Maintenance_Type": "Preventive",
+      "Maintenance_Date": "2025-10-12",
+      "Technician": "J. Smith",
+      "Action_Taken": "Replaced casing gasket",
+      "Downtime": "0",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "KS-25",
+      "Equipment_Name": "KSB Omega-125",
+      "Maintenance_Type": "Preventive",
+      "Maintenance_Date": "2025-12-06",
+      "Technician": "L. Rossi",
+      "Action_Taken": "Greased bearings and checked alignment",
+      "Downtime": "0",
+      "Status": "Completed"
+    },
+    {
+      "Asset_ID": "GR-40",
+      "Equipment_Name": "Grundfos CR-45",
+      "Maintenance_Type": "Preventive",
+      "Maintenance_Date": "2025-08-28",
+      "Technician": "J. Smith",
+      "Action_Taken": "Inspected impeller and cleared debris",
+      "Downtime": "0",
+      "Status": "Completed"
+    }
+  ]
+}

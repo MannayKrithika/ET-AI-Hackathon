@@ -1,0 +1,699 @@
+========== Data Record ==========
+
+Part_SKU: SKU-30000
+Part_Name: Stainless Steel Impeller V3
+Compatible_Asset_ID: PMP-KS-01
+Target_Equipment_Model: KSB Omega-125
+Quantity_On_Hand: 40
+Minimum_Required_Stock: 8
+Unit_Price: 480
+Total_Inventory_Value: 19200
+Supplier_Name: Industrial Parts Corp (KSB Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30001
+Part_Name: SKF Deep Groove Ball Bearing
+Compatible_Asset_ID: MTR-AB-02
+Target_Equipment_Model: ABB M3BP-160
+Quantity_On_Hand: 30
+Minimum_Required_Stock: 9
+Unit_Price: 85
+Total_Inventory_Value: 2550
+Supplier_Name: Industrial Parts Corp (ABB Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30002
+Part_Name: SKF Deep Groove Ball Bearing
+Compatible_Asset_ID: MTR-SI-03
+Target_Equipment_Model: Siemens 1LE1001-2A
+Quantity_On_Hand: 17
+Minimum_Required_Stock: 12
+Unit_Price: 85
+Total_Inventory_Value: 1445
+Supplier_Name: Industrial Parts Corp (Siemens Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30003
+Part_Name: Stainless Steel Impeller V3
+Compatible_Asset_ID: PMP-GR-04
+Target_Equipment_Model: Grundfos CR-10
+Quantity_On_Hand: 11
+Minimum_Required_Stock: 13
+Unit_Price: 480
+Total_Inventory_Value: 5280
+Supplier_Name: Industrial Parts Corp (Grundfos Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30004
+Part_Name: Stainless Steel Impeller V3
+Compatible_Asset_ID: PMP-KS-05
+Target_Equipment_Model: KSB Omega-125
+Quantity_On_Hand: 40
+Minimum_Required_Stock: 8
+Unit_Price: 480
+Total_Inventory_Value: 19200
+Supplier_Name: Industrial Parts Corp (KSB Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30005
+Part_Name: SKF Deep Groove Ball Bearing
+Compatible_Asset_ID: MTR-AB-06
+Target_Equipment_Model: ABB M3BP-225
+Quantity_On_Hand: 2
+Minimum_Required_Stock: 5
+Unit_Price: 85
+Total_Inventory_Value: 170
+Supplier_Name: Industrial Parts Corp (ABB Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30006
+Part_Name: Cooling Fan Shroud and Blades
+Compatible_Asset_ID: MTR-SI-07
+Target_Equipment_Model: Siemens 1LE1001-1A
+Quantity_On_Hand: 15
+Minimum_Required_Stock: 12
+Unit_Price: 115
+Total_Inventory_Value: 1725
+Supplier_Name: Industrial Parts Corp (Siemens Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30007
+Part_Name: EPDM O-Ring Replacement Pack
+Compatible_Asset_ID: PMP-GR-08
+Target_Equipment_Model: Grundfos CR-15
+Quantity_On_Hand: 5
+Minimum_Required_Stock: 6
+Unit_Price: 24.5
+Total_Inventory_Value: 122.5
+Supplier_Name: Industrial Parts Corp (Grundfos Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30008
+Part_Name: EPDM O-Ring Replacement Pack
+Compatible_Asset_ID: PMP-KS-09
+Target_Equipment_Model: KSB Omega-100
+Quantity_On_Hand: 38
+Minimum_Required_Stock: 13
+Unit_Price: 24.5
+Total_Inventory_Value: 931
+Supplier_Name: Industrial Parts Corp (KSB Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30009
+Part_Name: SKF Deep Groove Ball Bearing
+Compatible_Asset_ID: MTR-AB-10
+Target_Equipment_Model: ABB M3BP-200
+Quantity_On_Hand: 16
+Minimum_Required_Stock: 13
+Unit_Price: 85
+Total_Inventory_Value: 1360
+Supplier_Name: Industrial Parts Corp (ABB Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30010
+Part_Name: Cooling Fan Shroud and Blades
+Compatible_Asset_ID: MTR-SI-11
+Target_Equipment_Model: Siemens 1LE1001-1A
+Quantity_On_Hand: 25
+Minimum_Required_Stock: 8
+Unit_Price: 115
+Total_Inventory_Value: 2875
+Supplier_Name: Industrial Parts Corp (Siemens Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30011
+Part_Name: Stainless Steel Impeller V3
+Compatible_Asset_ID: PMP-GR-12
+Target_Equipment_Model: Grundfos CR-32
+Quantity_On_Hand: 38
+Minimum_Required_Stock: 9
+Unit_Price: 480
+Total_Inventory_Value: 18240
+Supplier_Name: Industrial Parts Corp (Grundfos Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30012
+Part_Name: Stainless Steel Impeller V3
+Compatible_Asset_ID: PMP-KS-13
+Target_Equipment_Model: KSB Omega-80
+Quantity_On_Hand: 7
+Minimum_Required_Stock: 11
+Unit_Price: 480
+Total_Inventory_Value: 3360
+Supplier_Name: Industrial Parts Corp (KSB Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30013
+Part_Name: Cooling Fan Shroud and Blades
+Compatible_Asset_ID: MTR-AB-14
+Target_Equipment_Model: ABB M3BP-225
+Quantity_On_Hand: 25
+Minimum_Required_Stock: 6
+Unit_Price: 115
+Total_Inventory_Value: 2875
+Supplier_Name: Industrial Parts Corp (ABB Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30014
+Part_Name: SKF Deep Groove Ball Bearing
+Compatible_Asset_ID: MTR-SI-15
+Target_Equipment_Model: Siemens 1LE1001-1A
+Quantity_On_Hand: 8
+Minimum_Required_Stock: 8
+Unit_Price: 85
+Total_Inventory_Value: 680
+Supplier_Name: Industrial Parts Corp (Siemens Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30015
+Part_Name: Stainless Steel Impeller V3
+Compatible_Asset_ID: PMP-GR-16
+Target_Equipment_Model: Grundfos CR-32
+Quantity_On_Hand: 9
+Minimum_Required_Stock: 8
+Unit_Price: 480
+Total_Inventory_Value: 4320
+Supplier_Name: Industrial Parts Corp (Grundfos Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30016
+Part_Name: Mechanical Seal Kit 32mm
+Compatible_Asset_ID: PMP-KS-17
+Target_Equipment_Model: KSB Omega-50
+Quantity_On_Hand: 11
+Minimum_Required_Stock: 6
+Unit_Price: 145
+Total_Inventory_Value: 1595
+Supplier_Name: Industrial Parts Corp (KSB Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30017
+Part_Name: SKF Deep Groove Ball Bearing
+Compatible_Asset_ID: MTR-AB-18
+Target_Equipment_Model: ABB M3BP-180
+Quantity_On_Hand: 27
+Minimum_Required_Stock: 13
+Unit_Price: 85
+Total_Inventory_Value: 2295
+Supplier_Name: Industrial Parts Corp (ABB Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30018
+Part_Name: SKF Deep Groove Ball Bearing
+Compatible_Asset_ID: MTR-SI-19
+Target_Equipment_Model: Siemens 1LE1001-1B
+Quantity_On_Hand: 4
+Minimum_Required_Stock: 12
+Unit_Price: 85
+Total_Inventory_Value: 340
+Supplier_Name: Industrial Parts Corp (Siemens Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30019
+Part_Name: EPDM O-Ring Replacement Pack
+Compatible_Asset_ID: PMP-GR-20
+Target_Equipment_Model: Grundfos CR-10
+Quantity_On_Hand: 6
+Minimum_Required_Stock: 9
+Unit_Price: 24.5
+Total_Inventory_Value: 147
+Supplier_Name: Industrial Parts Corp (Grundfos Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30020
+Part_Name: EPDM O-Ring Replacement Pack
+Compatible_Asset_ID: PMP-KS-21
+Target_Equipment_Model: KSB Omega-50
+Quantity_On_Hand: 24
+Minimum_Required_Stock: 5
+Unit_Price: 24.5
+Total_Inventory_Value: 588
+Supplier_Name: Industrial Parts Corp (KSB Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30021
+Part_Name: SKF Deep Groove Ball Bearing
+Compatible_Asset_ID: MTR-AB-22
+Target_Equipment_Model: ABB M3BP-180
+Quantity_On_Hand: 36
+Minimum_Required_Stock: 8
+Unit_Price: 85
+Total_Inventory_Value: 3060
+Supplier_Name: Industrial Parts Corp (ABB Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30022
+Part_Name: Carbon Brush Replacement Set
+Compatible_Asset_ID: MTR-SI-23
+Target_Equipment_Model: Siemens 1LE1001-1B
+Quantity_On_Hand: 43
+Minimum_Required_Stock: 7
+Unit_Price: 35
+Total_Inventory_Value: 1505
+Supplier_Name: Industrial Parts Corp (Siemens Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30023
+Part_Name: EPDM O-Ring Replacement Pack
+Compatible_Asset_ID: PMP-GR-24
+Target_Equipment_Model: Grundfos CR-10
+Quantity_On_Hand: 19
+Minimum_Required_Stock: 5
+Unit_Price: 24.5
+Total_Inventory_Value: 465.5
+Supplier_Name: Industrial Parts Corp (Grundfos Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30024
+Part_Name: Stainless Steel Impeller V3
+Compatible_Asset_ID: PMP-KS-25
+Target_Equipment_Model: KSB Omega-125
+Quantity_On_Hand: 33
+Minimum_Required_Stock: 7
+Unit_Price: 480
+Total_Inventory_Value: 15840
+Supplier_Name: Industrial Parts Corp (KSB Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30025
+Part_Name: Carbon Brush Replacement Set
+Compatible_Asset_ID: MTR-AB-26
+Target_Equipment_Model: ABB M3BP-200
+Quantity_On_Hand: 14
+Minimum_Required_Stock: 12
+Unit_Price: 35
+Total_Inventory_Value: 490
+Supplier_Name: Industrial Parts Corp (ABB Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30026
+Part_Name: SKF Deep Groove Ball Bearing
+Compatible_Asset_ID: MTR-SI-27
+Target_Equipment_Model: Siemens 1LE1001-2A
+Quantity_On_Hand: 26
+Minimum_Required_Stock: 13
+Unit_Price: 85
+Total_Inventory_Value: 2210
+Supplier_Name: Industrial Parts Corp (Siemens Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30027
+Part_Name: EPDM O-Ring Replacement Pack
+Compatible_Asset_ID: PMP-GR-28
+Target_Equipment_Model: Grundfos CR-15
+Quantity_On_Hand: 38
+Minimum_Required_Stock: 6
+Unit_Price: 24.5
+Total_Inventory_Value: 931
+Supplier_Name: Industrial Parts Corp (Grundfos Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30028
+Part_Name: Stainless Steel Impeller V3
+Compatible_Asset_ID: PMP-KS-29
+Target_Equipment_Model: KSB Omega-50
+Quantity_On_Hand: 42
+Minimum_Required_Stock: 12
+Unit_Price: 480
+Total_Inventory_Value: 20160
+Supplier_Name: Industrial Parts Corp (KSB Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30029
+Part_Name: Cooling Fan Shroud and Blades
+Compatible_Asset_ID: MTR-AB-30
+Target_Equipment_Model: ABB M3BP-225
+Quantity_On_Hand: 29
+Minimum_Required_Stock: 13
+Unit_Price: 115
+Total_Inventory_Value: 3335
+Supplier_Name: Industrial Parts Corp (ABB Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30030
+Part_Name: Cooling Fan Shroud and Blades
+Compatible_Asset_ID: MTR-SI-31
+Target_Equipment_Model: Siemens 1LE1001-1C
+Quantity_On_Hand: 26
+Minimum_Required_Stock: 6
+Unit_Price: 115
+Total_Inventory_Value: 2990
+Supplier_Name: Industrial Parts Corp (Siemens Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30031
+Part_Name: EPDM O-Ring Replacement Pack
+Compatible_Asset_ID: PMP-GR-32
+Target_Equipment_Model: Grundfos CR-10
+Quantity_On_Hand: 10
+Minimum_Required_Stock: 12
+Unit_Price: 24.5
+Total_Inventory_Value: 245
+Supplier_Name: Industrial Parts Corp (Grundfos Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30032
+Part_Name: Mechanical Seal Kit 32mm
+Compatible_Asset_ID: PMP-KS-33
+Target_Equipment_Model: KSB Omega-100
+Quantity_On_Hand: 6
+Minimum_Required_Stock: 6
+Unit_Price: 145
+Total_Inventory_Value: 870
+Supplier_Name: Industrial Parts Corp (KSB Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30033
+Part_Name: Cooling Fan Shroud and Blades
+Compatible_Asset_ID: MTR-AB-34
+Target_Equipment_Model: ABB M3BP-180
+Quantity_On_Hand: 39
+Minimum_Required_Stock: 12
+Unit_Price: 115
+Total_Inventory_Value: 4485
+Supplier_Name: Industrial Parts Corp (ABB Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30034
+Part_Name: Cooling Fan Shroud and Blades
+Compatible_Asset_ID: MTR-SI-35
+Target_Equipment_Model: Siemens 1LE1001-1A
+Quantity_On_Hand: 6
+Minimum_Required_Stock: 14
+Unit_Price: 115
+Total_Inventory_Value: 690
+Supplier_Name: Industrial Parts Corp (Siemens Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30035
+Part_Name: EPDM O-Ring Replacement Pack
+Compatible_Asset_ID: PMP-GR-36
+Target_Equipment_Model: Grundfos CR-45
+Quantity_On_Hand: 7
+Minimum_Required_Stock: 9
+Unit_Price: 24.5
+Total_Inventory_Value: 171.5
+Supplier_Name: Industrial Parts Corp (Grundfos Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30036
+Part_Name: Mechanical Seal Kit 32mm
+Compatible_Asset_ID: PMP-KS-37
+Target_Equipment_Model: KSB Omega-125
+Quantity_On_Hand: 29
+Minimum_Required_Stock: 9
+Unit_Price: 145
+Total_Inventory_Value: 4205
+Supplier_Name: Industrial Parts Corp (KSB Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30037
+Part_Name: SKF Deep Groove Ball Bearing
+Compatible_Asset_ID: MTR-AB-38
+Target_Equipment_Model: ABB M3BP-180
+Quantity_On_Hand: 18
+Minimum_Required_Stock: 6
+Unit_Price: 85
+Total_Inventory_Value: 1530
+Supplier_Name: Industrial Parts Corp (ABB Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30038
+Part_Name: SKF Deep Groove Ball Bearing
+Compatible_Asset_ID: MTR-SI-39
+Target_Equipment_Model: Siemens 1LE1001-1B
+Quantity_On_Hand: 33
+Minimum_Required_Stock: 7
+Unit_Price: 85
+Total_Inventory_Value: 2805
+Supplier_Name: Industrial Parts Corp (Siemens Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30039
+Part_Name: EPDM O-Ring Replacement Pack
+Compatible_Asset_ID: PMP-GR-40
+Target_Equipment_Model: Grundfos CR-45
+Quantity_On_Hand: 4
+Minimum_Required_Stock: 12
+Unit_Price: 24.5
+Total_Inventory_Value: 98
+Supplier_Name: Industrial Parts Corp (Grundfos Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30040
+Part_Name: EPDM O-Ring Replacement Pack
+Compatible_Asset_ID: PMP-KS-41
+Target_Equipment_Model: KSB Omega-125
+Quantity_On_Hand: 41
+Minimum_Required_Stock: 5
+Unit_Price: 24.5
+Total_Inventory_Value: 1004.5
+Supplier_Name: Industrial Parts Corp (KSB Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30041
+Part_Name: Carbon Brush Replacement Set
+Compatible_Asset_ID: MTR-AB-42
+Target_Equipment_Model: ABB M3BP-200
+Quantity_On_Hand: 25
+Minimum_Required_Stock: 7
+Unit_Price: 35
+Total_Inventory_Value: 875
+Supplier_Name: Industrial Parts Corp (ABB Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30042
+Part_Name: SKF Deep Groove Ball Bearing
+Compatible_Asset_ID: MTR-SI-43
+Target_Equipment_Model: Siemens 1LE1001-1B
+Quantity_On_Hand: 42
+Minimum_Required_Stock: 13
+Unit_Price: 85
+Total_Inventory_Value: 3570
+Supplier_Name: Industrial Parts Corp (Siemens Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30043
+Part_Name: Mechanical Seal Kit 32mm
+Compatible_Asset_ID: PMP-GR-44
+Target_Equipment_Model: Grundfos CR-64
+Quantity_On_Hand: 43
+Minimum_Required_Stock: 8
+Unit_Price: 145
+Total_Inventory_Value: 6235
+Supplier_Name: Industrial Parts Corp (Grundfos Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30044
+Part_Name: Stainless Steel Impeller V3
+Compatible_Asset_ID: PMP-KS-45
+Target_Equipment_Model: KSB Omega-80
+Quantity_On_Hand: 28
+Minimum_Required_Stock: 10
+Unit_Price: 480
+Total_Inventory_Value: 13440
+Supplier_Name: Industrial Parts Corp (KSB Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30045
+Part_Name: Cooling Fan Shroud and Blades
+Compatible_Asset_ID: MTR-AB-46
+Target_Equipment_Model: ABB M3BP-225
+Quantity_On_Hand: 6
+Minimum_Required_Stock: 14
+Unit_Price: 115
+Total_Inventory_Value: 690
+Supplier_Name: Industrial Parts Corp (ABB Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30046
+Part_Name: SKF Deep Groove Ball Bearing
+Compatible_Asset_ID: MTR-SI-47
+Target_Equipment_Model: Siemens 1LE1001-1A
+Quantity_On_Hand: 32
+Minimum_Required_Stock: 11
+Unit_Price: 85
+Total_Inventory_Value: 2720
+Supplier_Name: Industrial Parts Corp (Siemens Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30047
+Part_Name: EPDM O-Ring Replacement Pack
+Compatible_Asset_ID: PMP-GR-48
+Target_Equipment_Model: Grundfos CR-64
+Quantity_On_Hand: 11
+Minimum_Required_Stock: 9
+Unit_Price: 24.5
+Total_Inventory_Value: 269.5
+Supplier_Name: Industrial Parts Corp (Grundfos Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30048
+Part_Name: EPDM O-Ring Replacement Pack
+Compatible_Asset_ID: PMP-KS-49
+Target_Equipment_Model: KSB Omega-125
+Quantity_On_Hand: 40
+Minimum_Required_Stock: 6
+Unit_Price: 24.5
+Total_Inventory_Value: 980
+Supplier_Name: Industrial Parts Corp (KSB Authorized Partner)
+
+======================================
+
+========== Data Record ==========
+
+Part_SKU: SKU-30049
+Part_Name: Carbon Brush Replacement Set
+Compatible_Asset_ID: MTR-AB-50
+Target_Equipment_Model: ABB M3BP-160
+Quantity_On_Hand: 15
+Minimum_Required_Stock: 11
+Unit_Price: 35
+Total_Inventory_Value: 525
+Supplier_Name: Industrial Parts Corp (ABB Authorized Partner)
+
+======================================

@@ -1,0 +1,506 @@
+{
+  "document": "Spare_Parts_Inventory (1).xlsx",
+  "document_type": "Spare Parts Inventory",
+  "entities": [
+    {
+      "Part_SKU": "SKU-30000",
+      "Part_Name": "Stainless Steel Impeller V3",
+      "Compatible_Asset_ID": "KS-01",
+      "Target_Equipment_Model": "KSB Omega-125",
+      "Quantity_On_Hand": "40",
+      "Minimum_Required_Stock": "8",
+      "Unit_Price": "480",
+      "Supplier_Name": "Industrial Parts Corp (KSB Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30001",
+      "Part_Name": "SKF Deep Groove Ball Bearing",
+      "Compatible_Asset_ID": "AB-02",
+      "Target_Equipment_Model": "ABB M3BP-160",
+      "Quantity_On_Hand": "30",
+      "Minimum_Required_Stock": "9",
+      "Unit_Price": "85",
+      "Supplier_Name": "Industrial Parts Corp (ABB Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30002",
+      "Part_Name": "SKF Deep Groove Ball Bearing",
+      "Compatible_Asset_ID": "SI-03",
+      "Target_Equipment_Model": "Siemens 1LE1001-2A",
+      "Quantity_On_Hand": "17",
+      "Minimum_Required_Stock": "12",
+      "Unit_Price": "85",
+      "Supplier_Name": "Industrial Parts Corp (Siemens Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30003",
+      "Part_Name": "Stainless Steel Impeller V3",
+      "Compatible_Asset_ID": "GR-04",
+      "Target_Equipment_Model": "Grundfos CR-10",
+      "Quantity_On_Hand": "11",
+      "Minimum_Required_Stock": "13",
+      "Unit_Price": "480",
+      "Supplier_Name": "Industrial Parts Corp (Grundfos Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30004",
+      "Part_Name": "Stainless Steel Impeller V3",
+      "Compatible_Asset_ID": "KS-05",
+      "Target_Equipment_Model": "KSB Omega-125",
+      "Quantity_On_Hand": "40",
+      "Minimum_Required_Stock": "8",
+      "Unit_Price": "480",
+      "Supplier_Name": "Industrial Parts Corp (KSB Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30005",
+      "Part_Name": "SKF Deep Groove Ball Bearing",
+      "Compatible_Asset_ID": "AB-06",
+      "Target_Equipment_Model": "ABB M3BP-225",
+      "Quantity_On_Hand": "2",
+      "Minimum_Required_Stock": "5",
+      "Unit_Price": "85",
+      "Supplier_Name": "Industrial Parts Corp (ABB Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30006",
+      "Part_Name": "Cooling Fan Shroud and Blades",
+      "Compatible_Asset_ID": "SI-07",
+      "Target_Equipment_Model": "Siemens 1LE1001-1A",
+      "Quantity_On_Hand": "15",
+      "Minimum_Required_Stock": "12",
+      "Unit_Price": "115",
+      "Supplier_Name": "Industrial Parts Corp (Siemens Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30007",
+      "Part_Name": "EPDM O-Ring Replacement Pack",
+      "Compatible_Asset_ID": "GR-08",
+      "Target_Equipment_Model": "Grundfos CR-15",
+      "Quantity_On_Hand": "5",
+      "Minimum_Required_Stock": "6",
+      "Unit_Price": "24.5",
+      "Supplier_Name": "Industrial Parts Corp (Grundfos Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30008",
+      "Part_Name": "EPDM O-Ring Replacement Pack",
+      "Compatible_Asset_ID": "KS-09",
+      "Target_Equipment_Model": "KSB Omega-100",
+      "Quantity_On_Hand": "38",
+      "Minimum_Required_Stock": "13",
+      "Unit_Price": "24.5",
+      "Supplier_Name": "Industrial Parts Corp (KSB Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30009",
+      "Part_Name": "SKF Deep Groove Ball Bearing",
+      "Compatible_Asset_ID": "AB-10",
+      "Target_Equipment_Model": "ABB M3BP-200",
+      "Quantity_On_Hand": "16",
+      "Minimum_Required_Stock": "13",
+      "Unit_Price": "85",
+      "Supplier_Name": "Industrial Parts Corp (ABB Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30010",
+      "Part_Name": "Cooling Fan Shroud and Blades",
+      "Compatible_Asset_ID": "SI-11",
+      "Target_Equipment_Model": "Siemens 1LE1001-1A",
+      "Quantity_On_Hand": "25",
+      "Minimum_Required_Stock": "8",
+      "Unit_Price": "115",
+      "Supplier_Name": "Industrial Parts Corp (Siemens Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30011",
+      "Part_Name": "Stainless Steel Impeller V3",
+      "Compatible_Asset_ID": "GR-12",
+      "Target_Equipment_Model": "Grundfos CR-32",
+      "Quantity_On_Hand": "38",
+      "Minimum_Required_Stock": "9",
+      "Unit_Price": "480",
+      "Supplier_Name": "Industrial Parts Corp (Grundfos Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30012",
+      "Part_Name": "Stainless Steel Impeller V3",
+      "Compatible_Asset_ID": "KS-13",
+      "Target_Equipment_Model": "KSB Omega-80",
+      "Quantity_On_Hand": "7",
+      "Minimum_Required_Stock": "11",
+      "Unit_Price": "480",
+      "Supplier_Name": "Industrial Parts Corp (KSB Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30013",
+      "Part_Name": "Cooling Fan Shroud and Blades",
+      "Compatible_Asset_ID": "AB-14",
+      "Target_Equipment_Model": "ABB M3BP-225",
+      "Quantity_On_Hand": "25",
+      "Minimum_Required_Stock": "6",
+      "Unit_Price": "115",
+      "Supplier_Name": "Industrial Parts Corp (ABB Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30014",
+      "Part_Name": "SKF Deep Groove Ball Bearing",
+      "Compatible_Asset_ID": "SI-15",
+      "Target_Equipment_Model": "Siemens 1LE1001-1A",
+      "Quantity_On_Hand": "8",
+      "Minimum_Required_Stock": "8",
+      "Unit_Price": "85",
+      "Supplier_Name": "Industrial Parts Corp (Siemens Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30015",
+      "Part_Name": "Stainless Steel Impeller V3",
+      "Compatible_Asset_ID": "GR-16",
+      "Target_Equipment_Model": "Grundfos CR-32",
+      "Quantity_On_Hand": "9",
+      "Minimum_Required_Stock": "8",
+      "Unit_Price": "480",
+      "Supplier_Name": "Industrial Parts Corp (Grundfos Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30016",
+      "Part_Name": "Mechanical Seal Kit 32mm",
+      "Compatible_Asset_ID": "KS-17",
+      "Target_Equipment_Model": "KSB Omega-50",
+      "Quantity_On_Hand": "11",
+      "Minimum_Required_Stock": "6",
+      "Unit_Price": "145",
+      "Supplier_Name": "Industrial Parts Corp (KSB Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30017",
+      "Part_Name": "SKF Deep Groove Ball Bearing",
+      "Compatible_Asset_ID": "AB-18",
+      "Target_Equipment_Model": "ABB M3BP-180",
+      "Quantity_On_Hand": "27",
+      "Minimum_Required_Stock": "13",
+      "Unit_Price": "85",
+      "Supplier_Name": "Industrial Parts Corp (ABB Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30018",
+      "Part_Name": "SKF Deep Groove Ball Bearing",
+      "Compatible_Asset_ID": "SI-19",
+      "Target_Equipment_Model": "Siemens 1LE1001-1B",
+      "Quantity_On_Hand": "4",
+      "Minimum_Required_Stock": "12",
+      "Unit_Price": "85",
+      "Supplier_Name": "Industrial Parts Corp (Siemens Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30019",
+      "Part_Name": "EPDM O-Ring Replacement Pack",
+      "Compatible_Asset_ID": "GR-20",
+      "Target_Equipment_Model": "Grundfos CR-10",
+      "Quantity_On_Hand": "6",
+      "Minimum_Required_Stock": "9",
+      "Unit_Price": "24.5",
+      "Supplier_Name": "Industrial Parts Corp (Grundfos Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30020",
+      "Part_Name": "EPDM O-Ring Replacement Pack",
+      "Compatible_Asset_ID": "KS-21",
+      "Target_Equipment_Model": "KSB Omega-50",
+      "Quantity_On_Hand": "24",
+      "Minimum_Required_Stock": "5",
+      "Unit_Price": "24.5",
+      "Supplier_Name": "Industrial Parts Corp (KSB Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30021",
+      "Part_Name": "SKF Deep Groove Ball Bearing",
+      "Compatible_Asset_ID": "AB-22",
+      "Target_Equipment_Model": "ABB M3BP-180",
+      "Quantity_On_Hand": "36",
+      "Minimum_Required_Stock": "8",
+      "Unit_Price": "85",
+      "Supplier_Name": "Industrial Parts Corp (ABB Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30022",
+      "Part_Name": "Carbon Brush Replacement Set",
+      "Compatible_Asset_ID": "SI-23",
+      "Target_Equipment_Model": "Siemens 1LE1001-1B",
+      "Quantity_On_Hand": "43",
+      "Minimum_Required_Stock": "7",
+      "Unit_Price": "35",
+      "Supplier_Name": "Industrial Parts Corp (Siemens Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30023",
+      "Part_Name": "EPDM O-Ring Replacement Pack",
+      "Compatible_Asset_ID": "GR-24",
+      "Target_Equipment_Model": "Grundfos CR-10",
+      "Quantity_On_Hand": "19",
+      "Minimum_Required_Stock": "5",
+      "Unit_Price": "24.5",
+      "Supplier_Name": "Industrial Parts Corp (Grundfos Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30024",
+      "Part_Name": "Stainless Steel Impeller V3",
+      "Compatible_Asset_ID": "KS-25",
+      "Target_Equipment_Model": "KSB Omega-125",
+      "Quantity_On_Hand": "33",
+      "Minimum_Required_Stock": "7",
+      "Unit_Price": "480",
+      "Supplier_Name": "Industrial Parts Corp (KSB Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30025",
+      "Part_Name": "Carbon Brush Replacement Set",
+      "Compatible_Asset_ID": "AB-26",
+      "Target_Equipment_Model": "ABB M3BP-200",
+      "Quantity_On_Hand": "14",
+      "Minimum_Required_Stock": "12",
+      "Unit_Price": "35",
+      "Supplier_Name": "Industrial Parts Corp (ABB Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30026",
+      "Part_Name": "SKF Deep Groove Ball Bearing",
+      "Compatible_Asset_ID": "SI-27",
+      "Target_Equipment_Model": "Siemens 1LE1001-2A",
+      "Quantity_On_Hand": "26",
+      "Minimum_Required_Stock": "13",
+      "Unit_Price": "85",
+      "Supplier_Name": "Industrial Parts Corp (Siemens Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30027",
+      "Part_Name": "EPDM O-Ring Replacement Pack",
+      "Compatible_Asset_ID": "GR-28",
+      "Target_Equipment_Model": "Grundfos CR-15",
+      "Quantity_On_Hand": "38",
+      "Minimum_Required_Stock": "6",
+      "Unit_Price": "24.5",
+      "Supplier_Name": "Industrial Parts Corp (Grundfos Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30028",
+      "Part_Name": "Stainless Steel Impeller V3",
+      "Compatible_Asset_ID": "KS-29",
+      "Target_Equipment_Model": "KSB Omega-50",
+      "Quantity_On_Hand": "42",
+      "Minimum_Required_Stock": "12",
+      "Unit_Price": "480",
+      "Supplier_Name": "Industrial Parts Corp (KSB Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30029",
+      "Part_Name": "Cooling Fan Shroud and Blades",
+      "Compatible_Asset_ID": "AB-30",
+      "Target_Equipment_Model": "ABB M3BP-225",
+      "Quantity_On_Hand": "29",
+      "Minimum_Required_Stock": "13",
+      "Unit_Price": "115",
+      "Supplier_Name": "Industrial Parts Corp (ABB Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30030",
+      "Part_Name": "Cooling Fan Shroud and Blades",
+      "Compatible_Asset_ID": "SI-31",
+      "Target_Equipment_Model": "Siemens 1LE1001-1C",
+      "Quantity_On_Hand": "26",
+      "Minimum_Required_Stock": "6",
+      "Unit_Price": "115",
+      "Supplier_Name": "Industrial Parts Corp (Siemens Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30031",
+      "Part_Name": "EPDM O-Ring Replacement Pack",
+      "Compatible_Asset_ID": "GR-32",
+      "Target_Equipment_Model": "Grundfos CR-10",
+      "Quantity_On_Hand": "10",
+      "Minimum_Required_Stock": "12",
+      "Unit_Price": "24.5",
+      "Supplier_Name": "Industrial Parts Corp (Grundfos Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30032",
+      "Part_Name": "Mechanical Seal Kit 32mm",
+      "Compatible_Asset_ID": "KS-33",
+      "Target_Equipment_Model": "KSB Omega-100",
+      "Quantity_On_Hand": "6",
+      "Minimum_Required_Stock": "6",
+      "Unit_Price": "145",
+      "Supplier_Name": "Industrial Parts Corp (KSB Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30033",
+      "Part_Name": "Cooling Fan Shroud and Blades",
+      "Compatible_Asset_ID": "AB-34",
+      "Target_Equipment_Model": "ABB M3BP-180",
+      "Quantity_On_Hand": "39",
+      "Minimum_Required_Stock": "12",
+      "Unit_Price": "115",
+      "Supplier_Name": "Industrial Parts Corp (ABB Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30034",
+      "Part_Name": "Cooling Fan Shroud and Blades",
+      "Compatible_Asset_ID": "SI-35",
+      "Target_Equipment_Model": "Siemens 1LE1001-1A",
+      "Quantity_On_Hand": "6",
+      "Minimum_Required_Stock": "14",
+      "Unit_Price": "115",
+      "Supplier_Name": "Industrial Parts Corp (Siemens Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30035",
+      "Part_Name": "EPDM O-Ring Replacement Pack",
+      "Compatible_Asset_ID": "GR-36",
+      "Target_Equipment_Model": "Grundfos CR-45",
+      "Quantity_On_Hand": "7",
+      "Minimum_Required_Stock": "9",
+      "Unit_Price": "24.5",
+      "Supplier_Name": "Industrial Parts Corp (Grundfos Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30036",
+      "Part_Name": "Mechanical Seal Kit 32mm",
+      "Compatible_Asset_ID": "KS-37",
+      "Target_Equipment_Model": "KSB Omega-125",
+      "Quantity_On_Hand": "29",
+      "Minimum_Required_Stock": "9",
+      "Unit_Price": "145",
+      "Supplier_Name": "Industrial Parts Corp (KSB Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30037",
+      "Part_Name": "SKF Deep Groove Ball Bearing",
+      "Compatible_Asset_ID": "AB-38",
+      "Target_Equipment_Model": "ABB M3BP-180",
+      "Quantity_On_Hand": "18",
+      "Minimum_Required_Stock": "6",
+      "Unit_Price": "85",
+      "Supplier_Name": "Industrial Parts Corp (ABB Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30038",
+      "Part_Name": "SKF Deep Groove Ball Bearing",
+      "Compatible_Asset_ID": "SI-39",
+      "Target_Equipment_Model": "Siemens 1LE1001-1B",
+      "Quantity_On_Hand": "33",
+      "Minimum_Required_Stock": "7",
+      "Unit_Price": "85",
+      "Supplier_Name": "Industrial Parts Corp (Siemens Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30039",
+      "Part_Name": "EPDM O-Ring Replacement Pack",
+      "Compatible_Asset_ID": "GR-40",
+      "Target_Equipment_Model": "Grundfos CR-45",
+      "Quantity_On_Hand": "4",
+      "Minimum_Required_Stock": "12",
+      "Unit_Price": "24.5",
+      "Supplier_Name": "Industrial Parts Corp (Grundfos Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30040",
+      "Part_Name": "EPDM O-Ring Replacement Pack",
+      "Compatible_Asset_ID": "KS-41",
+      "Target_Equipment_Model": "KSB Omega-125",
+      "Quantity_On_Hand": "41",
+      "Minimum_Required_Stock": "5",
+      "Unit_Price": "24.5",
+      "Supplier_Name": "Industrial Parts Corp (KSB Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30041",
+      "Part_Name": "Carbon Brush Replacement Set",
+      "Compatible_Asset_ID": "AB-42",
+      "Target_Equipment_Model": "ABB M3BP-200",
+      "Quantity_On_Hand": "25",
+      "Minimum_Required_Stock": "7",
+      "Unit_Price": "35",
+      "Supplier_Name": "Industrial Parts Corp (ABB Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30042",
+      "Part_Name": "SKF Deep Groove Ball Bearing",
+      "Compatible_Asset_ID": "SI-43",
+      "Target_Equipment_Model": "Siemens 1LE1001-1B",
+      "Quantity_On_Hand": "42",
+      "Minimum_Required_Stock": "13",
+      "Unit_Price": "85",
+      "Supplier_Name": "Industrial Parts Corp (Siemens Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30043",
+      "Part_Name": "Mechanical Seal Kit 32mm",
+      "Compatible_Asset_ID": "GR-44",
+      "Target_Equipment_Model": "Grundfos CR-64",
+      "Quantity_On_Hand": "43",
+      "Minimum_Required_Stock": "8",
+      "Unit_Price": "145",
+      "Supplier_Name": "Industrial Parts Corp (Grundfos Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30044",
+      "Part_Name": "Stainless Steel Impeller V3",
+      "Compatible_Asset_ID": "KS-45",
+      "Target_Equipment_Model": "KSB Omega-80",
+      "Quantity_On_Hand": "28",
+      "Minimum_Required_Stock": "10",
+      "Unit_Price": "480",
+      "Supplier_Name": "Industrial Parts Corp (KSB Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30045",
+      "Part_Name": "Cooling Fan Shroud and Blades",
+      "Compatible_Asset_ID": "AB-46",
+      "Target_Equipment_Model": "ABB M3BP-225",
+      "Quantity_On_Hand": "6",
+      "Minimum_Required_Stock": "14",
+      "Unit_Price": "115",
+      "Supplier_Name": "Industrial Parts Corp (ABB Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30046",
+      "Part_Name": "SKF Deep Groove Ball Bearing",
+      "Compatible_Asset_ID": "SI-47",
+      "Target_Equipment_Model": "Siemens 1LE1001-1A",
+      "Quantity_On_Hand": "32",
+      "Minimum_Required_Stock": "11",
+      "Unit_Price": "85",
+      "Supplier_Name": "Industrial Parts Corp (Siemens Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30047",
+      "Part_Name": "EPDM O-Ring Replacement Pack",
+      "Compatible_Asset_ID": "GR-48",
+      "Target_Equipment_Model": "Grundfos CR-64",
+      "Quantity_On_Hand": "11",
+      "Minimum_Required_Stock": "9",
+      "Unit_Price": "24.5",
+      "Supplier_Name": "Industrial Parts Corp (Grundfos Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30048",
+      "Part_Name": "EPDM O-Ring Replacement Pack",
+      "Compatible_Asset_ID": "KS-49",
+      "Target_Equipment_Model": "KSB Omega-125",
+      "Quantity_On_Hand": "40",
+      "Minimum_Required_Stock": "6",
+      "Unit_Price": "24.5",
+      "Supplier_Name": "Industrial Parts Corp (KSB Authorized Partner)"
+    },
+    {
+      "Part_SKU": "SKU-30049",
+      "Part_Name": "Carbon Brush Replacement Set",
+      "Compatible_Asset_ID": "AB-50",
+      "Target_Equipment_Model": "ABB M3BP-160",
+      "Quantity_On_Hand": "15",
+      "Minimum_Required_Stock": "11",
+      "Unit_Price": "35",
+      "Supplier_Name": "Industrial Parts Corp (ABB Authorized Partner)"
+    }
+  ]
+}

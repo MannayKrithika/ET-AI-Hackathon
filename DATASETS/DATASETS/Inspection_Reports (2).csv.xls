@@ -1,0 +1,51 @@
+﻿Inspection_ID,Equipment_ID,Equipment_Name,Inspection_Date,Inspector,Observation,Risk_Level,Recommendation,Status
+INS001,EQ-2001,Grundfos CR45 Pump,01-07-2026,Rahul,Bearing vibration,Medium,Monitor weekly,Open
+INS002,EQ-2002,Grundfos CR32 Pump,02-07-2026,Priya,Oil leakage,High,Replace seal,Closed
+INS003,EQ-2003,ABB Motor M3BP,03-07-2026,Ajay,Normal operation,Low,No action required,Open
+INS004,EQ-2004,Siemens SIMOTICS Motor,04-07-2026,Sneha,High temperature,High,Inspect cooling system,Closed
+INS005,EQ-2005,Air Compressor,05-07-2026,Vikram,Loose coupling,Medium,Align shaft,Open
+INS006,EQ-2006,Boiler Unit,06-07-2026,Rahul,Dust accumulation,Low,Clean equipment,Closed
+INS007,EQ-2007,Conveyor Belt,07-07-2026,Priya,Pressure fluctuation,Medium,Inspect pressure valve,Open
+INS008,EQ-2008,Cooling Tower,08-07-2026,Ajay,Noise detected,Medium,Check bearings,Closed
+INS009,EQ-2009,Hydraulic Press,09-07-2026,Sneha,Seal wear,High,Replace seal,Open
+INS010,EQ-2010,Diesel Generator,10-07-2026,Vikram,Electrical fault,High,Check wiring,Closed
+INS011,EQ-2001,Grundfos CR45 Pump,11-07-2026,Rahul,Bearing vibration,Medium,Monitor weekly,Open
+INS012,EQ-2002,Grundfos CR32 Pump,12-07-2026,Priya,Oil leakage,High,Replace seal,Closed
+INS013,EQ-2003,ABB Motor M3BP,13-07-2026,Ajay,Normal operation,Low,No action required,Open
+INS014,EQ-2004,Siemens SIMOTICS Motor,14-07-2026,Sneha,High temperature,High,Inspect cooling system,Closed
+INS015,EQ-2005,Air Compressor,15-07-2026,Vikram,Loose coupling,Medium,Align shaft,Open
+INS016,EQ-2006,Boiler Unit,16-07-2026,Rahul,Dust accumulation,Low,Clean equipment,Closed
+INS017,EQ-2007,Conveyor Belt,17-07-2026,Priya,Pressure fluctuation,Medium,Inspect pressure valve,Open
+INS018,EQ-2008,Cooling Tower,18-07-2026,Ajay,Noise detected,Medium,Check bearings,Closed
+INS019,EQ-2009,Hydraulic Press,19-07-2026,Sneha,Seal wear,High,Replace seal,Open
+INS020,EQ-2010,Diesel Generator,20-07-2026,Vikram,Electrical fault,High,Check wiring,Closed
+INS021,EQ-2001,Grundfos CR45 Pump,21-07-2026,Rahul,Bearing vibration,Medium,Monitor weekly,Open
+INS022,EQ-2002,Grundfos CR32 Pump,22-07-2026,Priya,Oil leakage,High,Replace seal,Closed
+INS023,EQ-2003,ABB Motor M3BP,23-07-2026,Ajay,Normal operation,Low,No action required,Open
+INS024,EQ-2004,Siemens SIMOTICS Motor,24-07-2026,Sneha,High temperature,High,Inspect cooling system,Closed
+INS025,EQ-2005,Air Compressor,25-07-2026,Vikram,Loose coupling,Medium,Align shaft,Open
+INS026,EQ-2006,Boiler Unit,26-07-2026,Rahul,Dust accumulation,Low,Clean equipment,Closed
+INS027,EQ-2007,Conveyor Belt,27-07-2026,Priya,Pressure fluctuation,Medium,Inspect pressure valve,Open
+INS028,EQ-2008,Cooling Tower,28-07-2026,Ajay,Noise detected,Medium,Check bearings,Closed
+INS029,EQ-2009,Hydraulic Press,01-07-2026,Sneha,Seal wear,High,Replace seal,Open
+INS030,EQ-2010,Diesel Generator,02-07-2026,Vikram,Electrical fault,High,Check wiring,Closed
+INS031,EQ-2001,Grundfos CR45 Pump,03-07-2026,Rahul,Bearing vibration,Medium,Monitor weekly,Open
+INS032,EQ-2002,Grundfos CR32 Pump,04-07-2026,Priya,Oil leakage,High,Replace seal,Closed
+INS033,EQ-2003,ABB Motor M3BP,05-07-2026,Ajay,Normal operation,Low,No action required,Open
+INS034,EQ-2004,Siemens SIMOTICS Motor,06-07-2026,Sneha,High temperature,High,Inspect cooling system,Closed
+INS035,EQ-2005,Air Compressor,07-07-2026,Vikram,Loose coupling,Medium,Align shaft,Open
+INS036,EQ-2006,Boiler Unit,08-07-2026,Rahul,Dust accumulation,Low,Clean equipment,Closed
+INS037,EQ-2007,Conveyor Belt,09-07-2026,Priya,Pressure fluctuation,Medium,Inspect pressure valve,Open
+INS038,EQ-2008,Cooling Tower,10-07-2026,Ajay,Noise detected,Medium,Check bearings,Closed
+INS039,EQ-2009,Hydraulic Press,11-07-2026,Sneha,Seal wear,High,Replace seal,Open
+INS040,EQ-2010,Diesel Generator,12-07-2026,Vikram,Electrical fault,High,Check wiring,Closed
+INS041,EQ-2001,Grundfos CR45 Pump,13-07-2026,Rahul,Bearing vibration,Medium,Monitor weekly,Open
+INS042,EQ-2002,Grundfos CR32 Pump,14-07-2026,Priya,Oil leakage,High,Replace seal,Closed
+INS043,EQ-2003,ABB Motor M3BP,15-07-2026,Ajay,Normal operation,Low,No action required,Open
+INS044,EQ-2004,Siemens SIMOTICS Motor,16-07-2026,Sneha,High temperature,High,Inspect cooling system,Closed
+INS045,EQ-2005,Air Compressor,17-07-2026,Vikram,Loose coupling,Medium,Align shaft,Open
+INS046,EQ-2006,Boiler Unit,18-07-2026,Rahul,Dust accumulation,Low,Clean equipment,Closed
+INS047,EQ-2007,Conveyor Belt,19-07-2026,Priya,Pressure fluctuation,Medium,Inspect pressure valve,Open
+INS048,EQ-2008,Cooling Tower,20-07-2026,Ajay,Noise detected,Medium,Check bearings,Closed
+INS049,EQ-2009,Hydraulic Press,21-07-2026,Sneha,Seal wear,High,Replace seal,Open
+INS050,EQ-2010,Diesel Generator,22-07-2026,Vikram,Electrical fault,High,Check wiring,Closed

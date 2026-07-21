@@ -1,0 +1,649 @@
+========== Data Record ==========
+
+Inspection_ID: INSP-5000
+Asset_ID: PMP-GR-16
+Equipment_Name: Grundfos CR-32
+Inspection_Date: 2025-10-30
+Checkpoint_Evaluated: Mechanical seal leakage rate
+Result: Fail
+Inspector: QA-2 Lead Tech
+Remarks/Notes: Exceeded acceptable operational thresholds. Maintenance triggered.
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5001
+Asset_ID: PMP-GR-08
+Equipment_Name: Grundfos CR-15
+Inspection_Date: 2025-01-28
+Checkpoint_Evaluated: Mechanical seal leakage rate
+Result: Pass
+Inspector: QA-2 Lead Tech
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5002
+Asset_ID: PMP-GR-04
+Equipment_Name: Grundfos CR-10
+Inspection_Date: 2025-12-31
+Checkpoint_Evaluated: Vibration levels baseline
+Result: Pass
+Inspector: Chief Inspector
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5003
+Asset_ID: PMP-GR-40
+Equipment_Name: Grundfos CR-45
+Inspection_Date: 2026-01-06
+Checkpoint_Evaluated: Mechanical seal leakage rate
+Result: Pass
+Inspector: Safety Officer Black
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5004
+Asset_ID: PMP-GR-04
+Equipment_Name: Grundfos CR-10
+Inspection_Date: 2025-08-26
+Checkpoint_Evaluated: Mechanical seal leakage rate
+Result: Pass
+Inspector: QA-1 Inspector
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5005
+Asset_ID: PMP-KS-25
+Equipment_Name: KSB Omega-125
+Inspection_Date: 2025-10-01
+Checkpoint_Evaluated: Vibration levels baseline
+Result: Pass
+Inspector: Safety Officer Black
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5006
+Asset_ID: MTR-SI-03
+Equipment_Name: Siemens 1LE1001-2A
+Inspection_Date: 2025-01-15
+Checkpoint_Evaluated: Terminal box terminal secure
+Result: Pass
+Inspector: QA-1 Inspector
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5007
+Asset_ID: PMP-GR-32
+Equipment_Name: Grundfos CR-10
+Inspection_Date: 2025-01-28
+Checkpoint_Evaluated: Vibration levels baseline
+Result: Pass
+Inspector: QA-1 Inspector
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5008
+Asset_ID: MTR-SI-03
+Equipment_Name: Siemens 1LE1001-2A
+Inspection_Date: 2025-08-19
+Checkpoint_Evaluated: Amperage draw balanced
+Result: Pass
+Inspector: Chief Inspector
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5009
+Asset_ID: MTR-SI-27
+Equipment_Name: Siemens 1LE1001-2A
+Inspection_Date: 2025-01-25
+Checkpoint_Evaluated: Stator temperature parameters
+Result: Pass
+Inspector: QA-1 Inspector
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5010
+Asset_ID: PMP-KS-29
+Equipment_Name: KSB Omega-50
+Inspection_Date: 2025-03-09
+Checkpoint_Evaluated: Vibration levels baseline
+Result: Pass
+Inspector: QA-1 Inspector
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5011
+Asset_ID: PMP-GR-32
+Equipment_Name: Grundfos CR-10
+Inspection_Date: 2025-05-26
+Checkpoint_Evaluated: Mechanical seal leakage rate
+Result: Pass
+Inspector: QA-2 Lead Tech
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5012
+Asset_ID: MTR-AB-50
+Equipment_Name: ABB M3BP-160
+Inspection_Date: 2025-02-03
+Checkpoint_Evaluated: Frame grounding integrity
+Result: Pass
+Inspector: QA-1 Inspector
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5013
+Asset_ID: MTR-SI-19
+Equipment_Name: Siemens 1LE1001-1B
+Inspection_Date: 2025-08-24
+Checkpoint_Evaluated: Frame grounding integrity
+Result: Pass
+Inspector: QA-1 Inspector
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5014
+Asset_ID: PMP-KS-21
+Equipment_Name: KSB Omega-50
+Inspection_Date: 2025-01-06
+Checkpoint_Evaluated: Coupling alignment
+Result: Pass
+Inspector: QA-2 Lead Tech
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5015
+Asset_ID: PMP-KS-05
+Equipment_Name: KSB Omega-125
+Inspection_Date: 2026-03-19
+Checkpoint_Evaluated: Coupling alignment
+Result: Pass
+Inspector: QA-2 Lead Tech
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5016
+Asset_ID: MTR-AB-18
+Equipment_Name: ABB M3BP-180
+Inspection_Date: 2025-08-17
+Checkpoint_Evaluated: Stator temperature parameters
+Result: Pass
+Inspector: QA-2 Lead Tech
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5017
+Asset_ID: PMP-GR-28
+Equipment_Name: Grundfos CR-15
+Inspection_Date: 2025-10-04
+Checkpoint_Evaluated: Vibration levels baseline
+Result: Pass
+Inspector: Chief Inspector
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5018
+Asset_ID: MTR-AB-42
+Equipment_Name: ABB M3BP-200
+Inspection_Date: 2025-01-04
+Checkpoint_Evaluated: Amperage draw balanced
+Result: Pass
+Inspector: QA-2 Lead Tech
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5019
+Asset_ID: MTR-AB-22
+Equipment_Name: ABB M3BP-180
+Inspection_Date: 2025-12-16
+Checkpoint_Evaluated: Frame grounding integrity
+Result: Pass
+Inspector: QA-1 Inspector
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5020
+Asset_ID: PMP-KS-21
+Equipment_Name: KSB Omega-50
+Inspection_Date: 2025-09-04
+Checkpoint_Evaluated: Mechanical seal leakage rate
+Result: Pass
+Inspector: Chief Inspector
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5021
+Asset_ID: MTR-AB-06
+Equipment_Name: ABB M3BP-225
+Inspection_Date: 2025-08-17
+Checkpoint_Evaluated: Terminal box terminal secure
+Result: Fail
+Inspector: QA-2 Lead Tech
+Remarks/Notes: Exceeded acceptable operational thresholds. Maintenance triggered.
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5022
+Asset_ID: PMP-KS-01
+Equipment_Name: KSB Omega-125
+Inspection_Date: 2025-11-18
+Checkpoint_Evaluated: Coupling alignment
+Result: Fail
+Inspector: Chief Inspector
+Remarks/Notes: Exceeded acceptable operational thresholds. Maintenance triggered.
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5023
+Asset_ID: PMP-KS-05
+Equipment_Name: KSB Omega-125
+Inspection_Date: 2025-12-01
+Checkpoint_Evaluated: Vibration levels baseline
+Result: Fail
+Inspector: QA-2 Lead Tech
+Remarks/Notes: Exceeded acceptable operational thresholds. Maintenance triggered.
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5024
+Asset_ID: PMP-KS-41
+Equipment_Name: KSB Omega-125
+Inspection_Date: 2026-03-11
+Checkpoint_Evaluated: Vibration levels baseline
+Result: Fail
+Inspector: Safety Officer Black
+Remarks/Notes: Exceeded acceptable operational thresholds. Maintenance triggered.
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5025
+Asset_ID: PMP-GR-12
+Equipment_Name: Grundfos CR-32
+Inspection_Date: 2025-07-22
+Checkpoint_Evaluated: Coupling alignment
+Result: Pass
+Inspector: QA-1 Inspector
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5026
+Asset_ID: MTR-AB-26
+Equipment_Name: ABB M3BP-200
+Inspection_Date: 2025-10-27
+Checkpoint_Evaluated: Stator temperature parameters
+Result: Pass
+Inspector: QA-2 Lead Tech
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5027
+Asset_ID: MTR-AB-46
+Equipment_Name: ABB M3BP-225
+Inspection_Date: 2025-11-20
+Checkpoint_Evaluated: Frame grounding integrity
+Result: Pass
+Inspector: Chief Inspector
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5028
+Asset_ID: MTR-AB-34
+Equipment_Name: ABB M3BP-180
+Inspection_Date: 2025-04-23
+Checkpoint_Evaluated: Terminal box terminal secure
+Result: Pass
+Inspector: QA-2 Lead Tech
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5029
+Asset_ID: PMP-KS-49
+Equipment_Name: KSB Omega-125
+Inspection_Date: 2025-05-22
+Checkpoint_Evaluated: Coupling alignment
+Result: Pass
+Inspector: QA-2 Lead Tech
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5030
+Asset_ID: MTR-AB-14
+Equipment_Name: ABB M3BP-225
+Inspection_Date: 2025-05-19
+Checkpoint_Evaluated: Frame grounding integrity
+Result: Pass
+Inspector: Safety Officer Black
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5031
+Asset_ID: MTR-AB-26
+Equipment_Name: ABB M3BP-200
+Inspection_Date: 2025-09-16
+Checkpoint_Evaluated: Stator temperature parameters
+Result: Pass
+Inspector: Chief Inspector
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5032
+Asset_ID: PMP-KS-45
+Equipment_Name: KSB Omega-80
+Inspection_Date: 2025-01-10
+Checkpoint_Evaluated: Suction/Discharge pressure checks
+Result: Pass
+Inspector: Chief Inspector
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5033
+Asset_ID: MTR-SI-27
+Equipment_Name: Siemens 1LE1001-2A
+Inspection_Date: 2026-01-21
+Checkpoint_Evaluated: Stator temperature parameters
+Result: Pass
+Inspector: Chief Inspector
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5034
+Asset_ID: PMP-KS-09
+Equipment_Name: KSB Omega-100
+Inspection_Date: 2025-11-17
+Checkpoint_Evaluated: Mechanical seal leakage rate
+Result: Pass
+Inspector: QA-1 Inspector
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5035
+Asset_ID: MTR-AB-26
+Equipment_Name: ABB M3BP-200
+Inspection_Date: 2025-09-22
+Checkpoint_Evaluated: Frame grounding integrity
+Result: Pass
+Inspector: QA-2 Lead Tech
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5036
+Asset_ID: MTR-SI-47
+Equipment_Name: Siemens 1LE1001-1A
+Inspection_Date: 2026-02-23
+Checkpoint_Evaluated: Amperage draw balanced
+Result: Pass
+Inspector: QA-1 Inspector
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5037
+Asset_ID: MTR-AB-22
+Equipment_Name: ABB M3BP-180
+Inspection_Date: 2025-11-14
+Checkpoint_Evaluated: Terminal box terminal secure
+Result: Fail
+Inspector: QA-2 Lead Tech
+Remarks/Notes: Exceeded acceptable operational thresholds. Maintenance triggered.
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5038
+Asset_ID: MTR-SI-47
+Equipment_Name: Siemens 1LE1001-1A
+Inspection_Date: 2026-01-08
+Checkpoint_Evaluated: Terminal box terminal secure
+Result: Fail
+Inspector: QA-2 Lead Tech
+Remarks/Notes: Exceeded acceptable operational thresholds. Maintenance triggered.
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5039
+Asset_ID: MTR-AB-30
+Equipment_Name: ABB M3BP-225
+Inspection_Date: 2025-03-17
+Checkpoint_Evaluated: Frame grounding integrity
+Result: Pass
+Inspector: Chief Inspector
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5040
+Asset_ID: MTR-SI-43
+Equipment_Name: Siemens 1LE1001-1B
+Inspection_Date: 2025-11-16
+Checkpoint_Evaluated: Amperage draw balanced
+Result: Pass
+Inspector: QA-1 Inspector
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5041
+Asset_ID: PMP-GR-48
+Equipment_Name: Grundfos CR-64
+Inspection_Date: 2025-11-24
+Checkpoint_Evaluated: Mechanical seal leakage rate
+Result: Pass
+Inspector: QA-2 Lead Tech
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5042
+Asset_ID: PMP-KS-17
+Equipment_Name: KSB Omega-50
+Inspection_Date: 2025-11-12
+Checkpoint_Evaluated: Vibration levels baseline
+Result: Pass
+Inspector: QA-1 Inspector
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5043
+Asset_ID: MTR-AB-26
+Equipment_Name: ABB M3BP-200
+Inspection_Date: 2025-01-05
+Checkpoint_Evaluated: Frame grounding integrity
+Result: Pass
+Inspector: QA-2 Lead Tech
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5044
+Asset_ID: PMP-GR-36
+Equipment_Name: Grundfos CR-45
+Inspection_Date: 2025-03-03
+Checkpoint_Evaluated: Coupling alignment
+Result: Pass
+Inspector: QA-2 Lead Tech
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5045
+Asset_ID: PMP-KS-01
+Equipment_Name: KSB Omega-125
+Inspection_Date: 2025-03-30
+Checkpoint_Evaluated: Vibration levels baseline
+Result: Pass
+Inspector: Safety Officer Black
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5046
+Asset_ID: PMP-GR-08
+Equipment_Name: Grundfos CR-15
+Inspection_Date: 2025-04-14
+Checkpoint_Evaluated: Vibration levels baseline
+Result: Pass
+Inspector: QA-1 Inspector
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5047
+Asset_ID: PMP-KS-49
+Equipment_Name: KSB Omega-125
+Inspection_Date: 2026-02-26
+Checkpoint_Evaluated: Suction/Discharge pressure checks
+Result: Pass
+Inspector: Safety Officer Black
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5048
+Asset_ID: MTR-SI-35
+Equipment_Name: Siemens 1LE1001-1A
+Inspection_Date: 2025-06-02
+Checkpoint_Evaluated: Stator temperature parameters
+Result: Pass
+Inspector: Safety Officer Black
+Remarks/Notes: All parameters nominal
+
+======================================
+
+========== Data Record ==========
+
+Inspection_ID: INSP-5049
+Asset_ID: MTR-SI-15
+Equipment_Name: Siemens 1LE1001-1A
+Inspection_Date: 2026-03-26
+Checkpoint_Evaluated: Amperage draw balanced
+Result: Pass
+Inspector: Chief Inspector
+Remarks/Notes: All parameters nominal
+
+======================================

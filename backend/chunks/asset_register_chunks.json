@@ -1,0 +1,652 @@
+[
+  {
+    "chunk_id": "PMP-KS-01_001",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 1,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: PMP-KS-01\nManufacturer: KSB\nModel_Number: Omega-125\nCategory: Pump\nSpecification: 45 m\u00b3/h, 40m\nLocation: Zone Alpha\nInstallation_Date: 2024-03-26\nCriticality: Medium",
+    "metadata": {
+      "asset_id": "PMP-KS-01"
+    },
+    "word_count": 19
+  },
+  {
+    "chunk_id": "MTR-AB-02_002",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 2,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: MTR-AB-02\nManufacturer: ABB\nModel_Number: M3BP-160\nCategory: Motor\nSpecification: 11 kW, 1450 RPM\nLocation: Zone Alpha\nInstallation_Date: 2024-02-27\nCriticality: Critical",
+    "metadata": {
+      "asset_id": "MTR-AB-02"
+    },
+    "word_count": 20
+  },
+  {
+    "chunk_id": "MTR-SI-03_003",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 3,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: MTR-SI-03\nManufacturer: Siemens\nModel_Number: 1LE1001-2A\nCategory: Motor\nSpecification: 22 kW, 1450 RPM\nLocation: Zone Alpha\nInstallation_Date: 2022-01-27\nCriticality: Medium",
+    "metadata": {
+      "asset_id": "MTR-SI-03"
+    },
+    "word_count": 20
+  },
+  {
+    "chunk_id": "PMP-GR-04_004",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 4,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: PMP-GR-04\nManufacturer: Grundfos\nModel_Number: CR-10\nCategory: Pump\nSpecification: 30 m\u00b3/h, 40m\nLocation: Zone Beta\nInstallation_Date: 2021-08-19\nCriticality: High",
+    "metadata": {
+      "asset_id": "PMP-GR-04"
+    },
+    "word_count": 19
+  },
+  {
+    "chunk_id": "PMP-KS-05_005",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 5,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: PMP-KS-05\nManufacturer: KSB\nModel_Number: Omega-125\nCategory: Pump\nSpecification: 30 m\u00b3/h, 40m\nLocation: Zone Utility\nInstallation_Date: 2023-02-19\nCriticality: High",
+    "metadata": {
+      "asset_id": "PMP-KS-05"
+    },
+    "word_count": 19
+  },
+  {
+    "chunk_id": "MTR-AB-06_006",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 6,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: MTR-AB-06\nManufacturer: ABB\nModel_Number: M3BP-225\nCategory: Motor\nSpecification: 55 kW, 1450 RPM\nLocation: Zone Utility\nInstallation_Date: 2022-12-27\nCriticality: Medium",
+    "metadata": {
+      "asset_id": "MTR-AB-06"
+    },
+    "word_count": 20
+  },
+  {
+    "chunk_id": "MTR-SI-07_007",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 7,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: MTR-SI-07\nManufacturer: Siemens\nModel_Number: 1LE1001-1A\nCategory: Motor\nSpecification: 22 kW, 1450 RPM\nLocation: Zone Gamma\nInstallation_Date: 2022-10-05\nCriticality: Medium",
+    "metadata": {
+      "asset_id": "MTR-SI-07"
+    },
+    "word_count": 20
+  },
+  {
+    "chunk_id": "PMP-GR-08_008",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 8,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: PMP-GR-08\nManufacturer: Grundfos\nModel_Number: CR-15\nCategory: Pump\nSpecification: 30 m\u00b3/h, 80m\nLocation: Zone Beta\nInstallation_Date: 2023-05-21\nCriticality: Critical",
+    "metadata": {
+      "asset_id": "PMP-GR-08"
+    },
+    "word_count": 19
+  },
+  {
+    "chunk_id": "PMP-KS-09_009",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 9,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: PMP-KS-09\nManufacturer: KSB\nModel_Number: Omega-100\nCategory: Pump\nSpecification: 30 m\u00b3/h, 60m\nLocation: Zone Beta\nInstallation_Date: 2023-06-11\nCriticality: Critical",
+    "metadata": {
+      "asset_id": "PMP-KS-09"
+    },
+    "word_count": 19
+  },
+  {
+    "chunk_id": "MTR-AB-10_010",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 10,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: MTR-AB-10\nManufacturer: ABB\nModel_Number: M3BP-200\nCategory: Motor\nSpecification: 11 kW, 2950 RPM\nLocation: Zone Alpha\nInstallation_Date: 2021-04-06\nCriticality: High",
+    "metadata": {
+      "asset_id": "MTR-AB-10"
+    },
+    "word_count": 20
+  },
+  {
+    "chunk_id": "MTR-SI-11_011",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 11,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: MTR-SI-11\nManufacturer: Siemens\nModel_Number: 1LE1001-1A\nCategory: Motor\nSpecification: 55 kW, 1450 RPM\nLocation: Zone Gamma\nInstallation_Date: 2022-06-25\nCriticality: High",
+    "metadata": {
+      "asset_id": "MTR-SI-11"
+    },
+    "word_count": 20
+  },
+  {
+    "chunk_id": "PMP-GR-12_012",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 12,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: PMP-GR-12\nManufacturer: Grundfos\nModel_Number: CR-32\nCategory: Pump\nSpecification: 30 m\u00b3/h, 60m\nLocation: Zone Utility\nInstallation_Date: 2022-08-01\nCriticality: High",
+    "metadata": {
+      "asset_id": "PMP-GR-12"
+    },
+    "word_count": 19
+  },
+  {
+    "chunk_id": "PMP-KS-13_013",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 13,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: PMP-KS-13\nManufacturer: KSB\nModel_Number: Omega-80\nCategory: Pump\nSpecification: 15 m\u00b3/h, 40m\nLocation: Zone Beta\nInstallation_Date: 2023-03-07\nCriticality: Medium",
+    "metadata": {
+      "asset_id": "PMP-KS-13"
+    },
+    "word_count": 19
+  },
+  {
+    "chunk_id": "MTR-AB-14_014",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 14,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: MTR-AB-14\nManufacturer: ABB\nModel_Number: M3BP-225\nCategory: Motor\nSpecification: 37 kW, 2950 RPM\nLocation: Zone Beta\nInstallation_Date: 2021-07-09\nCriticality: Critical",
+    "metadata": {
+      "asset_id": "MTR-AB-14"
+    },
+    "word_count": 20
+  },
+  {
+    "chunk_id": "MTR-SI-15_015",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 15,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: MTR-SI-15\nManufacturer: Siemens\nModel_Number: 1LE1001-1A\nCategory: Motor\nSpecification: 22 kW, 2950 RPM\nLocation: Zone Alpha\nInstallation_Date: 2022-09-20\nCriticality: High",
+    "metadata": {
+      "asset_id": "MTR-SI-15"
+    },
+    "word_count": 20
+  },
+  {
+    "chunk_id": "PMP-GR-16_016",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 16,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: PMP-GR-16\nManufacturer: Grundfos\nModel_Number: CR-32\nCategory: Pump\nSpecification: 30 m\u00b3/h, 60m\nLocation: Zone Utility\nInstallation_Date: 2022-10-11\nCriticality: High",
+    "metadata": {
+      "asset_id": "PMP-GR-16"
+    },
+    "word_count": 19
+  },
+  {
+    "chunk_id": "PMP-KS-17_017",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 17,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: PMP-KS-17\nManufacturer: KSB\nModel_Number: Omega-50\nCategory: Pump\nSpecification: 30 m\u00b3/h, 60m\nLocation: Zone Utility\nInstallation_Date: 2022-10-26\nCriticality: Medium",
+    "metadata": {
+      "asset_id": "PMP-KS-17"
+    },
+    "word_count": 19
+  },
+  {
+    "chunk_id": "MTR-AB-18_018",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 18,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: MTR-AB-18\nManufacturer: ABB\nModel_Number: M3BP-180\nCategory: Motor\nSpecification: 11 kW, 2950 RPM\nLocation: Zone Alpha\nInstallation_Date: 2022-03-18\nCriticality: Medium",
+    "metadata": {
+      "asset_id": "MTR-AB-18"
+    },
+    "word_count": 20
+  },
+  {
+    "chunk_id": "MTR-SI-19_019",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 19,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: MTR-SI-19\nManufacturer: Siemens\nModel_Number: 1LE1001-1B\nCategory: Motor\nSpecification: 15 kW, 1450 RPM\nLocation: Zone Alpha\nInstallation_Date: 2023-08-10\nCriticality: Critical",
+    "metadata": {
+      "asset_id": "MTR-SI-19"
+    },
+    "word_count": 20
+  },
+  {
+    "chunk_id": "PMP-GR-20_020",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 20,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: PMP-GR-20\nManufacturer: Grundfos\nModel_Number: CR-10\nCategory: Pump\nSpecification: 22 m\u00b3/h, 60m\nLocation: Zone Utility\nInstallation_Date: 2023-05-05\nCriticality: High",
+    "metadata": {
+      "asset_id": "PMP-GR-20"
+    },
+    "word_count": 19
+  },
+  {
+    "chunk_id": "PMP-KS-21_021",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 21,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: PMP-KS-21\nManufacturer: KSB\nModel_Number: Omega-50\nCategory: Pump\nSpecification: 15 m\u00b3/h, 80m\nLocation: Zone Beta\nInstallation_Date: 2024-02-28\nCriticality: High",
+    "metadata": {
+      "asset_id": "PMP-KS-21"
+    },
+    "word_count": 19
+  },
+  {
+    "chunk_id": "MTR-AB-22_022",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 22,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: MTR-AB-22\nManufacturer: ABB\nModel_Number: M3BP-180\nCategory: Motor\nSpecification: 37 kW, 1450 RPM\nLocation: Zone Gamma\nInstallation_Date: 2021-05-03\nCriticality: High",
+    "metadata": {
+      "asset_id": "MTR-AB-22"
+    },
+    "word_count": 20
+  },
+  {
+    "chunk_id": "MTR-SI-23_023",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 23,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: MTR-SI-23\nManufacturer: Siemens\nModel_Number: 1LE1001-1B\nCategory: Motor\nSpecification: 55 kW, 2950 RPM\nLocation: Zone Beta\nInstallation_Date: 2021-07-17\nCriticality: High",
+    "metadata": {
+      "asset_id": "MTR-SI-23"
+    },
+    "word_count": 20
+  },
+  {
+    "chunk_id": "PMP-GR-24_024",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 24,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: PMP-GR-24\nManufacturer: Grundfos\nModel_Number: CR-10\nCategory: Pump\nSpecification: 15 m\u00b3/h, 80m\nLocation: Zone Beta\nInstallation_Date: 2022-04-09\nCriticality: Critical",
+    "metadata": {
+      "asset_id": "PMP-GR-24"
+    },
+    "word_count": 19
+  },
+  {
+    "chunk_id": "PMP-KS-25_025",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 25,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: PMP-KS-25\nManufacturer: KSB\nModel_Number: Omega-125\nCategory: Pump\nSpecification: 45 m\u00b3/h, 80m\nLocation: Zone Utility\nInstallation_Date: 2022-02-07\nCriticality: Medium",
+    "metadata": {
+      "asset_id": "PMP-KS-25"
+    },
+    "word_count": 19
+  },
+  {
+    "chunk_id": "MTR-AB-26_026",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 26,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: MTR-AB-26\nManufacturer: ABB\nModel_Number: M3BP-200\nCategory: Motor\nSpecification: 22 kW, 2950 RPM\nLocation: Zone Utility\nInstallation_Date: 2022-05-04\nCriticality: High",
+    "metadata": {
+      "asset_id": "MTR-AB-26"
+    },
+    "word_count": 20
+  },
+  {
+    "chunk_id": "MTR-SI-27_027",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 27,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: MTR-SI-27\nManufacturer: Siemens\nModel_Number: 1LE1001-2A\nCategory: Motor\nSpecification: 15 kW, 2950 RPM\nLocation: Zone Alpha\nInstallation_Date: 2022-04-18\nCriticality: High",
+    "metadata": {
+      "asset_id": "MTR-SI-27"
+    },
+    "word_count": 20
+  },
+  {
+    "chunk_id": "PMP-GR-28_028",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 28,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: PMP-GR-28\nManufacturer: Grundfos\nModel_Number: CR-15\nCategory: Pump\nSpecification: 30 m\u00b3/h, 80m\nLocation: Zone Utility\nInstallation_Date: 2021-05-24\nCriticality: Medium",
+    "metadata": {
+      "asset_id": "PMP-GR-28"
+    },
+    "word_count": 19
+  },
+  {
+    "chunk_id": "PMP-KS-29_029",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 29,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: PMP-KS-29\nManufacturer: KSB\nModel_Number: Omega-50\nCategory: Pump\nSpecification: 45 m\u00b3/h, 40m\nLocation: Zone Beta\nInstallation_Date: 2023-06-16\nCriticality: Critical",
+    "metadata": {
+      "asset_id": "PMP-KS-29"
+    },
+    "word_count": 19
+  },
+  {
+    "chunk_id": "MTR-AB-30_030",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 30,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: MTR-AB-30\nManufacturer: ABB\nModel_Number: M3BP-225\nCategory: Motor\nSpecification: 55 kW, 1450 RPM\nLocation: Zone Utility\nInstallation_Date: 2023-10-12\nCriticality: High",
+    "metadata": {
+      "asset_id": "MTR-AB-30"
+    },
+    "word_count": 20
+  },
+  {
+    "chunk_id": "MTR-SI-31_031",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 31,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: MTR-SI-31\nManufacturer: Siemens\nModel_Number: 1LE1001-1C\nCategory: Motor\nSpecification: 22 kW, 2950 RPM\nLocation: Zone Utility\nInstallation_Date: 2024-02-29\nCriticality: Medium",
+    "metadata": {
+      "asset_id": "MTR-SI-31"
+    },
+    "word_count": 20
+  },
+  {
+    "chunk_id": "PMP-GR-32_032",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 32,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: PMP-GR-32\nManufacturer: Grundfos\nModel_Number: CR-10\nCategory: Pump\nSpecification: 45 m\u00b3/h, 80m\nLocation: Zone Alpha\nInstallation_Date: 2021-04-14\nCriticality: High",
+    "metadata": {
+      "asset_id": "PMP-GR-32"
+    },
+    "word_count": 19
+  },
+  {
+    "chunk_id": "PMP-KS-33_033",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 33,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: PMP-KS-33\nManufacturer: KSB\nModel_Number: Omega-100\nCategory: Pump\nSpecification: 45 m\u00b3/h, 60m\nLocation: Zone Alpha\nInstallation_Date: 2021-04-09\nCriticality: Medium",
+    "metadata": {
+      "asset_id": "PMP-KS-33"
+    },
+    "word_count": 19
+  },
+  {
+    "chunk_id": "MTR-AB-34_034",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 34,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: MTR-AB-34\nManufacturer: ABB\nModel_Number: M3BP-180\nCategory: Motor\nSpecification: 15 kW, 2950 RPM\nLocation: Zone Beta\nInstallation_Date: 2024-04-01\nCriticality: High",
+    "metadata": {
+      "asset_id": "MTR-AB-34"
+    },
+    "word_count": 20
+  },
+  {
+    "chunk_id": "MTR-SI-35_035",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 35,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: MTR-SI-35\nManufacturer: Siemens\nModel_Number: 1LE1001-1A\nCategory: Motor\nSpecification: 37 kW, 1450 RPM\nLocation: Zone Utility\nInstallation_Date: 2023-03-12\nCriticality: High",
+    "metadata": {
+      "asset_id": "MTR-SI-35"
+    },
+    "word_count": 20
+  },
+  {
+    "chunk_id": "PMP-GR-36_036",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 36,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: PMP-GR-36\nManufacturer: Grundfos\nModel_Number: CR-45\nCategory: Pump\nSpecification: 45 m\u00b3/h, 80m\nLocation: Zone Gamma\nInstallation_Date: 2022-02-05\nCriticality: High",
+    "metadata": {
+      "asset_id": "PMP-GR-36"
+    },
+    "word_count": 19
+  },
+  {
+    "chunk_id": "PMP-KS-37_037",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 37,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: PMP-KS-37\nManufacturer: KSB\nModel_Number: Omega-125\nCategory: Pump\nSpecification: 45 m\u00b3/h, 80m\nLocation: Zone Gamma\nInstallation_Date: 2022-04-15\nCriticality: High",
+    "metadata": {
+      "asset_id": "PMP-KS-37"
+    },
+    "word_count": 19
+  },
+  {
+    "chunk_id": "MTR-AB-38_038",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 38,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: MTR-AB-38\nManufacturer: ABB\nModel_Number: M3BP-180\nCategory: Motor\nSpecification: 55 kW, 1450 RPM\nLocation: Zone Beta\nInstallation_Date: 2021-01-27\nCriticality: Medium",
+    "metadata": {
+      "asset_id": "MTR-AB-38"
+    },
+    "word_count": 20
+  },
+  {
+    "chunk_id": "MTR-SI-39_039",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 39,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: MTR-SI-39\nManufacturer: Siemens\nModel_Number: 1LE1001-1B\nCategory: Motor\nSpecification: 11 kW, 2950 RPM\nLocation: Zone Gamma\nInstallation_Date: 2023-08-18\nCriticality: Medium",
+    "metadata": {
+      "asset_id": "MTR-SI-39"
+    },
+    "word_count": 20
+  },
+  {
+    "chunk_id": "PMP-GR-40_040",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 40,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: PMP-GR-40\nManufacturer: Grundfos\nModel_Number: CR-45\nCategory: Pump\nSpecification: 15 m\u00b3/h, 80m\nLocation: Zone Utility\nInstallation_Date: 2022-07-01\nCriticality: Medium",
+    "metadata": {
+      "asset_id": "PMP-GR-40"
+    },
+    "word_count": 19
+  },
+  {
+    "chunk_id": "PMP-KS-41_041",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 41,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: PMP-KS-41\nManufacturer: KSB\nModel_Number: Omega-125\nCategory: Pump\nSpecification: 15 m\u00b3/h, 60m\nLocation: Zone Alpha\nInstallation_Date: 2023-12-06\nCriticality: Medium",
+    "metadata": {
+      "asset_id": "PMP-KS-41"
+    },
+    "word_count": 19
+  },
+  {
+    "chunk_id": "MTR-AB-42_042",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 42,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: MTR-AB-42\nManufacturer: ABB\nModel_Number: M3BP-200\nCategory: Motor\nSpecification: 37 kW, 1450 RPM\nLocation: Zone Alpha\nInstallation_Date: 2021-10-07\nCriticality: High",
+    "metadata": {
+      "asset_id": "MTR-AB-42"
+    },
+    "word_count": 20
+  },
+  {
+    "chunk_id": "MTR-SI-43_043",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 43,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: MTR-SI-43\nManufacturer: Siemens\nModel_Number: 1LE1001-1B\nCategory: Motor\nSpecification: 55 kW, 1450 RPM\nLocation: Zone Gamma\nInstallation_Date: 2022-12-01\nCriticality: Medium",
+    "metadata": {
+      "asset_id": "MTR-SI-43"
+    },
+    "word_count": 20
+  },
+  {
+    "chunk_id": "PMP-GR-44_044",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 44,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: PMP-GR-44\nManufacturer: Grundfos\nModel_Number: CR-64\nCategory: Pump\nSpecification: 15 m\u00b3/h, 80m\nLocation: Zone Alpha\nInstallation_Date: 2021-05-08\nCriticality: High",
+    "metadata": {
+      "asset_id": "PMP-GR-44"
+    },
+    "word_count": 19
+  },
+  {
+    "chunk_id": "PMP-KS-45_045",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 45,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: PMP-KS-45\nManufacturer: KSB\nModel_Number: Omega-80\nCategory: Pump\nSpecification: 30 m\u00b3/h, 60m\nLocation: Zone Beta\nInstallation_Date: 2022-11-17\nCriticality: Critical",
+    "metadata": {
+      "asset_id": "PMP-KS-45"
+    },
+    "word_count": 19
+  },
+  {
+    "chunk_id": "MTR-AB-46_046",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 46,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: MTR-AB-46\nManufacturer: ABB\nModel_Number: M3BP-225\nCategory: Motor\nSpecification: 15 kW, 1450 RPM\nLocation: Zone Gamma\nInstallation_Date: 2022-05-05\nCriticality: Medium",
+    "metadata": {
+      "asset_id": "MTR-AB-46"
+    },
+    "word_count": 20
+  },
+  {
+    "chunk_id": "MTR-SI-47_047",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 47,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: MTR-SI-47\nManufacturer: Siemens\nModel_Number: 1LE1001-1A\nCategory: Motor\nSpecification: 11 kW, 1450 RPM\nLocation: Zone Gamma\nInstallation_Date: 2021-09-03\nCriticality: High",
+    "metadata": {
+      "asset_id": "MTR-SI-47"
+    },
+    "word_count": 20
+  },
+  {
+    "chunk_id": "PMP-GR-48_048",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 48,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: PMP-GR-48\nManufacturer: Grundfos\nModel_Number: CR-64\nCategory: Pump\nSpecification: 22 m\u00b3/h, 80m\nLocation: Zone Beta\nInstallation_Date: 2023-07-10\nCriticality: High",
+    "metadata": {
+      "asset_id": "PMP-GR-48"
+    },
+    "word_count": 19
+  },
+  {
+    "chunk_id": "PMP-KS-49_049",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 49,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: PMP-KS-49\nManufacturer: KSB\nModel_Number: Omega-125\nCategory: Pump\nSpecification: 22 m\u00b3/h, 80m\nLocation: Zone Alpha\nInstallation_Date: 2021-02-05\nCriticality: Medium",
+    "metadata": {
+      "asset_id": "PMP-KS-49"
+    },
+    "word_count": 19
+  },
+  {
+    "chunk_id": "MTR-AB-50_050",
+    "document_name": "Asset_Register.xlsx",
+    "document_type": "Excel Record Set",
+    "chunk_number": 50,
+    "section_title": "Data",
+    "source_page": null,
+    "text": "Asset_ID: MTR-AB-50\nManufacturer: ABB\nModel_Number: M3BP-160\nCategory: Motor\nSpecification: 37 kW, 1450 RPM\nLocation: Zone Gamma\nInstallation_Date: 2024-03-12\nCriticality: High",
+    "metadata": {
+      "asset_id": "MTR-AB-50"
+    },
+    "word_count": 20
+  }
+]
